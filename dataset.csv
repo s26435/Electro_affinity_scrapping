@@ -1,0 +1,5690 @@
+Związek,EA (eV),smiles
+Isopropyl radical,-0.320000,C3H7
+Cyclobutyl radical,-0.317000,C4H7
+Cyclopentyl radical,-0.269000,C5H9
+Ethyl radical,-0.263000,C2H5
+PtCl4 dianion,-0.250000,Cl4Pt-2
+"1,3-Diazine",-0.250000,C4H4N2
+Cyclohexyl radical,-0.243000,C6H11
+Naphthalene,-0.200000,C10H8
+Tert-butyl radical,-0.162000,C4H9
+cycloheptanide anion,-0.156000,C7H13-
+Au21 dianion,-0.140000,Au21-2
+2-Butyl radical,-0.129000,C4H9
+CH2N(CH3)2,-0.118000,C3H8N
+n-Propyl radical,-0.065000,C3H7
+Pyrazine,-0.065000,C4H4N2
+PtBr4 dianion,-0.040000,Br4Pt-2
+"Methyl radical, methoxy-",-0.017000,C2H5O
+Phenanthrene,-0.010000,C14H10
+Acetaldehyde,0.000000,C2H4O
+"Propanal, 2,2-dimethyl-",0.001000,C5H10O
+Butanal,0.001000,C4H8O
+Cyclobutanone,0.001000,C4H6O
+Propanal,0.001000,C3H6O
+2-Butanone,0.001000,C4H8O
+p-Xylene,0.002000,C8H10
+Acetone,0.002000,C3H6O
+"Butanal, 2-ethyl-",0.002000,C6H12O
+Hydrogen cyanide,0.002000,CHN
+Cyclopentanone,0.002000,C5H8O
+"Benzene, (trifluoromethyl)-",0.002000,C7H5F3
+"Cyclopentanone, 2-methyl-",0.002000,C6H10O
+Acetone-D6,0.003000,C3D6O
+"Cyclopentanone, 3-methyl-",0.003000,C6H10O
+Cyclohexanone,0.003000,C6H10O
+Indole,0.004000,C8H7N
+"Cyclohexanone, 2-methyl-",0.004000,C7H12O
+Er anion,0.005000,Er-
+Ho anion,0.005000,Ho-
+"Cyclohexanone, 4-methyl-",0.006000,C7H12O
+Methylacrylonitrile,0.006000,C4H5N
+2-Propenenitrile,0.007000,C3H3N
+Dimethyl Sulfoxide,0.007000,C2H6OS
+"1,3-Butanediol",0.008000,C4H10O2
+"Cyclohexanone, 3-methyl-",0.009000,C7H12O
+HCONH2..HCONMe2 radical anion,0.010000,C4H10N2O2-
+Yb anion,0.010000,Yb-
+[2H3]acetonitrile,0.011000,C2D3N
+Acetonitrile,0.011000,C2H3N
+(HCONH2)2 radical anion,0.012000,C2H6N2O2-
+"Butanenitrile, 3-methyl-",0.012000,C5H9N
+Isobutyronitrile,0.012000,C4H7N
+Pyridazine,0.012000,C4H4N2
+Adenine,0.012000,C5H5N5
+"Sulfoxide, ethyl methyl",0.012000,C3H8OS
+Pentanenitrile,0.013000,C5H9N
+"Propanenitrile, 2,2-dimethyl-",0.013000,C5H9N
+2-Methylbutanenitrile radical,0.013000,C5H9N
+"1,3,2-Dioxathiolane, 2-oxide",0.013000,C2H4O3S
+"Formamide, N,N-dimethyl-",0.014000,C3H7NO
+Dy anion,0.015000,Dy-
+Propanenitrile,0.015000,C3H5N
+"Formamide, N-methyl-",0.016000,C2H5NO
+Butanenitrile,0.016000,C4H7N
+Formamide,0.017000,CH3NO
+"Thiophene, tetrahydro-, 1-oxide",0.018000,C4H8OS
+C70 dianion,0.020000,C70-2
+MeN radical,0.022000,CH3N
+calcium,0.025000,Ca
+Ar..pyrazine radical anion,0.025000,C4H4ArN2-
+Nitric oxide anion,0.026000,NO-
+BD3 radical,0.027000,BD3
+H2O..naphthalene radical anion,0.030000,C10H10O-
+benzene..naphthalene radical anion,0.030000,C16H14-
+Borane,0.038000,BH3
+"2,4(1H,3H)-Pyrimidinedione, 1,3-dimethyl-",0.040000,C6H8N2O2
+1-Methylthymine,0.045000,C6H8N2O2
+"Benzene, 1,2,4,5-tetramethyl-",0.048000,C10H14
+"2,2'-Bithiophene",0.049000,C8H6S2
+Sm anion,0.050000,Sm-
+(H2O)2 radical anion,0.050000,H4O2-
+Isobutyl radical,0.052000,C4H9
+strontium,0.052000,Sr
+(Ar)2..pyrazine radical anion,0.058000,C4H4Ar2N2-
+(HF)2 radical anion,0.063000,F2H2-
+Thymine,0.069000,C5H6N2O2
+Ru6C(CO)9 dianion,0.080000,C10O9Ru6-2
+Methyl radical,0.080000,CH3
+Ar..NO anion,0.084000,ArNO-
+Uracil,0.086000,C4H4N2O2
+titanium,0.087000,Ti
+But-3-en-1-yl radical,0.091000,C4H7
+(Ar)3..pyrazine radical anion,0.092000,C4H4Ar3N2-
+"Benzene, 1,2-dichloro-",0.094000,C6H4Cl2
+Difluorosilylene,0.100000,F2Si
+"Ethene, 1,1-dichloro-",0.100000,C2H2Cl2
+Hf anion,0.100000,Hf-
+Gd anion,0.100000,Gd-
+Kr..uracil radical anion,0.101000,C4H4KrN2O2-
+"(2,2'-bis(thiophene))2 radical anion",0.108000,C16H12S4-
+Butanedinitrile,0.108000,C4H4N2
+"Benzene, 1,2,3,5-tetramethyl-",0.108000,C10H14
+(naphthalene)2 radical anion,0.110000,C20H16-
+"Methane, iodo-",0.110000,CH3I
+Xe..uracil radical anion,0.111000,C4H4N2O2Xe-
+C60O3 anion,0.121000,C60O3-
+"Benzene, hexamethyl-",0.121000,C12H18
+Kr..NO anion,0.125000,KrNO-
+(Ar)4..pyrazine radical anion,0.125000,C4H4Ar4N2-
+(H2O)3 radical anion,0.130000,H6O3-
+(biphenyl)2 radical anion,0.130000,C24H20-
+Biphenyl,0.130000,C12H10
+adamantan-1-ide anion,0.143000,C10H15-
+"Naphthalene, 2-methyl-",0.143000,C11H10
+barium,0.145000,Ba
+"Naphthalene, 1-ethyl-",0.147000,C12H12
+(Ar)2..NO anion,0.150000,Ar2NO-
+"Acetic acid, phenylmethyl ester",0.150000,C9H10O2
+iron,0.151000,Fe
+(Ar)5..pyrazine radical anion,0.152000,C4H4Ar5N2-
+cPrCH2 anion,0.156000,C4H7-
+Diphenylmethane,0.156000,C13H12
+"Naphthalene, 2,6-dimethyl-",0.160000,C12H12
+"Naphthalene, 1-methyl-",0.160000,C11H10
+"Methane, nitro-",0.172000,CH3NO2
+"Naphthalene, 2,3-dimethyl-",0.173000,C12H12
+Indene,0.173000,C9H8
+(Ar)6..pyrazine radical anion,0.177000,C4H4Ar6N2-
+(benzene)2Ti anion,0.180000,C12H12Ti-
+"Methylene, difluoro-",0.180000,CF2
+"Benzoic acid, methyl ester",0.180000,C8H8O2
+"Benzene, pentamethyl-",0.182000,C11H16
+scandium,0.189000,Sc
+EtNO2 radical anion,0.191000,C2H5NO2-
+Xe..NO anion,0.193000,NOXe-
+"Naphthalene, 2-ethyl-",0.195000,C12H12
+"1,2-O2C-C6H4-CO2 dianion",0.200000,C8H4O4-2
+(benzene)2..naphthalene radical anion,0.200000,C22H20-
+Au23,0.200000,Au23
+(Ar)7..pyrazine radical anion,0.204000,C4H4Ar7N2-
+Carbon monosulfide,0.205000,CS
+(Ar)3..NO anion,0.208000,Ar3NO-
+"1,3-O2C-C6H4-CO2 dianion",0.210000,C8H4O4-2
+Cu(NCS)2 anion,0.213000,C2CuN2S2-
+"2,3,5,6-Tetrafluoroanisole",0.217000,C7H4F4O
+CH2=CHCH(NMe2) anion,0.219000,C5H10N-
+Nitrous oxide,0.220000,N2O
+Me2CO..naphthalene radical anion,0.220000,C13H14O-
+CH2=CHC(Me)2CH2 anion,0.221000,C6H11-
+LiO anion,0.221000,LiO-
+nPrNO2 radical anion,0.223000,C3H7NO2-
+Neopentyl radical,0.225000,C5H11
+"Disulfide, dimethyl",0.230000,C2H6S2
+Cytosine,0.230000,C4H5N3O
+Potassium fluoride,0.230000,FK
+(Ar)8..pyrazine radical anion,0.231000,C4H4Ar8N2-
+"Cyclobutene, hexafluoro-",0.237000,C4F6
+cyclobuten-3-ide anion,0.240000,C4H5-
+nBuNO2 radical anion,0.240000,C4H9NO2-
+(HF)3 radical anion,0.240000,F3H3-
+nitro(2H3)methane,0.240000,CD3NO2
+"Naphthalene, 1,4-dimethyl-",0.247000,C12H12
+N2O..NO anion,0.248000,N3O2-
+(KI)4 radical anion,0.250000,I4K4-
+benzene..pyrazine radical anion,0.250000,C10H10N2-
+Na2CS2,0.250000,CNaS2
+Fluoromethyl radical,0.252000,CH2F
+CH2=CHCH(OMe) anion,0.255000,C4H7O-
+Benzonitrile,0.256000,C7H5N
+(Ar)9..pyrazine radical anion,0.257000,C4H4Ar9N2-
+V2 anion,0.260000,V2-
+(Ar)4..NO anion,0.265000,Ar4NO-
+H2S..NO anion,0.268000,H2NOS-
+CsO radical anion,0.273000,CsO-
+"Naphthalene, 1-chloro-",0.277000,C10H7Cl
+Fluorene,0.278000,C13H10
+boron,0.280000,B
+(naphthalene)3 radical anion,0.280000,C30H24-
+(biphenyl)3 radical anion,0.280000,C36H30-
+(m-terphenyl)2 radical anion,0.280000,C36H28-
+mF-C6H4CH2OPh radical,0.282000,C13H11FO
+(Ar)10..pyrazine radical anion,0.282000,C4H4Ar10N2-
+Triphenylene,0.285000,C18H12
+H2O..adenine radical anion,0.290000,C5H7N5O-
+H2O..thymine radical anion,0.300000,C5H8N2O3-
+O2CCðCCO2 dianion,0.300000,C4O4-2
+Borane(1),0.300000,BH
+CeI2 radical,0.300000,CeI2
+"Acetonitrile, trichloro-",0.300000,C2Cl3N
+WOF3 radical,0.300000,F3OW
+cerium triiodide,0.300000,CeI3
+"1,3,5-Triphenylbenzene radical anion",0.300000,C24H18-
+(acenaphthene)4 radical anion,0.300000,C48H40-
+AlH3 radical anion,0.300000,AlH3-
+"Methyl-d1 radical, oxo-",0.301000,CDO
+yttrium,0.308000,Y
+Fe(SC(CN)=C(CN)S)2 dianion,0.310000,C8FeN4S4-2
+NH3..Na2 radical anion,0.310000,H3NNa2-
+Formyl radical,0.313000,CHO
+H2O..cytosine radical anion,0.320000,C4H7N3O2-
+(Ar)5..NO anion,0.320000,Ar5NO-
+Chrysene,0.320000,C18H12
+"Bicyclo[4.2.0]octa-1,3,5,7-tetraene",0.321000,C8H6
+Diphenylacetylene,0.321000,C14H10
+CeI radical,0.321000,CeI
+tantalum,0.323000,Ta
+C76 dianion,0.325000,C76-2
+Ps,0.327000,PS
+(o-terphenyl)2 radical anion,0.330000,C36H28-
+Boron trichloride,0.330000,BCl3
+Nitrosyl hydride-d1,0.330000,DNO
+Acetophenone,0.334000,C8H8O
+lithium (2H)hydride,0.337000,DLi
+Nitrosyl hydride,0.338000,HNO
+"Benzene, 1,3,5-trichloro-",0.340000,C6H3Cl3
+H2O..uracil radical anion,0.340000,C4H6N2O3-
+lutetium,0.340000,Lu
+lithium hydride,0.342000,HLi
+Bicyclo[1.1.0]but-1(3)-ene,0.347000,C4H4
+H2O..O2C(CH2)2CO2 dianion,0.350000,C4H6O5-2
+LaO4 radical anion,0.350000,LaO4-
+(H2O)4 radical anion,0.350000,H8O4-
+(C6H6)3V2 anion,0.350000,C18H18V2-
+CF3CH2CH2 anion,0.351000,C3H4F3-
+PhCH2CH2 anion,0.351000,C8H9-
+"1-Propanone, 1-phenyl-",0.351000,C9H10O
+(acenaphthene)5 radical anion,0.360000,C60H50-
+Au22,0.360000,Au22
+(Xe)2..NO anion,0.363000,NOXe2-
+lead,0.365000,Pb
+(NH3)2..Na2 radical anion,0.370000,H6N2Na2-
+Ru6(CO)10 dianion,0.370000,C10O10Ru6-2
+Imidogen,0.370000,HN
+(Ar)6..NO anion,0.372000,Ar6NO-
+"Benzaldehyde, 4-methyl-",0.373000,C8H8O
+2-Methylcyclopropyl,0.373000,C4H7
+CH2=CDCH2 anion,0.373000,C3H4D5-
+thallium,0.377000,Tl
+(H2O)2..naphthalene radical anion,0.380000,C10H12O2-
+Nb3 radical,0.380000,Nb3
+indium,0.384000,In
+BH2 anion,0.387000,BH2-
+p-Terphenyl radical anion,0.390000,C18H14-
+(E)-Stilbene,0.390000,C14H12
+Ru6C(CO)10 dianion,0.390000,C11O10Ru6-2
+Ru6(CO)11 dianion,0.390000,C11O11Ru6-2
+Benz[a]anthracene,0.390000,C18H12
+"Ethylene, 1,1-diphenyl-",0.390000,C14H12
+"Ethanone, 1-(4-fluorophenyl)-",0.395000,C8H7FO
+Dichlorodifluoromethane,0.399000,CCl2F2
+(H2O)3..SO4 dianion,0.400000,H6O7S-2
+(NH3)6..Na radical anion,0.400000,H18N6Na-
+(NH3)7..Na radical anion,0.400000,H21N7Na-
+(benzene)4Ti2 anion,0.400000,C24H24Ti2-
+VF2 radical,0.400000,F2V
+"Pyridine, 2,3,5,6-tetrafluoro-",0.400000,C5HF4N
+Trichloroethylene,0.400000,C2HCl3
+Thymidine,0.400000,C10H14N2O5
+Acenaphthylene,0.403000,C12H8
+Pyrene,0.406000,C16H10
+"Benzaldehyde, 3-methyl-",0.408000,C8H8O
+Co(SC(CN)=C(CN)S)2 dianion,0.410000,C8CoN4S4-2
+(H2O)2..adenine radical anion,0.410000,C5H9N5O2-
+(H2O)5 radical anion,0.410000,H10O5-
+(NH3)3..Na radical anion,0.410000,H9N3Na-
+(NH3)5..Na radical anion,0.410000,H15N5Na-
+(Ar)7..NO anion,0.410000,Ar7NO-
+(pyrazine)2 radical anion,0.410000,C8H8N4-
+(NH3)10..Li anion,0.410000,H30LiN10-
+Fullerene-C84,0.410000,C84
+(N2H7+) dianion,0.415000,H7N2-2
+CH2DCO anion,0.418000,C2H2D3O-
+(NH3)4..Na radical anion,0.420000,H12N4Na-
+Benzo[ghi]perylene,0.420000,C22H12
+(acenaphthene)7 radical anion,0.420000,C84H70-
+cyclooctatetraene..Cr(CO)3 anion,0.421000,C11H8CrO3-
+Acetyl radical,0.423000,C2H3O
+(N3H10+) dianion,0.424000,H10N3-2
+zirconium,0.427000,Zr
+(N4H13+) dianion,0.427000,H13N4-2
+Benzaldehyde,0.429000,C7H6O
+"Benzaldehyde, 3-methoxy-",0.429000,C8H8O2
+NH3..Na radical anion,0.430000,H3NNa-
+Disodium,0.430000,Na2
+gallium,0.430000,Ga
+CH2=C(CH2)2 radical,0.431000,C4H6
+Dimethyl amidogen,0.432000,C2H6N
+"Benzene, pentafluoro-",0.434000,C6HF5
+Aluminum,0.434000,Al
+(N5H16+) dianion,0.434000,H16N5-2
+Et(Me)N anion,0.434000,C3H8N-
+(N7H22+) dianion,0.438000,H22N7-2
+CuD,0.439000,CuD
+benzene..NO radical anion,0.440000,C6H6NO-
+Ni(SC(CN)=C(CN)S)2 dianion,0.440000,C8N4NiS4-2
+o-Fluoroacetophenone,0.442000,C8H7FO
+"Benzaldehyde, 2,4,6-trimethyl-",0.442000,C10H12O
+"2-Propanone, 1,1,1,3,3,3-hexafluoro-",0.442000,C3F6O
+(N6H19+) dianion,0.443000,H19N6-2
+Copper monohydride,0.444000,CuH
+MnH2,0.444000,H2Mn
+CH2=C,0.447000,C2H2
+(Ar)8..NO anion,0.448000,Ar8NO-
+Oxygen,0.448000,O2
+(NH3)5..Li anion,0.450000,H15LiN5-
+"1,3,5-Triazine",0.450000,C3H3N3
+"Benzene, 1,2,4,5-tetrachloro-",0.450000,C6H2Cl4
+Al9Cs3 anion,0.450000,Al9Cs3-
+caesium chloride,0.455000,ClCs
+(benzene)Fe anion,0.460000,C6H6Fe-
+(acenaphthene)6 radical anion,0.460000,C72H60-
+ReCl6 dianion,0.460000,Cl6Re-2
+OsCl6 dianion,0.460000,Cl6Os-2
+Pt(SC(CN)=C(CN)S)2 dianion,0.460000,C8N4PtS4-2
+Si3O4,0.460000,O4Si3
+Carbonyl sulfide,0.461000,COS
+CD2=CDCD2 anion,0.464000,C3D5-
+Potassium sodide,0.465000,KNa
+Thioformaldehyde,0.465000,CH2S
+MnD2,0.465000,D2Mn
+3-Cyclohexenyl radical,0.466000,C6H9
+Cesium dimer,0.469000,Cs2
+(toluene)33 radical anion,0.470000,C231H264-
+H2O..pyrazine radical anion,0.470000,C4H6N2O-
+(NH3)9..Li anion,0.470000,H27LiN9-
+Coronene,0.470000,C24H12
+lanthanum,0.470000,La
+2-Me-anthracene radical anion,0.470000,C15H12-
+"Cesium, compound with potassium (1:1)",0.471000,CsK
+Cesium,0.472000,Cs
+(NH4+) dianion,0.472000,H4N-2
+(benzene)53 radical anion,0.473000,C318H318-
+"Cesium, compound with rubidium (1:1)",0.478000,CsRb
+(H2O)6 radical anion,0.480000,H12O6-
+(H2O)3..7-aza-indole radical anion,0.480000,C7H12N2O3-
+(naphthalene)4 radical anion,0.480000,C40H32-
+(Ar)9..NO anion,0.480000,Ar9NO-
+NH3..NO anion,0.480000,H3N2O-
+(NH3)11..Li anion,0.480000,H33LiN11-
+Nickel hydride (NiH),0.481000,HNi
+Allyl radical,0.481000,C3H5
+(benzene)56 radical anion,0.483000,C336H336-
+(toluene)39 radical anion,0.485000,C273H312-
+"Benzaldehyde, 4-fluoro-",0.486000,C7H5FO
+rubidium,0.486000,Rb
+"Potassium, compound with rubidium (1:1)",0.486000,KRb
+CDH=C radical anion,0.489000,C2HD2-
+(H2O)7 radical anion,0.490000,H14O7-
+(H2O)2..cytosine radical anion,0.490000,C4H9N3O3-
+benzene..Sc anion,0.490000,C6H6Sc-
+(NH3)6..Li anion,0.490000,H18LiN6-
+(NH3)7..Li anion,0.490000,H21LiN7-
+(NH3)12..Li anion,0.490000,H36LiN12-
+(biphenyl)5 radical anion,0.490000,C60H50-
+"Ethanone, 1-(2,4,6-trimethylphenyl)-",0.490000,C11H14O
+(benzene)59 radical anion,0.492000,C354H354-
+CD2=C,0.492000,C2D2
+CD2=C(CD3)CD2,0.493000,C4D7
+Cycloheptatrienyl radical,0.495000,C7H7
+(benzene)65 radical anion,0.495000,C390H390-
+NH3..(N2H7+) dianion,0.495000,H10N3-2
+(benzene)62 radical anion,0.496000,C372H372-
+Dipotassium,0.497000,K2
+CD2=N anion,0.498000,CD2N-
+(benzene)68 radical anion,0.498000,C408H408-
+Dirubidium,0.498000,Rb2
+cubene radical,0.499000,C8H6
+Li4 anion,0.500000,Li4-
+cubanide anion,0.500000,C8H7-
+N-diazirinide anion,0.500000,CH3N2-
+benzene..Co2 anion,0.500000,C6H6Co2-
+(benzene)71 radical anion,0.500000,C426H426-
+(biphenyl)4 radical anion,0.500000,C48H40-
+"Manganese, tricarbonyl[(1,2,3,4,5-η)-1-methyl-2,4-cyclopentadien-1-yl]-",0.500000,C9H7MnO3
+Fluoroimidogen,0.500000,FN
+"3,3,4,4-tetrafluorodihydrofuran-2,5-dione",0.500000,C4F4O3
+Guanine radical anion,0.500000,C5H5N5O-
+"Anthracene, 2-(1,1-dimethylethyl)-",0.500000,C18H18
+Deoxycytidine,0.500000,C9H13N3O4
+Potassium anion,0.501000,K-
+(N2O)2..NO anion,0.502000,N5O3-
+Methyl amino radical,0.504000,CH4N
+Chromium dimer,0.505000,Cr2
+(toluene)45 radical anion,0.505000,C315H360-
+2-Methylallyl radical,0.505000,C4H7
+Cyclopropyl radical,0.507000,C3H5
+(NH3)10..Na anion,0.508000,H30N10Na-
+bicyclo[2.2.1]hepta-1-ide anion,0.510000,C7H11-
+(NH3)3..Na2 radical anion,0.510000,H9N3Na2-
+(benzene)73 radical anion,0.510000,C438H438-
+(H2O)4..O2CCO2 dianion,0.510000,C2H8O8-2
+(Ar)10..NO anion,0.511000,Ar10NO-
+"Amidogen, methylene-",0.511000,CH2N
+bicyclo[2.2.2]octan-1-ide anion,0.512000,C8H13-
+(Xe)3..NO anion,0.513000,NOXe3-
+(benzene)76 radical anion,0.515000,C456H456-
+(benzene)79 radical anion,0.520000,C474H474-
+(NH3)8..Li anion,0.520000,H24LiN8-
+(NH3)8..Na anion,0.520000,H24N8Na-
+(NH3)9..Na anion,0.520000,H27N9Na-
+sodium fluoride,0.520000,FNa
+LiOCO anion,0.520000,CLiO2-
+(m-terphenyl)3 radical anion,0.520000,C54H42-
+(o-terphenyl)3 radical anion,0.520000,C54H42-
+"Anthracene, 1-methyl-",0.520000,C15H12
+Ar..O2 radical anion,0.521000,ArO2-
+(benzene)82 radical anion,0.523000,C492H492-
+(toluene)51 radical anion,0.523000,C357H408-
+(benzene)85 radical anion,0.525000,C510H510-
+vanadium,0.526000,V
+(H2O)8 radical anion,0.530000,H16O8-
+(benzene)87 radical anion,0.530000,C522H522-
+Anthracene,0.530000,C14H10
+"Benzene, hexafluoro-",0.530000,C6F6
+Nb4 radical,0.530000,Nb4
+(NH3)11..Na anion,0.533000,H33N11Na-
+(benzene)91 radical anion,0.534000,C546H546-
+Benzo[e]pyrene,0.534000,C20H12
+(Ar)11..NO anion,0.535000,Ar11NO-
+(NH3)4..Li anion,0.535000,H12LiN4-
+DCF radical,0.535000,CDF
+(toluene)57 radical anion,0.537000,C399H456-
+Ar..CH2=C radical anion,0.538000,C2H2Ar-
+(benzene)95 radical anion,0.538000,C570H570-
+(H2O)3..adenine radical anion,0.540000,C5H11N5O3-
+Ammonium Chloride,0.540000,ClH4N
+(PhMe)2..Sc anion,0.540000,C14H16Sc-
+(NH3)14..Li anion,0.540000,H42LiN14-
+Cesium bromide,0.540000,BrCs
+Diethyl Phthalate,0.540000,C12H14O4
+(benzene)100 radical anion,0.541000,C600H600-
+Fluoromethylene,0.542000,CHF
+Picene,0.542000,C22H14
+"Benzene, pentafluoromethoxy-",0.542000,C7H3F5O
+(NH3)12..Na anion,0.543000,H36N12Na-
+rubidium chloride,0.543000,ClRb
+Et2NO anion,0.544000,C4H10NO-
+Benzo[c]phenanthrene,0.545000,C18H12
+(toluene)63 radical anion,0.548000,C441H504-
+sodium,0.548000,Na
+(H2O)9 radical anion,0.550000,H18O9-
+O2C(CH2)3CO2 dianion,0.550000,C5H6O4-2
+PdCl4 dianion,0.550000,Cl4Pb-2
+Ammonia anion,0.550000,H123N41-
+(benzene)106 radical anion,0.550000,C636H636-
+"1,3,5,7-Cyclooctatetraene",0.550000,C8H8
+Dimethyl phthalate,0.550000,C10H10O4
+"1,3-Benzenedicarboxylic acid, dimethyl ester",0.550000,C10H10O4
+Carbon disulfide,0.552000,CS2
+(benzene)112 radical anion,0.555000,C672H672-
+CH2=CMe anion,0.555000,C3H5-
+o-benzyne-d4 radical,0.556000,C6D4
+PhCO anion,0.557000,C7H5O-
+(toluene)69 radical anion,0.561000,C483H552-
+palladium,0.562000,Pd
+HCr,0.563000,CrH
+(Ar)12..NO anion,0.566000,Ar12NO-
+(benzene)124 radical anion,0.568000,C744H744-
+MeCOCH2CH2 anion,0.568000,C4H7O-
+(toluene)75 radical anion,0.569000,C525H600-
+Nitric acid,0.570000,HNO3
+AgH anion,0.570000,AgH-
+cerium,0.570000,Ce
+(H2O)2..thymine radical anion,0.570000,C5H10N2O4-
+"1,2,3-triphenyl-cyclopropenide anion",0.572000,C21H15-
+(toluene)81 radical anion,0.575000,C567H648-
+Quinazoline,0.577000,C8H6N2
+"Ethanone, 1-(3-fluorophenyl)-",0.577000,C8H7FO
+NH3..(NH4+) dianion,0.578000,H7N2-2
+(Ar)13..NO anion,0.580000,Ar13NO-
+"9,10-diMe-anthracene radical anion",0.580000,C16H14-
+(acenaphthene)8 radical anion,0.580000,C96H80-
+(toluene)87 radical anion,0.582000,C609H696-
+(NH3)13..Na anion,0.582000,H39N13Na-
+potassium chloride,0.582000,ClK
+"Ethanone, 1-(4-chlorophenyl)-",0.585000,C8H7ClO
+Phosphorus dimer,0.589000,P2
+(Ar)14..NO anion,0.589000,Ar14NO-
+9-Me-anthracene radical anion,0.590000,C15H12-
+(H2O)10 radical anion,0.590000,H20O10-
+(biphenyl)6 radical anion,0.590000,C72H60-
+"Dibenz[a,j]anthracene",0.591000,C22H14
+(toluene)93 radical anion,0.592000,C651H744-
+lithium chloride,0.593000,ClLi
+"Dibenz[a,h]anthracene",0.595000,C22H14
+tin monoxide,0.598000,OSn
+naphthalen-3-yl-2-ide anion,0.598000,C10H6-
+"Ethanone, 1-(1-Naphthalenyl)-",0.598000,C12H10O
+Si3O3 anion,0.600000,O3Si3-
+"(2,2'-bis(thiophene))3 radical anion",0.600000,C24H18S6-
+"1,5-dehydroquadricyclanane radical anion",0.600000,C7H6-
+CF3CO anion,0.600000,C2F3O-
+(CF3)2C radical,0.600000,C3F6
+(NaF)5 radical,0.600000,F5Na5
+C78 dianion,0.600000,C78-2
+(m-terphenyl)4 radical anion,0.600000,C72H56-
+Li3O anion,0.600000,Li3O-
+HfO anion,0.600000,HfO-
+PdCO anion,0.604000,COPd-
+(toluene)99 radical anion,0.605000,C693H792-
+(toluene)109 radical anion,0.609000,C763H872-
+(o-terphenyl)4 radical anion,0.610000,C72H56-
+TiCl3 anion,0.610000,Cl3Ti-
+(NH3)2..Li anion,0.610000,H6LiN2-
+(NH3)3..Li anion,0.610000,H9LiN3-
+9-Bromoanthracene,0.610000,C14H9Br
+InCl2 anion,0.611000,Cl2In-
+D5-benzophenone radical,0.612000,C13H5D10O
+"Acetophenone, 3'-chloro-",0.616000,C8H7ClO
+Lithium anion,0.618000,Li-
+13CO,0.620000,C13H10O
+benzene..V anion,0.620000,C6H6V-
+"Cobalt, dicarbonyl(η5-2,4-cyclopentadien-1-yl)-",0.620000,C7H5CoO2
+"Cobalt, η3-allyl tricarbonyl",0.620000,C6H5CoO3
+Ru6C(CO)11 dianion,0.620000,C12O11Ru6-2
+Ru6(CO)12 dianion,0.620000,C12O12Ru6-2
+(naphthalene)5 radical anion,0.620000,C50H40-
+pyridine..NO radical anion,0.620000,C5H5N2O-
+(NH3)15..Li anion,0.620000,H45LiN15-
+"H2O..1,3-O2C-C6H4-CO2 dianion",0.620000,C8H6O5-2
+(pyrene)2 radical anion,0.620000,C32H20-
+Benzophenone,0.620000,C13H10O
+p-Fluorobenzophenone,0.620000,C13H9FO
+EtNH anion,0.621000,C2H6N-
+Glyoxal,0.621000,C2H2O2
+Trichloromethane,0.622000,CHCl3
+Methyl 3-trifluoromethylbenzoate,0.624000,C9H7F3O2
+Ge2O2 anion,0.625000,Ge2O2-
+PhMe..Sc anion,0.630000,C7H8Sc-
+(naphthalene)6 radical anion,0.630000,C60H48-
+(Xe)4..NO anion,0.630000,NOXe4-
+(toluene)139 radical anion,0.630000,C973H1112-
+"Cyclobutane, octafluoro-",0.630000,C4F8
+Trisilicon carbide,0.630000,CSi3
+Dichloroboron,0.630000,BCl2
+Fluoranthene,0.630000,C16H10
+Cesium iodide,0.630000,CsI
+"Benzaldehyde, 2-fluoro-",0.637000,C7H5FO
+(acenaphthene)9 radical anion,0.640000,C108H90-
+Au31,0.640000,Au31
+Al2C2,0.640000,C2Al2
+Tetrachloroethylene,0.640000,C2Cl4
+3-tBu-bicyclo[1.1.1]pentan-1-ide anion,0.642000,C9H15-
+2'-(Trifluoromethyl)acetophenone,0.642000,C9H7F3O
+2-Naphthalenecarboxaldehyde,0.642000,C11H8O
+potassium bromide,0.642000,BrK
+Ni(CO)2,0.643000,C2NiO2
+CD2,0.645000,CD2
+tBuCH=C radical,0.645000,C6H10
+2-Naphthalenecarbonitrile,0.646000,C11H7N
+iPr2N anion,0.647000,C6H14N-
+K2(KI)7 radical anion,0.650000,I7K9-
+PdBr4 dianion,0.650000,Br4Pd-2
+(naphthalene)7 radical anion,0.650000,C70H56-
+(NH3)13..Li anion,0.650000,H39LiN13-
+"Benzene, (nitromethyl)-",0.650000,C7H7NO2
+(H2O)2..uracil radical anion,0.650000,C4H8N2O4-
+Na3O anion,0.650000,Na3O-
+Methylene,0.652000,CH2
+CH2=C(Me)C(=CH2)CH2 anion,0.654000,C6H9-
+"Benzaldehyde, 4-chloro-",0.659000,C7H5ClO
+naphthalene..NO radical anion,0.660000,C10H8NO-
+(NH3)2..(NH4+) dianion,0.660000,H10N3-2
+(m-terphenyl)5 radical anion,0.660000,C90H70-
+"ter(2,2')thiophene radical anion",0.660000,C12H8S3-
+"1,1':4',1'':4'',1'''-Quaterphenyl",0.660000,C24H18
+Au24,0.660000,Au24
+C6H5Ag,0.660000,C6H5Ag
+Lithium bromide,0.660000,BrLi
+"Anisole, 3,5-dimethyl-4-nitro-",0.663000,C9H11NO3
+cobalt,0.663000,Co
+NH3..Li anion,0.667000,H3LiN-
+Vinyl radical,0.667000,C2H3
+"Benzaldehyde, 3-fluoro-",0.668000,C7H5FO
+"Benzaldehyde, 3-chloro-",0.668000,C7H5ClO
+ammonium bromide,0.670000,BrH4N
+"1,4-Diphenyl-1,3-butadiene",0.670000,C16H14
+(NH3)16..Li anion,0.670000,H48LiN16-
+(coronene)2 radical anion,0.670000,C48H24-
+Cobalt monohydride,0.671000,CoH
+MeNO2..MeNO2 radical anion,0.672000,C2H6N2O4-
+m-Trifluoromethylbenzonitrile,0.672000,C8H4F3N
+Cyanic acid,0.674000,CHNO
+chromium,0.676000,Cr
+1-Naphthalenecarbonitrile,0.676000,C11H7N
+(benzene)2..Co3 anion,0.680000,C12H12Co3-
+Cu(SC(CN)=C(CN)S)2 dianion,0.680000,C8CuN4S4-2
+1-Naphthalenecarboxaldehyde,0.681000,C11H8O
+"Pyridine, pentafluoro-",0.681000,C5F5N
+(NH3)14..Na anion,0.686000,H42N14Na-
+(p-terphenyl)2 radical anion,0.690000,C36H28-
+N2..O2 radical anion,0.690000,N2O2-
+(H2O)3..cytosine radical anion,0.690000,C4H11N3O4-
+Pd(SC(CN)=C(CN)S)2 dianion,0.690000,C8N4PdS4-2
+Bromodichloroborane(3),0.690000,BBrCl2
+"2,3-Butanedione",0.690000,C4H6O2
+Azulene,0.694000,C10H8
+"α,α,α-Trifluoro-o-tolunitrile",0.698000,C8H4F3N
+"Benzonitrile, 2,6-dichloro-",0.698000,C7H3Cl2N
+Tb3OSi radical anion,0.700000,OSiTb3-
+Beryllium monohydride,0.700000,BeH
+(MgO)4 radical,0.700000,Mg4O4
+CrOF radical,0.700000,CrFO
+(NaF)3 radical,0.700000,F3Na3
+D8-azulene radical,0.700000,C10D8
+Uridine radical anion,0.700000,C9H12N2O6-
+Cytidine radical anion,0.700000,C9H13N3O5-
+guanosine radical anion,0.700000,C10H13N5O5-
+(Me2N)2C=C(NMe2)2..Al anion,0.700000,C10H24AlN4-
+(acenaphthene)10 radical anion,0.700000,C120H100-
+(C6H6)4V3 anion,0.700000,C24H24V3-
+Rh4,0.700000,Rh4
+"Adenosine, 2'-deoxy-",0.700000,C10H13N5O3
+nPrNH anion,0.703000,C3H8N-
+Au29 dianion,0.710000,Au29-2
+rubidium iodide,0.710000,IRb
+"Benzene, 1,3,5-trimethyl-2-nitro-",0.711000,C9H11NO2
+Quinoxaline,0.711000,C8H6N2
+Cinnoline,0.720000,C8H6N2
+EtCH=CH,0.720000,C4H7
+1-Bromopyrene,0.720000,C16H9Br
+pCN-biphenyl radical anion,0.720000,C13H9N-
+oxalic acid anion,0.720000,C2H2O4-
+RhCo,0.720000,CoRh
+(H2O)11 radical anion,0.720000,H22O11-
+(MgO)3 radical,0.720000,Mg3O3
+Lead oxide,0.722000,OPb
+Phenanthrene-9-carboxaldehyde,0.724000,C15H10O
+sodium chloride,0.727000,ClNa
+"1,3-cyclohexadienide anion",0.728000,C6H7-
+potassium iodide,0.728000,IK
+2-adamantanone-4-enolate anion,0.729000,C10H13O-
+"Benzene, pentachloro-",0.729000,C6HCl5
+(N2O)3..NO anion,0.729000,N7O4-
+Al4O3 anion,0.730000,Al4O3-
+(naphthalene)8 radical anion,0.730000,C80H64-
+Chloromethyl radical,0.735000,CH2Cl
+Arsenic dimer,0.739000,As2
+(H2O)4..adenine radical anion,0.740000,C5H13N5O4-
+(o-terphenyl)5 radical anion,0.740000,C90H70-
+Ru6C(CO)12 dianion,0.740000,C13O12Ru6-2
+Methyl-4-trifluoromethylbenzoate,0.746000,C9H7F3O2
+phosphorus,0.747000,P
+molybdenum,0.749000,Mo
+(KI)3 radical anion,0.750000,I3K3-
+(H2O)4..7-aza-indole radical anion,0.750000,C7H14N2O4-
+pyrimidine..NO radical anion,0.750000,C4H4N3O-
+lithium iodide,0.750000,ILi
+Phosphorus pentafluoride,0.750000,F5P
+p-Nitroaniline,0.750000,C6H6N2O2
+H2O..NO anion,0.750000,H2NO2-
+"methyl 3,5-diCl-benzoate radical",0.750000,C8H6Cl2O2
+"Benzenamine, 3,5-dimethyl-4-nitro-",0.750000,C8H10N2O2
+iPrNH anion,0.753000,C3H8N-
+Deuterium,0.755000,D
+Hydrogen atom,0.755000,H
+AuH anion,0.758000,AuH-
+"Benzonitrile, 4-(trifluoromethyl)-",0.759000,C8H4F3N
+TiBr3 anion,0.760000,Br3Ti-
+PhMe..V anion,0.760000,C7H8V-
+H2O..Na anion,0.760000,H2NaO-
+ReBr6 dianion,0.760000,Br6Re-2
+"1,3-cyclohexadiene..Fe(CO)3 anion",0.763000,C9H8FeO3-
+bicyclo[1.1.0]butanide anion,0.768000,C4H5-
+3-CN-C6H4-COOCH3,0.768000,C9H7NO2
+3'-(Trifluoromethyl)acetophenone,0.768000,C9H7F3O
+(m-terphenyl)6 radical anion,0.770000,C108H84-
+H2O..anthracene radical anion,0.770000,C14H12O-
+DCPA,0.770000,C10H6Cl4O4
+Amino radical,0.771000,H2N
+Dichlorosilylene,0.772000,Cl2Si
+F2SO radical anion,0.775000,F2OS-
+Sulfuryl fluoride,0.775000,F2O2S
+"4,4'-Difluorobenzophenone",0.776000,C13H8F2O
+(biphenyl)7 radical anion,0.780000,C84H70-
+(benzene)2Fe anion,0.780000,C12H12Fe-
+Mercaptomethyl radical,0.781000,CH3S
+sodium bromide,0.788000,BrNa
+(naphthalene)9 radical anion,0.790000,C90H72-
+(E)-2-C4F8,0.790000,C4F8
+LaO2 radical anion,0.790000,LaO2-
+Ru6(CO)13 dianion,0.790000,C13O13Ru6-2
+(benzene)2..NO radical anion,0.790000,C12H12NO-
+Bromomethyl radical,0.794000,CH2Br
+(H2O)12 radical anion,0.797000,H24O12-
+"3,5-Dichlorobenzonitrile",0.798000,C7H3Cl2N
+triMe-p-benzoquinone-CH2,0.798000,C10H11O2
+CH2=NCH2 anion,0.800000,C2H4N-
+D2O..NO anion,0.800000,D2NO2-
+K2(KI)4 radical anion,0.800000,I4K6-
+As4 anion,0.800000,As4-
+"(2,2'-bis(thiophene))4 radical anion",0.800000,C32H24S8-
+"(2,2'-bis(thiophene))5 radical anion",0.800000,C40H30S10-
+Dialuminum monosulfide,0.800000,Al2S
+C6H5Au,0.800000,C6H5Au
+(benzene)3Ti2,0.800000,C18H18Ti2
+AsF2,0.800000,AsF2
+NaCS2,0.800000,CNaS2
+(benzene)3Fe2 anion,0.800000,C18H18Fe2-
+"Anthracene, 2-chloro-",0.802000,C14H9Cl
+"2,2,6,6-Me4-piperidinide anion",0.803000,C9H18N-
+Ni(CO),0.804000,CNiO
+Carbon Tetrachloride,0.805000,CCl4
+arsenic,0.805000,As
+silicon fluoride,0.810000,FSi
+ammonium iodide,0.810000,H4IN
+"Benzene, 1,3-dimethyl-2-nitro-",0.811000,C8H9NO2
+"Benzene, chloropentafluoro-",0.815000,C6ClF5
+"Benzaldehyde, 3-(trifluoromethyl)-",0.815000,C8H5F3O
+Benzo[a]pyrene,0.815000,C20H12
+tungsten,0.816000,W
+Phosphorus trichloride,0.820000,Cl3P
+BBr3 radical anion,0.820000,BBr3-
+(2-Me-anthracene)2 radical anion,0.820000,C30H24-
+Au30,0.820000,Au30
+(H2O)3..thymine radical anion,0.820000,C5H12N2O5-
+IrCl6 dianion,0.820000,Cl6Ir-2
+nickel dioxide,0.820000,NiO2
+"2-Propenal, 3-phenyl-",0.823000,C9H8O
+"1,4-Benzenedicarboxylic acid, dimethyl ester",0.824000,C10H10O4
+"1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6,6'-decafluoro-",0.824000,C12F10
+"Anthracene, 1-chloro-",0.828000,C14H9Cl
+Potassium tetramer,0.830000,K4
+(Me2CO)2 radical anion,0.830000,C6H12O2-
+(o-terphenyl)7 radical anion,0.830000,C126H98-
+"Methanone, (4-chlorophenyl)phenyl-",0.833000,C13H9ClO
+(p-terphenyl)4 radical anion,0.840000,C72H56-
+(o-terphenyl)6 radical anion,0.840000,C108H84-
+Tb3OSi2 radical anion,0.840000,OSi2Tb3-
+4-Methylbenzyl radical,0.842000,C8H9
+1-Phenylethyl radical,0.844000,C8H9
+m-Benzyne,0.846000,C6H4
+2-Phenyl-2-propyl radical,0.849000,C9H11
+"Ethanone, 1-(2-hydroxyphenyl)-",0.850000,C8H8O2
+(KI)5 radical anion,0.850000,I5K5-
+(H2O)4..cytosine radical anion,0.850000,C4H13N3O5-
+Ru6C(CO)13 dianion,0.850000,C14O13Ru6-2
+Ru6C(CO)14 dianion,0.850000,C15O14Ru6-2
+(H2O)5..O2CCO2 dianion,0.850000,C2H10O9-2
+(benzene)Ti anion,0.850000,C6H6Ti-
+"1,2-Propadiene-1,3-dione",0.850000,C3O2
+(p-terphenyl)3 radical anion,0.850000,C54H42-
+(m-terphenyl)7 radical anion,0.850000,C126H98-
+NH3..Pb anion,0.850000,H3NPb-
+(naphthalene)10 radical anion,0.850000,C100H80-
+CH3Si radical,0.852000,CH3Si
+Ethyl diazoacetate,0.854000,C4H6N2O2
+"Benzene, 1,2-dimethyl-3-nitro-",0.854000,C8H9NO2
+CH2=C(CH2.)C(=CH2)CH2 anion,0.855000,C6H8-
+"Benzene, pentafluoro(trifluoromethyl)-",0.859000,C7F8
+9-Chloroanthracene,0.859000,C14H9Cl
+(anthracene)2 radical anion,0.860000,C28H20-
+(1-Me-anthracene)2 radical anion,0.860000,C30H24-
+MeCH=CH anion,0.861000,C3H5-
+(H2O)13 radical anion,0.863000,H26O13-
+Tricesium,0.864000,Cs3
+Sodium iodide,0.865000,INa
+"2,6-diMe-4-F-nitrobenzene radical",0.867000,C8H8FNO2
+Chromic acetylacetonate,0.867000,C15H21CrO6
+Methylthiomethyl radical,0.868000,C2H5S
+quadricyclan-2-ide anion,0.868000,C7H7-
+Manganese monohydride,0.869000,HMn
+Au25,0.870000,Au25
+"Methanone, (3-chlorophenyl)phenyl-",0.872000,C13H9ClO
+"2',3',4',5',6'-Pentafluoroacetophenone",0.876000,C8H3F5O
+(7-aza-indole)2 radical anion,0.880000,C14H12N4-
+CH2=C=CD anion,0.880000,C3H2D3-
+Copper dimer,0.880000,Cu2
+(benzene)Pd2,0.880000,C6H6Pd2
+(H2O)3..uracil radical anion,0.880000,C4H10N2O5-
+(H2O)5..adenine radical anion,0.880000,C5H15N5O5-
+"Benzene, 2,4-dimethyl-1-nitro-",0.880000,C8H9NO2
+3-Methylbenzyl radical,0.885000,C8H9
+NiCu,0.889000,CuNi
+"Benzene, 1,1'-(1,3,5-hexatriene-1,6-diyl)bis-",0.890000,C18H16
+Au27,0.890000,Au27
+Biphenylene,0.890000,C12H8
+benzene..Nb anion,0.893000,C6H6Nb-
+niobium,0.894000,Nb
+Acridine,0.896000,C13H9N
+"Iron, (1,3-butadiene)tricarbonyl-",0.898000,C7H6FeO3
+4'-(Trifluoromethyl)acetophenone,0.898000,C9H7F3O
+GeBr3 anion,0.900000,Br3Ge-
+CF3CðCCF2 anion,0.900000,C4F5-
+H2O..O2C(CH2)3CO2 dianion,0.900000,C5H8O5-2
+Ru6(CO)14 dianion,0.900000,C14O14Ru6-2
+Si2O3 radical,0.900000,O3Si2
+Sulfur difluoride,0.900000,F2S
+Lead bromide,0.900000,BrPb
+(NaF)7 radical,0.900000,F7Na7
+K2Cs,0.900000,CsK2
+(C3H5)Co(CO)2 radical,0.900000,C5H5CoO2
+AlH2 anion,0.900000,AlH2-
+9-α-d-Arabinofuranosyladenine radical anion,0.900000,C10H13N5O4-
+EtNO2..EtNO2 radical anion,0.900000,C4H10N2O4-
+Al5Cs anion,0.900000,Al5Cs-
+Al10Cs3 anion,0.900000,Al10Cs3-
+Na4Sn4,0.900000,Na4Sn4
+Rh2Co,0.900000,CoRh2
+TiI3 anion,0.902000,I3Ti-
+Iron dimer,0.902000,Fe2
+CD2=C=CH anion,0.907000,C3HD3-
+(coronene)2..V anion,0.910000,C48H24V-
+Tb3O radical anion,0.910000,OTb3-
+pentadienide anion,0.910000,C5H7-
+Sodium tetramer,0.910000,Na4
+(o-terphenyl)8 radical anion,0.910000,C144H112-
+"Benzene, 1-methoxy-4-nitro-",0.911000,C7H7NO3
+η4-Trimethylenemethane-iron tricarbonyl-,0.911000,C7H6FeO3
+"1,3-Dicyanobenzene",0.911000,C8H4N2
+Bromotrifluoromethane,0.911000,CBrF3
+Benzyl radical,0.912000,C7H7
+CH2=CHCH=C radical,0.914000,C4H4
+"Benzene, hexachloro-",0.915000,C6Cl6
+CH2=C=CH anion,0.918000,C3H3-
+"Methyl, 1,2-phenylenebis-",0.919000,C8H8
+Benzo[c]cinnoline,0.919000,C12H8N2
+(H2O)4..SO4 dianion,0.920000,H8O8S-2
+Rb3,0.920000,Rb3
+(H2O)14 radical anion,0.923000,H28O14-
+"Benzene, 1-methyl-2-nitro-",0.924000,C7H7NO2
+"Benzene, 1,2-dimethyl-4-nitro-",0.924000,C8H9NO2
+Ni2,0.926000,Ni2
+cycloheptatriene..Cr(CO)3 anion,0.928000,C10H8CrO3-
+C6F6..C6F6 radical anion,0.930000,C12F12-
+Calcium monohydride,0.930000,CaH
+Co(pyrene) radical anion,0.930000,C16H10Co-
+Pt(CO)2 anion,0.930000,C2O2Pt-
+cyclobutene-1-ide anion,0.932000,C4H5-
+HFe,0.934000,FeH
+4-Fluorobenzyl radical,0.937000,C7H6F
+B2H3 anion,0.938000,B2H3-
+(m-terphenyl)8 radical anion,0.940000,C144H112-
+(NH3)2..Pb anion,0.940000,H6N2Pb-
+"tetra(2,2')thiophene radical anion",0.940000,C16H10S4-
+1-Ph-cyclobuten-3-ide anion,0.940000,C10H9-
+Dibromochloroborane(3),0.940000,BBr2Cl
+"Benzaldehyde, 4-(trifluoromethyl)-",0.941000,C8H5F3O
+bismuth,0.942000,Bi
+m-Nitroaniline,0.945000,C6H6N2O2
+(N2O)4..NO anion,0.946000,N9O5-
+Me3SiCH2 anion,0.950000,C4H11Si-
+(N2O)2 radical anion,0.950000,N4O2-
+Zinc monohydride,0.950000,HZn
+PCl2,0.950000,Cl2P
+Potassium pentamer,0.950000,K5
+Potassium hexamer,0.950000,K6
+Co2(pyrene) radical anion,0.950000,C16H10Co2-
+Ru6(CO)15 dianion,0.950000,C15O15Ru6-2
+Ru6(CO)16 dianion,0.950000,C16O16Ru6-2
+Al3N radical anion,0.950000,Al3N-
+"(2,2'-bis(thiophene))6 radical anion",0.950000,C48H36S12-
+Thallium dimer,0.950000,Tl2
+"1,2-Benzenedicarbonitrile",0.954000,C8H4N2
+"Benzene, 1-methyl-4-nitro-",0.954000,C7H7NO2
+Potassium trimer,0.956000,K3
+3-(Trifluoromethyl)benzophenone,0.958000,C14H9F3O
+NCCH2CH2 anion,0.959000,C3H4N-
+IrBr6 dianion,0.960000,Br6Ir-2
+(C6H6)5V4 anion,0.960000,C30H30V4-
+quadricyclan-1-ide anion,0.962000,C7H7-
+Pr anion,0.962000,Pr-
+"Benzoic acid, 4-acetyl-, methyl ester",0.963000,C10H10O3
+CH2=CHCHCl anion,0.969000,C3H4Cl-
+Nb2O2,0.970000,Nb2O2
+Au28,0.970000,Au28
+Trimethylsilyl radical,0.971000,C3H9Si
+Isophthalaldehyde,0.971000,C8H6O2
+Perylene,0.973000,C20H12
+(H2O)15 radical anion,0.977000,H30O15-
+NiAg anion,0.979000,AgNi-
+Tb3OSi3 radical anion,0.980000,OSi3Tb3-
+(MgO)5 radical,0.980000,Mg5O5
+(o-terphenyl)9 radical anion,0.980000,C162H126-
+"Benzoic acid, 4-cyano-, methyl ester",0.980000,C9H7NO2
+cycloheptatriene..Fe(CO)3 anion,0.984000,C10H8FeO3-
+"Ethanone, 2,2,2-trifluoro-1-phenyl-",0.984000,C8H5F3O
+"Benzenamine, N,N-dimethyl-3-nitro-",0.984000,C8H10N2O2
+"3,5-Dichlorobenzaldehyde",0.989000,C7H4Cl2O
+"Benzene, 1-methyl-3-nitro-",0.989000,C7H7NO2
+LaO radical anion,0.990000,LaO-
+(2-Me-anthracene)3 radical anion,0.990000,C45H36-
+(H2O)5..7-aza-indole radical anion,0.990000,C7H16N2O5-
+(H2O)2..Na anion,0.990000,H4NaO2-
+HSiO anion,1.000000,HOSi-
+(KI)12 radical anion,1.000000,I12K12-
+K(KI)2 radical anion,1.000000,I2K3-
+K2(KI)6 radical anion,1.000000,I6K8-
+CF2=C(Me)O anion,1.000000,C3H3F2O-
+Arsenic monohydride,1.000000,AsH
+Iodine monofluoride,1.000000,FI
+Lead chloride,1.000000,ClPb
+(p-terphenyl)5 radical anion,1.000000,C90H70-
+(m-terphenyl)9 radical anion,1.000000,C162H126-
+(o-terphenyl)10 radical anion,1.000000,C180H140-
+Al7Cs anion,1.000000,Al7Cs-
+Al9Cs2 anion,1.000000,Al9Cs2-
+Al8Cs3 anion,1.000000,Al8Cs3-
+(COT)4Eu4 anion,1.000000,C32H32Eu4-
+CeO radical anion,1.000000,CeO-
+PrO radical anion,1.000000,OPr-
+Rh3 anion,1.000000,Rh3-
+O2CCH2C(OH)(CO2H)CH2CO2 dianion,1.000000,C6H6O7-2
+(H2O)4..thymine radical anion,1.000000,C5H14N2O6-
+Cu-Phthalocyanine-(SO3-)3(SO3Na)[-3],1.000000,C32H13CuN8NaO12S4
+Re2Cl8 dianion,1.000000,Cl8Re2-2
+(benzene)2..Co2 anion,1.000000,C12H12Co2-
+"(H2O)2..1,3-O2C-C6H4-CO2 dianion",1.000000,C8H8O6-2
+EtOH..uracil radical anion,1.000000,C6H10N2O3-
+Antimony tetramer,1.000000,Sb4
+"dibenzo[a,g]corannulene radical",1.000000,C28H14
+(benzene)4Ti3,1.000000,C24H24Ti3
+Diphosphene,1.000000,H2P2
+"Pyrido[2,3-d]pyridazine",1.002000,C7H5N3
+Nitrobenzene-D5,1.002000,C6D5NO2
+"2,6-diMe-4-Cl-nitrobenzene radical",1.005000,C8H8ClNO2
+3-Cyanobenzaldehyde,1.006000,C8H5NO
+"methyl 3,5-diCF3-benzoate radical",1.006000,C10H6F6O2
+"Benzene, nitro-",1.006000,C6H5NO2
+GeF radical anion,1.010000,FGe-
+Tb3OSi4 radical anion,1.010000,OSi4Tb3-
+Co11O2 radical anion,1.010000,Co11O2-
+Co12O2 radical anion,1.010000,Co12O2-
+Vanadium trimer,1.010000,V3
+O2C(CH2)4CO2 dianion,1.010000,C6H8O4-2
+Pb(benzene) anion,1.010000,C6H6Pb-
+(m-terphenyl)10 radical anion,1.010000,C180H140-
+(2-Me-anthracene)4 radical anion,1.010000,C60H48-
+NdO radical anion,1.010000,NdO-
+"Benzene, 4-fluoro-2-methyl-1-nitro-",1.010000,C7H6FNO2
+"Ethanone, 1-(9-anthracenyl)-",1.015000,C16H12O
+Phthalimide,1.015000,C8H5NO2
+Sodium trimer,1.019000,Na3
+C120O dianion,1.020000,C120O-2
+(1-Me-anthracene)3 radical anion,1.020000,C45H36-
+AgS3 anion,1.020000,AgS3-
+Rh3Co,1.020000,CoRh3
+WC radical anion,1.022000,CW-
+(H2O)16 radical anion,1.026000,H32O16-
+Phosphinidene,1.027000,HP
+"Naphthalene, 2-methyl-1-nitro-",1.028000,C11H9NO2
+thulium,1.029000,Tm
+Co13O2 radical anion,1.030000,Co13O2-
+V4O radical,1.030000,OV4
+Nb10 radical,1.030000,Nb10
+FeD2,1.038000,D2Fe
+(N2O)6..NO anion,1.040000,N13O7-
+(H2O)5..cytosine radical anion,1.040000,C4H15N3O6-
+(p-terphenyl)7 radical anion,1.040000,C126H98-
+Propiolonitrile,1.040000,C3HN
+"Benzene, 1-methoxy-3-nitro-",1.040000,C7H7NO3
+Tin(II) chloride,1.040000,Cl2Sn
+CH2=CHCH(SMe) anion,1.042000,C4H7S-
+cyclooctatrienyne radical,1.044000,C8H6
+ruthenium,1.046000,Ru
+antimony,1.047000,Sb
+FeH2,1.049000,FeH2
+PbS anion,1.049000,PbS-
+Sulfur hexafluoride,1.049000,F6S
+(KI)6 radical anion,1.050000,I6K6-
+K(KI)4 radical anion,1.050000,I4K5-
+K(KI)6 radical anion,1.050000,I6K7-
+Bismuth tetramer,1.050000,Bi4
+Magnesium monohydride,1.050000,HMg
+Potassium heptamer,1.050000,K7
+(p-terphenyl)6 radical anion,1.050000,C108H84-
+(p-terphenyl)9 radical anion,1.050000,C162H126-
+(anthracene)3 radical anion,1.050000,C42H30-
+4-Thiouracil,1.050000,C4H4N2OS
+Ru6C(CO)15 dianion,1.050000,C16O15Ru6-2
+(benzene)3..Co4 anion,1.050000,C18H18Co4-
+Pentayttrium monoxide,1.050000,OY5
+Eu anion,1.053000,Eu-
+Naphthacene,1.058000,C18H12
+CH2NC anion,1.059000,C2H2N-
+CH2=CHCH(Ph) anion,1.060000,C9H9-
+Si8Na2 radical anion,1.060000,Na2Si8-
+benzene..O2 radical anion,1.060000,C6H6O2-
+(naphthalene)2..NO radical anion,1.060000,C20H16NO-
+(NaCl)3 radical anion,1.060000,Cl3Na3-
+"Nickel, [[2,2'-[1,2-ethanediylbis(nitrilomethylidyne)]bis[phenolato]](2-)-N,N',O,O']-, (SP-4-2)-",1.060000,C16H14N2NiO2
+(m-terphenyl)11 radical anion,1.060000,C198H154-
+Fe(coronene) radical anion,1.060000,C24H12Fe-
+(anthracene)4 radical anion,1.060000,C56H40-
+"Ethanone, 1,1'-(1,4-phenylene)bis-",1.062000,C10H10O2
+Perfluoro(methylcyclohexane),1.062000,C7F14
+"1,1'-Biphenyl, 2-nitro-",1.067000,C12H9NO2
+1-naphthyl-CH2 anion,1.069000,C11H9-
+TaO anion,1.070000,OTa-
+CD2NC anion,1.070000,C2D2N-
+phenalenide anion,1.070000,C13H9-
+Me2SiH anion,1.071000,C2H7Si-
+(H2O)17 radical anion,1.072000,H34O17-
+"Benzene, 1-fluoro-2-nitro-",1.075000,C6H4FNO2
+4-(Trifluoromethyl)benzophenone,1.075000,C14H9F3O
+DOO anion,1.077000,DO2-
+Ni(CO)3,1.077000,C3NiO3
+osmium,1.078000,Os
+Hydroperoxy radical,1.078000,HO2
+Vanadium(III) acetylacetonate,1.080000,C15H21O6V
+In2P4 radical anion,1.080000,In2P4-
+Co14O2 radical anion,1.080000,Co14O2-
+(H2O)6..adenine radical anion,1.080000,C5H17N5O6-
+(m-terphenyl)12 radical anion,1.080000,C216H168-
+(benzene)2Fe2 anion,1.080000,C12H12Fe2-
+2-Cyano-2-propyl radical,1.084000,C4H6N
+"Benzonitrile, pentafluoro-",1.084000,C7F5N
+(p-terphenyl)8 radical anion,1.090000,C144H112-
+(o-terphenyl)11 radical anion,1.090000,C198H154-
+V5O radical,1.090000,OV5
+cyclooctatetraenide anion,1.091000,C8H7-
+oF-C6H4CH2 anion,1.091000,C7H6F-
+Phosphorus monoxide,1.092000,OP
+"1,4-Benzenedicarbonitrile",1.093000,C8H4N2
+Phenyl radical,1.096000,C6H5
+Germylene,1.097000,GeH2
+Pentafluorobenzaldehyde,1.097000,C7HF5O
+p-Methoxyphenyl radical,1.099000,C7H7O
+K2(KI)5 radical anion,1.100000,I5K7-
+K2(KI)9 radical anion,1.100000,I9K11-
+Na(NaF)12,1.100000,F12Na13
+Sodium pentamer,1.100000,Na5
+CrCl radical,1.100000,ClCr
+ISH radical,1.100000,HIS
+(H2O)4..uracil radical anion,1.100000,C4H12N2O6-
+Nb15 radical anion,1.100000,Nb15-
+H2O..C6F6 radical anion,1.100000,C6H2F6O-
+(m-terphenyl)13 radical anion,1.100000,C234H182-
+(benzene)3Fe4 anion,1.100000,C18H18Fe4-
+(benzene)4Fe6 anion,1.100000,C24H24Fe6-
+Fe2(COT) radical anion,1.100000,C8H8Fe2-
+Al8Cs2 anion,1.100000,Al8Cs2-
+Al11Cs3 anion,1.100000,Al11Cs3-
+Al12Cs3 anion,1.100000,Al12Cs3-
+(COT)3Eu3 anion,1.100000,C24H24Eu3-
+"quinque(2,2')thiophene radical anion",1.100000,C20H12S5-
+UO2F4 dianion,1.100000,F4O2U-2
+PtAl2 anion,1.100000,Al2Pt-
+Nb9 radical,1.100000,Nb9
+Tl3 anion,1.100000,Tl3-
+Me2NH..H anion,1.100000,C2H8N-
+(benzene)3..Co3 anion,1.100000,C18H18Co3-
+Co14O radical anion,1.100000,Co14O-
+Co15O radical anion,1.100000,Co15O-
+"1,4-O2C-C6H4-CO2 dianion",1.100000,C8H4O4-2
+Cr2O7 dianion,1.100000,Cr2O7-2
+Silver dimer,1.100000,Ag2
+dicopper oxide,1.100000,Cu2O
+Triyttrium monoxide,1.100000,OY3
+Cu2N,1.100000,Cu2N
+"Naphthalene, 1-methoxy-4-nitro-",1.101000,C11H9NO3
+Trichloromonofluoromethane,1.101000,CCl3F
+"3,5-diCl-benzophenone radical",1.106000,C13H8Cl2O
+"Benzoic acid, 4-benzoyl-, methyl ester",1.106000,C15H12O3
+Sulfur dioxide,1.107000,O2S
+NH3..H anion,1.109000,H4N-
+MeC(=NOMe)CH2 anion,1.110000,C4H8NO-
+(MgO)2 radical,1.110000,Mg2O2
+Co2,1.110000,Co2
+NH3..NH2 anion,1.110000,H5N2-
+(p-terphenyl)10 radical anion,1.110000,C180H140-
+(p-terphenyl)11 radical anion,1.110000,C198H154-
+(o-terphenyl)12 radical anion,1.110000,C216H168-
+Co2(pyrene)2 radical anion,1.110000,C32H20Co2-
+(1-Me-anthracene)4 radical anion,1.110000,C60H48-
+(C6H6)6V5 anion,1.110000,C36H36V5-
+CuNH2,1.110000,CuH2N
+tin,1.112000,Sn
+(H2O)18 radical anion,1.114000,H36O18-
+N-Methylmaleimide,1.114000,C5H5NO2
+mOMe-phenide anion,1.117000,C7H7O-
+"Benzene, 1-fluoro-4-nitro-",1.119000,C6H4FNO2
+(m-terphenyl)14 radical anion,1.120000,C252H196-
+(o-terphenyl)13 radical anion,1.120000,C234H182-
+Co(pyrene)2 radical anion,1.120000,C32H20Co-
+CoNb3,1.120000,CoNb3
+coronene..V2 anion,1.120000,C24H12V2-
+V4O2 radical anion,1.120000,O2V4-
+V5O2 radical,1.120000,O2V5
+ND3..D anion,1.121000,D4N-
+"1H-Pyrrole-2,5-dione, 1-ethyl-",1.123000,C6H7NO2
+Silylene,1.123000,H2Si
+"1,1'-Biphenyl, 3-nitro-",1.123000,C12H9NO2
+Sulfur monoxide,1.125000,OS
+"Benzeneacetonitrile, α-oxo-",1.127000,C8H5NO
+(N2O)5..NO anion,1.128000,N11O6-
+Co18O radical anion,1.130000,Co18O-
+Co10O2 radical anion,1.130000,Co10O2-
+(H2O)3..Na anion,1.130000,H6NaO3-
+Nb6Al radical,1.130000,AlNb6
+(p-terphenyl)12 radical anion,1.130000,C216H168-
+"Benzonitrile, 4-acetyl-",1.132000,C9H7NO
+"4-Cyclopentene-1,3-dione",1.136000,C5H4O2
+U(BH4)4 radical,1.136000,B4H16U
+HCðCCH2CH2CH=C=CH anion,1.140000,C7H7-
+Co15O2 radical anion,1.140000,Co15O2-
+(m-terphenyl)15 radical anion,1.140000,C270H210-
+Zn3O3 anion,1.140000,O3Zn3-
+Nb3C6 radical anion,1.140000,C6Nb3-
+Y5O2 radical,1.140000,O2Y5
+"2,4-dimethylenecyclobutan-1-ide anion",1.140000,C6H7-
+"2,4-dimethylene-cyclobutane-3-yl-1-ide anion",1.140000,C6H6-
+"3,5-Bis(trifluoromethyl)benzonitrile",1.140000,C9H3F6N
+rhodium,1.143000,Rh
+"3',5'-Bis(trifluoromethyl)acetophenone",1.149000,C10H6F6O
+"Benzene, bromopentafluoro-",1.149000,C6BrF5
+K(KI)5 radical anion,1.150000,I5K6-
+(p-terphenyl)13 radical anion,1.150000,C234H182-
+(benzene)Fe2 anion,1.150000,C6H6Fe2-
+(2-Me-anthracene)5 radical anion,1.150000,C75H60-
+Si5C radical anion,1.150000,CSi5-
+fluorobenzene..V anion,1.150000,C6H5FV-
+V6O2 radical anion,1.150000,O2V6-
+Co16O radical anion,1.150000,Co16O-
+(H2O)19 radical anion,1.153000,H38O19-
+"1H-Isoindole-1,3(2H)-dione, 2-phenyl-",1.153000,C14H9NO2
+"1H-Pyrrole-2,5-dione",1.153000,C4H3NO2
+CD3OO anion,1.154000,CD3O2-
+MeNH2..H anion,1.157000,CH6N-
+Fe(CO),1.157000,CFeO
+nickel,1.157000,Ni
+"Benzoic acid, 4-formyl-, methyl ester",1.158000,C9H8O3
+H2P2O7 dianion,1.160000,H2O7P2-2
+diindenochrysene radical,1.160000,C26H12
+Ti5,1.160000,Ti5
+Ti7,1.160000,Ti7
+CH2=C(OLi)O anion,1.160000,C2H2LiO2-
+RhCo2,1.160000,Co2Rh
+MeOO anion,1.161000,CH3O2-
+"Benzene, 1-bromo-2-nitro-",1.162000,C6H4BrNO2
+"2,5-Furandione, 3,4-dimethyl-",1.162000,C6H6O3
+"Benzene, 1-chloro-2-nitro-",1.162000,C6H4ClNO2
+BeC6 dianion,1.165000,C6Be-2
+Tb anion,1.165000,Tb-
+"Potassium, compound with sodium(1:2)",1.167000,KNa2
+(p-terphenyl)14 radical anion,1.170000,C252H196-
+(p-terphenyl)15 radical anion,1.170000,C270H210-
+(p-terphenyl)17 radical anion,1.170000,C306H238-
+(p-terphenyl)21 radical anion,1.170000,C378H294-
+(p-terphenyl)22 radical anion,1.170000,C396H308-
+(p-terphenyl)23 radical anion,1.170000,C414H322-
+(p-terphenyl)24 radical anion,1.170000,C432H336-
+(p-terphenyl)26 radical anion,1.170000,C468H364-
+(p-terphenyl)35 radical anion,1.170000,C630H490-
+(p-terphenyl)40 radical anion,1.170000,C720H560-
+(azulene)2 radical anion,1.170000,C20H16-
+Au26,1.170000,Au26
+(H2O)5..thymine radical anion,1.170000,C5H16N2O7-
+(H2O)6..7-aza-indole radical anion,1.170000,C7H18N2O6-
+Y6O2 radical anion,1.170000,O2Y6-
+(H2O)6..O2CCO2 dianion,1.170000,C2H12O10-2
+Y5O radical,1.170000,OY5
+Ti3,1.170000,Ti3
+potassium metaborate,1.171000,BKO2
+3-Fluorobenzyl radical,1.173000,C7H6F
+4-Chlorobenzyl radical,1.174000,C7H6Cl
+o-pyridinide anion,1.175000,C5H4N-
+H2O..acridine radical anion,1.180000,C13H11NO-
+(o-terphenyl)14 radical anion,1.180000,C252H196-
+Fe(COT) radical anion,1.180000,C8H8Fe-
+(anthracene)5 radical anion,1.180000,C70H50-
+(2-Me-anthracene)6 radical anion,1.180000,C90H72-
+(1-Me-anthracene)5 radical anion,1.180000,C75H60-
+CoNb11 anion,1.180000,CoNb11-
+pI-C6H4CH2 anion,1.184000,C7H6I-
+"Naphthalene, 2-nitro-",1.184000,C10H7NO2
+EtOO anion,1.186000,C2H5O2-
+4-Methylphthalic anhydride,1.188000,C9H6O3
+(H2O)20 radical anion,1.189000,H40O20-
+Y4O2 radical anion,1.190000,O2Y4-
+coronene..Ti3 anion,1.190000,C24H12Ti3-
+GdO radical anion,1.190000,GdO-
+Co17O radical anion,1.190000,Co17O-
+(m-terphenyl)16 radical anion,1.190000,C288H224-
+(m-terphenyl)17 radical anion,1.190000,C306H238-
+MeSiH2 anion,1.193000,CH5Si-
+oI-C6H4CH2 anion,1.193000,C7H6I-
+mI-C6H4CH2 anion,1.193000,C7H6I-
+mCH2Cl-C6H4CH2 anion,1.194000,C8H8Cl-
+Mononitrogen monosulfide,1.194000,NS
+tBuOO anion,1.196000,C4H9O2-
+OH..H anion,1.200000,H2O-
+K(KI)3 radical anion,1.200000,I3K4-
+vanadium dichloride,1.200000,Cl2V
+K3C60,1.200000,C60K3
+CrOCl radical,1.200000,ClCrO
+VOF radical,1.200000,FOV
+(H2O)7..adenine radical anion,1.200000,C5H19N5O7-
+(benzene)3Fe3 anion,1.200000,C18H18Fe3-
+Co(COT) radical anion,1.200000,C8H8Co-
+(2-Me-anthracene)8 radical anion,1.200000,C120H96-
+Al13Cs anion,1.200000,Al13Cs-
+Si6Cs anion,1.200000,CsSi6-
+(COT)Eu anion,1.200000,C8H8Eu-
+(COT)2Eu2 anion,1.200000,C16H16Eu2-
+PbIn anion,1.200000,InPb-
+BiC6H5 anion,1.200000,C6H5Bi-
+titanium oxide,1.200000,OTi
+VC4 radical,1.200000,C4V
+Rh2Co2,1.200000,Co2Rh2
+2'-deoxyadenosine 5'-(dihydrogen phosphate),1.200000,C10H14N5O6P
+(H2O)2..C6F6 radical anion,1.200000,C6H4F6O2-
+Cu-Phthalocyanine-(SO3-)3(SO3H)[-3],1.200000,C32H13CuN8O12S4
+(7-aza-indole)3 radical anion,1.200000,C21H18N6-
+(7-aza-indole)4 radical anion,1.200000,C28H24N8-
+HOCH2CH2OH..NO anion,1.200000,C2H6NO3-
+(benzene)4..Co3 anion,1.200000,C24H24Co3-
+Co20O radical anion,1.200000,Co20O-
+Co18O2 radical anion,1.200000,Co18O2-
+"2,6-diMe-4-CO2Me-nitrobenzene radical",1.201000,C10H11NO4
+"1,1'-Biphenyl, 4-nitro-",1.201000,C12H9NO2
+Difluoromethyl radical,1.206000,CHF2
+PhCH,1.207000,C7H6
+V6,1.210000,V6
+V7,1.210000,V7
+Y7O radical,1.210000,OY7
+Chloromethylene,1.210000,CHCl
+V6O radical,1.210000,OV6
+Ti4,1.210000,Ti4
+5-Nitro-m-xylene,1.210000,C8H9NO2
+Nb14 radical anion,1.210000,Nb14-
+(2-Me-anthracene)7 radical anion,1.210000,C105H84-
+BiC5H4N anion,1.210000,C5H4BiN-
+PtCO anion,1.212000,COPt-
+V3O radical,1.218000,OV3
+"Benzonitrile, 4-formyl-",1.219000,C8H5NO
+"1,3-Isobenzofurandione, 4-methyl-",1.219000,C9H6O3
+Fe(CO)2,1.220000,C2FeO2
+Nb12 radical anion,1.220000,Nb12-
+(m-terphenyl)18 radical anion,1.220000,C324H252-
+(o-terphenyl)15 radical anion,1.220000,C270H210-
+Co19O radical anion,1.220000,Co19O-
+Co16O2 radical anion,1.220000,Co16O2-
+Chromium monoxide,1.221000,CrO
+(H2O)21 radical anion,1.223000,H42O21-
+"Benzoic acid, 3-nitro-, methyl ester",1.227000,C8H7NO4
+"Naphthalene, 1-nitro-",1.227000,C10H7NO2
+pBr-C6H4CH2 anion,1.229000,C7H6Br-
+vanadium oxide,1.229000,OV
+Co20O2 radical anion,1.230000,Co20O2-
+Y6O radical,1.230000,OY6
+AgNH2 anion,1.230000,AgH2N-
+(m-terphenyl)19 radical anion,1.230000,C342H266-
+"3,5-Bis(trifluoromethyl)benzaldehyde",1.232000,C9H4F6O
+germanium,1.233000,Ge
+copper,1.236000,Cu
+"Benzene, 1-fluoro-3-nitro-",1.236000,C6H4FNO2
+"1,4-Benzenedicarboxaldehyde",1.236000,C8H6O2
+CCCO,1.237000,C3O
+"Phosphinyl radical, dimethoxy-",1.240000,C2H6O3P
+coronene..V3 anion,1.240000,C24H12V3-
+Nb8Al radical,1.240000,AlNb8
+Vanadium tetramer,1.240000,V4
+V5,1.240000,V5
+(N2O)7..NO anion,1.240000,N15O8-
+(m-terphenyl)20 radical anion,1.240000,C360H280-
+(o-terphenyl)16 radical anion,1.240000,C288H224-
+(anthracene)6 radical anion,1.240000,C84H60-
+(anthracene)7 radical anion,1.240000,C98H70-
+2-Cyanoethyl radical,1.240000,C3H4N
+uranium tetrafluoride,1.244000,F4U
+Phthalic anhydride,1.245000,C8H4O3
+oOMe-phenide anion,1.248000,C7H7O-
+Fumaronitrile,1.249000,C4H2N2
+(NaF)4 radical,1.250000,F4Na4
+Na(NaF)7,1.250000,F7Na8
+Nb11 radical anion,1.250000,Nb11-
+(m-terphenyl)21 radical anion,1.250000,C378H294-
+Al6Cs anion,1.250000,Al6Cs-
+Al10Cs2 anion,1.250000,Al10Cs2-
+Al13Cs3 anion,1.250000,Al13Cs3-
+Al14Cs3 anion,1.250000,Al14Cs3-
+(NH3)3..Pb2 anion,1.250000,H9N3Pb2-
+"sexi(2,2')thiophene radical anion",1.250000,C24H14S6-
+BiC4H3O anion,1.250000,C4H3BiO-
+(MeNO2)2..MeNO2 radical anion,1.252000,C3H9N3O6-
+Pt(CO)3 anion,1.253000,C3O3Pt-
+MeOCH2CHCN anion,1.253000,C4H6NO-
+"1,4-diazinide anion",1.254000,C4H3N2-
+(H2O)22 radical anion,1.255000,H44O22-
+oCl-C6H4CH2 anion,1.257000,C7H6Cl-
+naphthalen-6-yl-2-ide anion,1.258000,C10H6-
+"Benzene, 1-chloro-4-nitro-",1.258000,C6H4ClNO2
+4-Cyanobenzophenone,1.258000,C14H9NO
+NH3..Na3 radical anion,1.260000,H3NNa3-
+Co17O2 radical anion,1.260000,Co17O2-
+Co19O2 radical anion,1.260000,Co19O2-
+(H2O)5..uracil radical anion,1.260000,C4H14N2O7-
+(m-terphenyl)22 radical anion,1.260000,C396H308-
+(m-terphenyl)23 radical anion,1.260000,C414H322-
+(o-terphenyl)17 radical anion,1.260000,C306H238-
+Methylidyne,1.260000,CH
+carbon,1.262000,C
+Phosphino radical,1.263000,H2P
+Benzyne,1.265000,C6H4
+Nb13 radical anion,1.270000,Nb13-
+PbAg radical anion,1.270000,AgPb-
+(anthracene)8 radical anion,1.270000,C112H80-
+V11O2 radical anion,1.270000,O2V11-
+AsH2 anion,1.270000,AsH2-
+heptatrienide anion,1.270000,C7H9-
+V7O radical,1.270000,OV7
+Indium dimer,1.270000,In2
+Me2C=C(Me)O anion,1.271000,C5H9O-
+9-Anthracenecarbonitrile,1.271000,C15H9N
+Bismuth dimer,1.271000,Bi2
+mCl-C6H4CH2 anion,1.272000,C7H6Cl-
+Silylidyne,1.277000,HSi
+(C6F6)2..C6F6 radical anion,1.280000,C18F18-
+benzene..{fluorobenzene}..V anion,1.280000,C12H11FV-
+Cr4 anion,1.280000,Cr4-
+(coronene)2..Ti anion,1.280000,C48H24Ti-
+"Benzene, 1-chloro-3-nitro-",1.280000,C6H4ClNO2
+(2-Me-anthracene)10 radical anion,1.280000,C150H120-
+(2-Me-anthracene)12 radical anion,1.280000,C180H144-
+(2-Me-anthracene)14 radical anion,1.280000,C210H168-
+NH3..Bi anion,1.280000,BiH3N-
+Diantimony,1.282000,Sb2
+3-Nitrobenzophenone,1.284000,C13H9NO3
+(H2O)23 radical anion,1.285000,H46O23-
+AsO anion,1.286000,AsO-
+norbornadienide anion,1.286000,C7H7-
+cyclooctatetraene..Fe(CO)3 anion,1.288000,C11H8FeO3-
+Y2O2 radical anion,1.290000,O2Y2-
+Y3O3 radical anion,1.290000,O3Y3-
+molybdenum oxide,1.290000,MoO
+(m-terphenyl)24 radical anion,1.290000,C432H336-
+(2-Me-anthracene)11 radical anion,1.290000,C165H132-
+AgOMe anion,1.290000,CH3AgO-
+ZrO anion,1.290000,OZr-
+"Benzene, 1,2-dichloro-3-nitro-",1.292000,C6H3Cl2NO2
+"Benzene, 1-bromo-4-nitro-",1.292000,C6H4BrNO2
+pentaMe-cyclopentadienide anion,1.293000,C10H15-
+2-Me-maleic anhydride radical anion,1.297000,C5H4O3-
+(KI)2 radical anion,1.300000,I2K2-
+K(KI)7 radical anion,1.300000,I7K8-
+K2(KI)11 radical anion,1.300000,I11K13-
+In3P3 radical anion,1.300000,In3P3-
+Disodium difluoride,1.300000,F2Na2
+Germanium difluoride,1.300000,F2Ge
+AsF radical,1.300000,AsF
+AsCl radical,1.300000,AsCl
+AsBr radical,1.300000,AsBr
+antimony pentafluoride,1.300000,F5Sb
+p-difluorobenzene..O2 radical anion,1.300000,C6H4F2O2-
+(o-terphenyl)18 radical anion,1.300000,C324H252-
+(benzene)2Fe3 anion,1.300000,C12H12Fe3-
+(benzene)2Fe4 anion,1.300000,C12H12Fe4-
+(benzene)3Fe5 anion,1.300000,C18H18Fe5-
+(benzene)4Fe5 anion,1.300000,C24H24Fe5-
+(2-Me-anthracene)13 radical anion,1.300000,C195H156-
+Al8Cs anion,1.300000,Al8Cs-
+CoNb4 anion,1.300000,CoNb4-
+(NH3)2..Bi anion,1.300000,BiH6N2-
+Pb2S2 anion,1.300000,Pb2S2-
+VC6 radical,1.300000,C6V
+Si4Na radical anion,1.300000,NaSi4-
+LaC3 radical anion,1.300000,C3La-
+Ru6C(CO)16 dianion,1.300000,C17O16Ru6-2
+CF3CF2CH2OH..uracil radical anion,1.300000,C7H7F5N2O3-
+Boron,1.300000,B2
+NI,1.301000,IN
+Dichlorine monoxide,1.301000,Cl2O
+silver,1.304000,Ag
+Phenazine,1.305000,C12H8N2
+mBr-C6H4CH2 anion,1.307000,C7H6Br-
+oBr-C6H4CH2 anion,1.308000,C7H6Br-
+"2,6-diMe-4-COMe-nitrobenzene radical",1.309000,C10H11NO3
+9-Anthracenecarboxaldehyde,1.310000,C15H10O
+coronene..Ti anion,1.310000,C24H12Ti-
+coronene..Ti4 anion,1.310000,C24H12Ti4-
+(benzene)2..Co anion,1.310000,C12H12Co-
+AgAu radical,1.310000,AgAu
+Ti6,1.310000,Ti6
+(m-terphenyl)25 radical anion,1.310000,C450H350-
+(2-Me-anthracene)15 radical anion,1.310000,C225H180-
+(2-Me-anthracene)16 radical anion,1.310000,C240H192-
+Co2O radical anion,1.310000,Co2O-
+(H2O)24 radical anion,1.314000,H48O24-
+"Benzene, 1-bromo-3-nitro-",1.318000,C6H4BrNO2
+(p-terphenyl)16 radical anion,1.320000,C288H224-
+(m-terphenyl)26 radical anion,1.320000,C468H364-
+(o-terphenyl)19 radical anion,1.320000,C342H266-
+MnS2 radical anion,1.320000,MnS2-
+(anthracene)11 radical anion,1.320000,C154H110-
+(2-Me-anthracene)18 radical anion,1.320000,C270H216-
+(2-Me-anthracene)19 radical anion,1.320000,C285H228-
+(1-Me-anthracene)6 radical anion,1.320000,C90H72-
+H2O..O2C(CH2)4CO2 dianion,1.320000,C6H10O5-2
+C60Na29 radical anion,1.320000,C60Na29-
+AlSi anion,1.320000,AlSi-
+Nb4Al radical,1.320000,AlNb4
+Y9O radical,1.320000,OY9
+Copper tetramer,1.320000,Cu4
+Carbon monoxide,1.326000,CO
+"Ethanone, 1-(3-nitrophenyl)-",1.327000,C8H7NO3
+SnBr2 radical anion,1.330000,Br2Sn-
+Zn(SC(CN)=C(CN)S)2 dianion,1.330000,C8N4S4Zn-2
+(p-terphenyl)18 radical anion,1.330000,C324H252-
+(p-terphenyl)20 radical anion,1.330000,C360H280-
+(m-terphenyl)27 radical anion,1.330000,C486H378-
+(anthracene)10 radical anion,1.330000,C140H100-
+V8 anion,1.330000,V8-
+C70Na14 radical anion,1.330000,C70Na14-
+C60Na8 radical anion,1.330000,C60Na8-
+V8O radical,1.330000,OV8
+PhSi(Me)H,1.331000,C7H9Si
+"2-Nitro-α,α,α-trifluorotoluene",1.331000,C7H4F3NO2
+Mo(CO)3 anion,1.337000,C3MoO3-
+Si6C radical anion,1.340000,CSi6-
+(H2O)25 radical anion,1.340000,H50O25-
+Y8O2 radical anion,1.340000,O2Y8-
+Y8O radical,1.340000,OY8
+O2C(CH2)5CO2 dianion,1.340000,C7H10O4-2
+(H2O)6..uracil radical anion,1.340000,C4H16N2O8-
+(p-terphenyl)19 radical anion,1.340000,C342H266-
+(m-terphenyl)28 radical anion,1.340000,C504H392-
+(m-terphenyl)29 radical anion,1.340000,C522H406-
+(anthracene)12 radical anion,1.340000,C168H120-
+(2-Me-anthracene)17 radical anion,1.340000,C255H204-
+(2-Me-anthracene)20 radical anion,1.340000,C300H240-
+(azulene)3 radical anion,1.340000,C30H24-
+α-Furil,1.344000,C10H6O4
+ICN radical anion,1.345000,CIN-
+Difluoroamino radical,1.349000,F2N
+Cr(CO)3,1.349000,C3CrO3
+(KI)7 radical anion,1.350000,I7K7-
+(KI)10 radical anion,1.350000,I10K10-
+K(KI)10 radical anion,1.350000,I10K11-
+K2(KI)8 radical anion,1.350000,I8K10-
+Lithium fluoride,1.350000,FLi
+(o-terphenyl)20 radical anion,1.350000,C360H280-
+(o-terphenyl)21 radical anion,1.350000,C378H294-
+(anthracene)13 radical anion,1.350000,C182H130-
+(anthracene)14 radical anion,1.350000,C196H140-
+(anthracene)15 radical anion,1.350000,C210H150-
+(anthracene)16 radical anion,1.350000,C224H160-
+(anthracene)17 radical anion,1.350000,C238H170-
+(anthracene)18 radical anion,1.350000,C252H180-
+(anthracene)19 radical anion,1.350000,C266H190-
+(anthracene)20 radical anion,1.350000,C280H200-
+Ta3 anion,1.350000,Ta3-
+Nb5 radical,1.350000,Nb5
+Nb7 radical,1.350000,Nb7
+Si5Na2 radical anion,1.350000,Na2Si5-
+C70Na15 radical anion,1.350000,C70Na15-
+V8O2 radical anion,1.350000,O2V8-
+Pd3,1.350000,Pd3
+Yttrium monoxide,1.350000,OY
+ScO radical,1.350000,OSc
+"Phosphorus, mol. (P4)",1.350000,P4
+Pd4,1.350000,Pd4
+MoC radical anion,1.358000,CMo-
+(C6F6)4..C6F6 radical anion,1.360000,C30F30-
+(7-aza-indole)6 radical anion,1.360000,C42H36N12-
+Cr3 anion,1.360000,Cr3-
+coronene..Ti5 anion,1.360000,C24H12Ti5-
+(coronene)2..V2 anion,1.360000,C48H24V2-
+(H2O)5..SO4 dianion,1.360000,H10O9S-2
+(p-terphenyl)25 radical anion,1.360000,C450H350-
+(m-terphenyl)30 radical anion,1.360000,C540H420-
+(1-Me-anthracene)7 radical anion,1.360000,C105H84-
+AgS4 anion,1.360000,AgS4-
+Al13Rb radical anion,1.360000,Al13Rb-
+N-Phenylmaleimide,1.362000,C10H7NO2
+Diphenylmethyl radical,1.363000,C13H11
+Dilead,1.366000,Pb2
+(H2O)26 radical anion,1.366000,H52O26-
+(m-terphenyl)35 radical anion,1.370000,C630H490-
+(2-Me-anthracene)9 radical anion,1.370000,C135H108-
+Silicon dicarbide,1.370000,C2Si
+Ni(SALEN-H2) radical,1.370000,C16H12N2NiO2
+manganese oxide,1.375000,MnO
+mNO-C6H4CH2 anion,1.380000,C7H6NO-
+Fe4S radical anion,1.380000,Fe4S-
+Co3O radical anion,1.380000,Co3O-
+NbC2,1.380000,C2Nb
+C60Na18 radical anion,1.380000,C60Na18-
+(7-aza-indole)5 radical anion,1.380000,C35H30N10-
+Me2C=CHO anion,1.380000,C4H7O-
+coronene..V anion,1.380000,C24H12V-
+Nb7Al radical,1.380000,AlNb7
+Me3Ge anion,1.383000,C3H9Ge-
+mF-phenide anion,1.383000,C6H4F-
+Silyl-d3 radical,1.386000,D3Si
+"2,3-Pyridinedicarboxylic anhydride",1.388000,C7H3NO3
+silicon,1.390000,Si
+(H2O)27 radical anion,1.390000,H54O27-
+C60Na7 radical anion,1.390000,C60Na7-
+C60Na11 radical anion,1.390000,C60Na11-
+NiC3 radical anion,1.390000,C3Ni-
+pyridine..O2 radical anion,1.390000,C5H5NO2-
+"(H2O)3..1,3-O2C-C6H4-CO2 dianion",1.390000,C8H10O7-2
+Fe7,1.390000,Fe7
+(o-terphenyl)22 radical anion,1.390000,C396H308-
+Ta2B2 anion,1.390000,B2Ta2-
+"2,6-diMe-4-CHO-nitrobenzene radical",1.391000,C9H9NO3
+Pentacene,1.392000,C22H14
+Nb3O radical,1.393000,Nb3O
+Me2C=NO anion,1.396000,C3H6NO-
+"Ethanone, 1-(2-nitrophenyl)-",1.396000,C8H7NO3
+pOMe-anilide anion,1.398000,C7H8NO-
+V2C10 radical anion,1.400000,C10V2-
+V4C6 radical anion,1.400000,C6V4-
+(p-terphenyl)27 radical anion,1.400000,C486H378-
+(p-terphenyl)29 radical anion,1.400000,C522H406-
+(m-terphenyl)40 radical anion,1.400000,C720H560-
+(benzene)4Fe3 anion,1.400000,C24H24Fe3-
+(benzene)4Fe4 anion,1.400000,C24H24Fe4-
+(benzene)4Fe7 anion,1.400000,C24H24Fe7-
+Pb-pyridinyl radical anion,1.400000,C5H4NPb-
+(anthracene)9 radical anion,1.400000,C126H90-
+AgS2 anion,1.400000,AgS2-
+Al11Cs2 anion,1.400000,Al11Cs2-
+Al12Cs2 anion,1.400000,Al12Cs2-
+Si7Cs anion,1.400000,CsSi7-
+SmSi3 anion,1.400000,Si3Sm-
+CoNb12 anion,1.400000,CoNb12-
+CoNb13 anion,1.400000,CoNb13-
+N-acetyl-proline radical,1.400000,C7H11NO3
+Rh6,1.400000,Rh6
+"2,4(1H,3H)-Pyrimidinedithione",1.400000,C4H4N2S2
+Rh5,1.400000,Rh5
+adenosine phosphate,1.400000,C10H14N5O7P
+VC5 radical,1.400000,C5V
+(KI)8 radical anion,1.400000,I8K8-
+K(KI)11 radical anion,1.400000,I11K12-
+K2(KI)10 radical anion,1.400000,I10K12-
+LaC2 radical anion,1.400000,C2La-
+LaC4 radical anion,1.400000,C4La-
+coronene..V4 anion,1.400000,C24H12V4-
+VOCl radical,1.400000,ClOV
+NbCl4 radical,1.400000,Cl4Nb
+tantalum tetrachloride,1.400000,Cl4Ta
+AlS3,1.400000,AlS3
+Decafluorocyclohexene,1.400000,C6F10
+Me2SiHSiMe2 anion,1.401000,C4H13Si2-
+1-naphthalenide anion,1.403000,C10H7-
+Silyl radical,1.406000,H3Si
+Phosphorus oxychloride,1.409000,Cl3OP
+V7O2 radical anion,1.410000,O2V7-
+naphthalene..O2 radical anion,1.410000,C10H8O2-
+V10O radical,1.410000,OV10
+V9O radical,1.410000,OV9
+Cu8,1.410000,Cu8
+(p-terphenyl)28 radical anion,1.410000,C504H392-
+(m-terphenyl)50 radical anion,1.410000,C900H700-
+(o-terphenyl)23 radical anion,1.410000,C414H322-
+(o-terphenyl)24 radical anion,1.410000,C432H336-
+CoNb14 anion,1.410000,CoNb14-
+Nb6 radical,1.410000,Nb6
+(H2O)28 radical anion,1.413000,H56O28-
+"Benzene, pentafluoroiodo-",1.414000,C6F5I
+"Benzene, 1-nitro-3-(trifluoromethyl)-",1.414000,C7H4F3NO2
+pCl-phenide anion,1.418000,C6H4Cl-
+H2O..O2 radical anion,1.420000,H2O3-
+VC2 radical anion,1.420000,C2V-
+(p-terphenyl)30 radical anion,1.420000,C540H420-
+MeCH=NO anion,1.422000,C2H4NO-
+(H2O)2..NO anion,1.430000,H4NO3-
+(o-terphenyl)25 radical anion,1.430000,C450H350-
+Fe2S radical anion,1.430000,Fe2S-
+(1-Me-anthracene)8 radical anion,1.430000,C120H96-
+Nb3C9 radical anion,1.430000,C9Nb3-
+(NH3)2..Na3 radical anion,1.430000,H6N2Na3-
+(NH3)3..Na3 radical anion,1.430000,H9N3Na3-
+V9O2 radical anion,1.430000,O2V9-
+V12O2 radical anion,1.430000,O2V12-
+V13O2 radical anion,1.430000,O2V13-
+V14O2 radical anion,1.430000,O2V14-
+"2,6-diMe-4-CN-nitrobenzene radical",1.430000,C9H8N2O2
+quinolinide anion,1.431000,C9H6N-
+2-naphthalenide anion,1.431000,C10H7-
+"Anthracene, 9-nitro-",1.431000,C14H9NO2
+NaBO2 radical,1.431000,BNaO2
+"Benzaldehyde, 3-nitro-",1.431000,C7H5NO3
+MeCH=C(Et)O anion,1.433000,C5H9O-
+Phenyl silyl radical,1.435000,C6H7Si
+Maleic anhydride,1.440000,C4H2O3
+C60Na17 radical anion,1.440000,C60Na17-
+Fe3O anion,1.440000,Fe3O-
+W3 radical anion,1.440000,W3-
+(NaCl)7 radical anion,1.440000,Cl7Na7-
+Nb5Al radical,1.440000,AlNb5
+Y3O2 radical,1.440000,O2Y3
+Ni3,1.440000,Ni3
+(H2O)7..uracil radical anion,1.440000,C4H18N2O9-
+(m-terphenyl)60 radical anion,1.440000,C1080H840-
+(m-terphenyl)80 radical anion,1.440000,C1440H1120-
+(o-terphenyl)26 radical anion,1.440000,C468H364-
+CoNb15 anion,1.440000,CoNb15-
+Rh4Co anion,1.440000,CoRh4-
+9-anthryl-CH2 anion,1.440000,C15H11-
+cycloheptanone enolate anion,1.444000,C7H11O-
+"Benzene, 1,2-dichloro-4-nitro-",1.444000,C6H3Cl2NO2
+CoH2,1.450000,CoH2
+(m-terphenyl)70 radical anion,1.450000,C1260H980-
+(o-terphenyl)28 radical anion,1.450000,C504H392-
+(o-terphenyl)29 radical anion,1.450000,C522H406-
+EuSi3 anion,1.450000,EuSi3-
+Fe3S radical anion,1.450000,Fe3S-
+Al14Cs2 anion,1.450000,Al14Cs2-
+CoNb5 anion,1.450000,CoNb5-
+BiC4H4N anion,1.450000,C4H4BiN-
+B2O3 anion,1.450000,B2O3-
+K(KI)8 radical anion,1.450000,I8K9-
+K(KI)12 radical anion,1.450000,I12K13-
+V9 anion,1.450000,V9-
+V13 anion,1.450000,V13-
+(H2O)2..O2C(CH2)3CO2 dianion,1.450000,C5H10O6-2
+C70Na8 radical anion,1.450000,C70Na8-
+C70Na12 radical anion,1.450000,C70Na12-
+C60Na10 radical anion,1.450000,C60Na10-
+Pd5,1.450000,Pd5
+cobalt oxide,1.450000,CoO
+As3,1.450000,As3
+"Benzene, pentafluoronitro-",1.453000,C6F5NO2
+HCBr radical,1.454000,CHBr
+(NH3)2..H anion,1.455000,H7N2-
+(H2O)30 radical anion,1.456000,H60O30-
+Selenium oxide,1.456000,OSe
+Si6Na2 radical anion,1.460000,Na2Si6-
+RhC anion,1.460000,CRh-
+CO2..pyridine radical anion,1.460000,C6H5NO2-
+V10O2 radical anion,1.460000,O2V10-
+V11O radical,1.460000,OV11
+V12O radical,1.460000,OV12
+W2 radical,1.460000,W2
+Ti8,1.460000,Ti8
+Dialuminum,1.460000,Al2
+Ag3Au radical,1.460000,Ag3Au
+Ag2Au2 radical,1.460000,Ag2Au2
+Au2Zn anion,1.460000,Au2Zn-
+(o-terphenyl)27 radical anion,1.460000,C486H378-
+(o-terphenyl)30 radical anion,1.460000,C540H420-
+"Oxygen, atomic",1.461000,O
+PhN radical,1.461000,C6H5N
+fluoro-p-benzoquinone radical,1.461000,C6H3FO2
+"Benzoic acid, 4-nitro-, methyl ester",1.461000,C8H7NO4
+Cr2D radical anion,1.464000,Cr2D-
+CoD2,1.465000,CoD2
+Me2C=C(iPr)O anion,1.466000,C7H13O-
+copper cyanide,1.466000,CCuN
+pMe-anilide anion,1.467000,C7H8N-
+(C6F6)3..C6F6 radical anion,1.470000,C24F24-
+VC3 radical anion,1.470000,C3V-
+(m-terphenyl)90 radical anion,1.470000,C1620H1260-
+Pb4S4 anion,1.470000,Pb4S4-
+Nb10Al radical,1.470000,AlNb10
+Nb9Al radical,1.470000,AlNb9
+nickel monoxide,1.470000,NiO
+Fe3,1.470000,Fe3
+"Benzene, 2-methyl-1,3-dinitro-",1.470000,C7H6N2O4
+BrClCH anion,1.472000,CHBrCl-
+CoO2 radical,1.472000,CoO2
+Cr2H radical anion,1.474000,Cr2H-
+CrC3 radical anion,1.474000,C3Cr-
+"Ethane, hexachloro-",1.479000,C2Cl6
+(m-terphenyl)100 radical anion,1.480000,C1800H1400-
+(o-terphenyl)35 radical anion,1.480000,C630H490-
+Fe2(coronene)2 radical anion,1.480000,C48H24Fe2-
+(1-Me-anthracene)9 radical anion,1.480000,C135H108-
+C6F6..Ag anion,1.480000,C6AgF6-
+p-pyridinide anion,1.480000,C5H4N-
+Cu(NH2)2,1.480000,CuH4N2
+C60Na20 radical anion,1.480000,C60Na20-
+C60Na26 radical anion,1.480000,C60Na26-
+(7-aza-indole)7 radical anion,1.480000,C49H42N14-
+W6 radical anion,1.480000,W6-
+(H2O)7..O2CCO2 dianion,1.480000,C2H14O11-2
+Y10O radical,1.480000,OY10
+MeSOCH2 anion,1.480000,C2H5OS-
+V10 anion,1.490000,V10-
+V11 anion,1.490000,V11-
+V12 anion,1.490000,V12-
+V15 anion,1.490000,V15-
+C60Na13 radical anion,1.490000,C60Na13-
+coronene..V5 anion,1.490000,C24H12V5-
+"H2O..1,4-O2C-C6H4-CO2 dianion",1.490000,C8H6O5-2
+(p-terphenyl)50 radical anion,1.490000,C900H700-
+(1-Me-anthracene)10 radical anion,1.490000,C150H120-
+"2,5-diMe-cyclopentanone enolate",1.492000,C7H11O
+TiC4 anion,1.494000,C4Ti-
+iron oxide,1.495000,FeO
+Tribromosilyl radical,1.500000,Br3Si
+(EtNO2)2..EtNO2 anion,1.500000,C6H15N3O6-
+V2C3 radical anion,1.500000,C3V2-
+V2C11 radical anion,1.500000,C11V2-
+(p-terphenyl)60 radical anion,1.500000,C1080H840-
+(o-terphenyl)40 radical anion,1.500000,C720H560-
+Fe(coronene)2 radical anion,1.500000,C48H24Fe-
+Al13Cs2 anion,1.500000,Al13Cs2-
+SmSi4 anion,1.500000,Si4Sm-
+SmSi6 anion,1.500000,Si6Sm-
+Rh2 anion,1.500000,Rh2-
+Bi3C6H5 anion,1.500000,C6H5Bi3-
+Bi3C4H3O anion,1.500000,C4H3Bi3O-
+Pb4,1.500000,Pb4
+K(KI)9 radical anion,1.500000,I9K10-
+(MeO)3PO..UO2(CF3COCHCOCF3)2 radical anion,1.500000,C13H11F12O10PU-
+C70Na11 radical anion,1.500000,C70Na11-
+C60Na21 radical anion,1.500000,C60Na21-
+(benzene)5..Co anion,1.500000,C30H30Co-
+Ni4 radical anion,1.500000,Ni4-
+cyclopentoxide anion,1.500000,C5H9O-
+(CF3)2CHOH..uracil radical anion,1.500000,C7H6F6N2O3-
+V13O radical,1.500000,OV13
+V15O radical,1.500000,OV15
+In3,1.500000,In3
+C60H18 radical,1.500000,C60H18
+Cr(O2) radical,1.500000,CrO2
+Sulfur tetrafluoride,1.500000,F4S
+(benzene)5Ti4,1.500000,C30H30Ti4
+"3,3,4,4,5,5-hexafluorodihydro-2H-pyran-2,6(3H)-dione",1.500000,C5F6O3
+"4-Nitro-α,α,α-trifluorotoluene",1.500000,C7H4F3NO2
+"3,5-Dichloronitrobenzene",1.500000,C6H3Cl2NO2
+chlorine fluoride,1.500000,ClF
+CH2=C(NH2)O anion,1.501000,C2H4NO-
+OCuO anion,1.503000,CuO2-
+benzynide anion,1.506000,C6H3-
+Si6Na3 radical anion,1.510000,Na3Si6-
+C60Na22 radical anion,1.510000,C60Na22-
+C60Na24 radical anion,1.510000,C60Na24-
+Pb6F anion,1.510000,FPb6-
+RhN anion,1.510000,NRh-
+Fe6,1.510000,Fe6
+Nickel tetraphenylporphyrin,1.510000,C44H28N4Ni
+LaC7 radical,1.510000,C7La
+Hydrocarboxyl radical,1.510000,CHO2
+Hydroxycarbonyl-d1,1.510000,CDO2
+tBuCH=NO anion,1.513000,C5H10NO-
+Nb8 radical,1.513000,Nb8
+HP2 anion,1.514000,HP2-
+Al3S anion,1.520000,Al3S-
+(C6F6)5..C6F6 radical anion,1.520000,C36F36-
+C70Na7 radical anion,1.520000,C70Na7-
+PtBr6 dianion,1.520000,Br6Pt-2
+(p-terphenyl)70 radical anion,1.520000,C1260H980-
+(1-Me-anthracene)11 radical anion,1.520000,C165H132-
+Phosphorous bromide dichloride,1.522000,BrCl2P
+Dichloromethyl radical,1.522000,CHCl2
+"Methanone, bis(pentafluorophenyl)-",1.522000,C13F10O
+cyclohexanone enolate anion,1.526000,C6H9O-
+"1,3,5-triazinide anion",1.529000,C3H2N3-
+(p-terphenyl)80 radical anion,1.530000,C1440H1120-
+Mn4S4 radical anion,1.530000,Mn4S4-
+(1-Me-anthracene)12 radical anion,1.530000,C180H144-
+Al2Co6 anion,1.530000,Al2Co6-
+coronene..Ti2 anion,1.530000,C24H12Ti2-
+H2O..H anion,1.530000,H3O-
+Nb11Al radical,1.530000,AlNb11
+(Me2P)2CH anion,1.531000,C5H13P2-
+(H2O)34 radical anion,1.531000,H68O34-
+europium dichloride,1.534000,Cl2Eu
+CD2CN anion,1.538000,C2D2N-
+C70Na13 radical anion,1.540000,C70Na13-
+C60Na25 radical anion,1.540000,C60Na25-
+(p-terphenyl)90 radical anion,1.540000,C1620H1260-
+(p-terphenyl)100 radical anion,1.540000,C1800H1400-
+(o-terphenyl)50 radical anion,1.540000,C900H700-
+H2O..UO2F4 dianion,1.540000,F4H2O3U-2
+9-OMe-fluorenide anion,1.542000,C14H11O-
+Titanium dicarbide,1.542000,C2Ti
+C2Cl5 anion,1.544000,C2Cl5-
+Ar..O radical anion,1.547000,ArO-
+Au2Mg anion,1.550000,Au2Mg-
+EuSi6 anion,1.550000,EuSi6-
+(1-Me-anthracene)13 radical anion,1.550000,C195H156-
+Na2Sn4 anion,1.550000,Na2Sn4-
+Nb2O3,1.550000,Nb2O3
+(KI)11 radical anion,1.550000,I11K11-
+V14 anion,1.550000,V14-
+CoC3 radical anion,1.550000,C3Co-
+V15O2 radical anion,1.550000,O2V15-
+(NaCl)2 radical anion,1.550000,Cl2Na2-
+Ti9,1.550000,Ti9
+Ru3Co,1.550000,CoRu3
+O2C(CH2)6CO2 dianion,1.550000,C8H12O4-2
+PhNMe anion,1.554000,C7H8N-
+Hydroxymethyl-d3 radical,1.555000,CD3O
+"Benzaldehyde, 2-nitro-",1.557000,C7H5NO3
+"9,10-Anthracenedione, 2-(1,1-dimethylethyl)-",1.557000,C18H16O2
+"9,10-Anthracenedione, 2-ethyl-",1.557000,C16H12O2
+Ph3C anion,1.559000,C19H15-
+(Me3Si)2CH anion,1.559000,C7H19Si2-
+CrMoO7 dianion,1.560000,CrMoO7-2
+V14O radical,1.560000,OV14
+(o-terphenyl)60 radical anion,1.560000,C1080H840-
+(o-terphenyl)70 radical anion,1.560000,C1260H980-
+MnS3 radical anion,1.560000,MnS3-
+(1-Me-anthracene)14 radical anion,1.560000,C210H168-
+Bi3C5H4N anion,1.560000,C5H4Bi3N-
+TiC3 anion,1.561000,C3Ti-
+iridium,1.564000,Ir
+mCl-phenide anion,1.565000,C6H4Cl-
+"Acetophenone, 4'-nitro-",1.565000,C8H7NO3
+"Benzonitrile, 3-nitro-",1.565000,C7H4N2O2
+SnPb,1.569000,PbSn
+MeO anion,1.569000,CH3O-
+"Methanone, (4-nitrophenyl)phenyl-",1.570000,C13H9NO3
+"Methane, trifluoroiodo-",1.570000,CF3I
+C60Na23 radical anion,1.570000,C60Na23-
+C60Na27 radical anion,1.570000,C60Na27-
+Ni5 radical anion,1.570000,Ni5-
+MeCH=CHO anion,1.570000,C3H5O-
+(1-Me-anthracene)15 radical anion,1.570000,C225H180-
+palladium monoxide,1.570000,OPd
+Al3O radical,1.570000,Al3O
+Re2,1.571000,Re2
+Al13K radical anion,1.580000,Al13K-
+(azulene)4 radical anion,1.580000,C40H32-
+(H2O)37 radical anion,1.580000,H74O37-
+RhO anion,1.580000,ORh-
+(CO2)2..pyridine radical anion,1.580000,C7H5NO4-
+Cr5 anion,1.580000,Cr5-
+W5 radical anion,1.580000,W5-
+Co4O radical anion,1.580000,Co4O-
+PtCl6 dianion,1.580000,Cl6Pt-2
+Ta3O radical,1.583000,OTa3
+mMe-anilide anion,1.584000,C7H8N-
+zirconium silicide,1.584000,SiZr
+NdCl2..Cl anion,1.586000,Cl3Nd-
+Magnesium chloride,1.589000,ClMg
+TiO2,1.589000,O2Ti
+C60Na14 radical anion,1.590000,C60Na14-
+Cr8 anion,1.590000,Cr8-
+Fe2(coronene) radical anion,1.590000,C24H12Fe2-
+(1-Me-anthracene)16 radical anion,1.590000,C240H192-
+CoNb6 anion,1.590000,CoNb6-
+Phosphorus tribromide,1.591000,Br3P
+"9,10-Anthracenedione",1.591000,C14H8O2
+AgCl anion,1.593000,AgCl-
+Dichloromethylene,1.593000,CCl2
+Cyanomethyl radical,1.593000,C2H2N
+3-Nitrobenzyl radical,1.594000,C7H6NO2
+C3S anion,1.596000,C3S-
+cyclopentanone enolate anion,1.598000,C5H7O-
+KrO anion,1.600000,KrO-
+V3C6 radical anion,1.600000,C6V3-
+p-xylene..O2 radical anion,1.600000,C8H10O2-
+(o-terphenyl)80 radical anion,1.600000,C1440H1120-
+EuSi4 anion,1.600000,EuSi4-
+(1-Me-anthracene)17 radical anion,1.600000,C255H204-
+PbC6F5 anion,1.600000,C6F5Pb-
+SmSi5 anion,1.600000,Si5Sm-
+SmSi7 anion,1.600000,Si7Sm-
+PrSi4 anion,1.600000,PrSi4-
+CoNb7 anion,1.600000,CoNb7-
+MoVO2 radical anion,1.600000,MoO2V-
+Fe2BO2 anion,1.600000,BFe2O2-
+Fe4BO2 anion,1.600000,BFe4O2-
+pyrromethene 556 dianion,1.600000,C14H15BF2N2O6S-2
+(KI)9 radical anion,1.600000,I9K9-
+(KI)13 radical anion,1.600000,I13K13-
+K(KI)13 radical anion,1.600000,I13K14-
+K2(KI)12 radical anion,1.600000,I12K14-
+THF..UO2(CF3COCHCOCF3)2 radical anion,1.600000,C14H10F12O7U-
+H2O..O2C(CH2)5CO2 dianion,1.600000,C7H12O5-2
+C60Na5 radical anion,1.600000,C60Na5-
+C60Na16 radical anion,1.600000,C60Na16-
+Ga2 anion,1.600000,Ga2-
+B4 anion,1.600000,B4-
+Fe2O radical,1.600000,Fe2O
+"Benzene, 1-methyl-2,4-dinitro-",1.600000,C7H6N2O4
+Bismuth trimer,1.600000,Bi3
+Phosphorus difluoride,1.600000,F2P
+Germanium dibromide,1.600000,Br2Ge
+Co3 radical,1.600000,Co3
+H3B-S(Me)CH2 anion,1.600000,C2H8BS-
+H3B-N(Me)2CH2 anion,1.600000,C3H11BN-
+H3B-P(Me)2CH2 anion,1.600000,C3H11BP-
+silver cyanide,1.602000,CAgN
+(Z)CD3CD=CDO anion,1.603000,C3D5O-
+AgI anion,1.603000,AgI-
+LaC6 radical anion,1.604000,C6La-
+Anilino radical,1.607000,C6H6N
+2-norbornanone enolate anion,1.609000,C7H9O-
+"Benzonitrile, 2-nitro-",1.609000,C7H4N2O2
+Si4C2 radical anion,1.610000,C2Si4-
+Si7Na2 radical anion,1.610000,Na2Si7-
+C70Na5 radical anion,1.610000,C70Na5-
+C60Na19 radical anion,1.610000,C60Na19-
+C60Na30 radical anion,1.610000,C60Na30-
+C60Na32 radical anion,1.610000,C60Na32-
+Disiladicarbide,1.610000,C2Si2
+Nb12Al radical,1.610000,AlNb12
+Ag8,1.610000,Ag8
+(o-terphenyl)90 radical anion,1.610000,C1620H1260-
+(o-terphenyl)100 radical anion,1.610000,C1800H1400-
+BiC6F5 anion,1.610000,C6BiF5-
+Ag3H anion,1.610000,Ag3H-
+Germyl radical,1.611000,GeH3
+Bismuth monoxide,1.617000,BiO
+InP2 radical anion,1.617000,InP2-
+CrC2 radical anion,1.617000,C2Cr-
+CH2=CHCHCN anion,1.617000,C4H4N-
+Nb16 radical anion,1.620000,Nb16-
+Al3O2 radical anion,1.620000,Al3O2-
+p-difluorobenzene..O4 radical anion,1.620000,C6H4F2O4-
+(1-Me-anthracene)18 radical anion,1.620000,C270H216-
+CoNb8 anion,1.620000,CoNb8-
+Nb2O4 anion,1.620000,Nb2O4-
+MeCN..UO2F4 dianion,1.620000,C2H3F4NO2U-2
+Bi2C6H5 anion,1.620000,C6H5Bi2-
+MgO4 radical anion,1.620000,MgO4-
+Duroquinone,1.622000,C10H12O2
+AgBr anion,1.623000,AgBr-
+LuO anion,1.624000,LuO-
+BiGa anion,1.630000,BiGa-
+Rh5Co anion,1.630000,CoRh5-
+Pb3,1.630000,Pb3
+C60Na12 radical anion,1.630000,C60Na12-
+C60Na31 radical anion,1.630000,C60Na31-
+C60Na33 radical anion,1.630000,C60Na33-
+MgO radical anion,1.630000,MgO-
+Co6 radical anion,1.630000,Co6-
+Silver tetramer,1.630000,Ag4
+"3,3-dimethyl-cyclopropenide anion",1.630000,C5H7-
+cycloctanone enolate anion,1.630000,C8H13O-
+Phosphorus dibromide chloride,1.630000,Br2ClP
+MeCH=C(Me)O anion,1.639000,C4H7O-
+ZrO2 anion,1.640000,O2Zr-
+(C6F6)7..C6F6 radical anion,1.640000,C48F48-
+ScC3 radical anion,1.640000,C3Sc-
+Pb7F anion,1.640000,FPb7-
+W4 radical anion,1.640000,W4-
+CrWO7 dianion,1.640000,CrO7W-2
+EtCH=CHO anion,1.640000,C4H7O-
+(1-Me-anthracene)19 radical anion,1.640000,C285H228-
+Nitroethylene,1.648000,C2H3NO2
+N≡CCHS,1.648000,C2HNS
+(Ar)2..O radical anion,1.648000,Ar2O-
+Al17Co anion,1.650000,Al17Co-
+Al9Cs anion,1.650000,Al9Cs-
+Al14Cs anion,1.650000,Al14Cs-
+CoNb10 anion,1.650000,CoNb10-
+(CS2)2 radical anion,1.650000,C2S4-
+Pd6 anion,1.650000,Pd6-
+Scandium dicarbide,1.650000,C2Sc
+Tl4,1.650000,Tl4
+"Benzene, 1,2-dinitro-",1.652000,C6H4N2O4
+pF-anilide anion,1.653000,C6H5FN-
+HOS anion,1.655000,HOS-
+"Benzene, 1,3-dinitro-",1.657000,C6H4N2O4
+9-Me-fluorenide anion,1.660000,C14H11-
+Fe8 anion,1.660000,Fe8-
+C60Na15 radical anion,1.660000,C60Na15-
+(NaCl)6 radical anion,1.660000,Cl6Na6-
+Mn2S2 radical anion,1.660000,Mn2S2-
+Mn4S5 radical anion,1.660000,Mn4S5-
+Al13Co anion,1.660000,Al13Co-
+"2,6-diMe-4-NO2-nitrobenzene radical",1.660000,C8H8N2O4
+Triphosphorus,1.665000,P3
+GaP2 anion,1.666000,GaP2-
+Methylcyclopentadienyl radical,1.670000,C6H7
+"3,6-dichlorophthalic anhydride",1.670000,C8H2Cl2O3
+C60Na28 radical anion,1.670000,C60Na28-
+LaC8 radical,1.670000,C8La
+Sulfur dimer,1.670000,S2
+Ti10,1.670000,Ti10
+MeOH..Ph2CO radical anion,1.670000,C14H14O2-
+Nb2C4 anion,1.670000,C4Nb2-
+PhNEt anion,1.671000,C8H10N-
+"3,5-diCF3-C6H3CH2 anion",1.675000,C9H5F6-
+DCNN anion,1.679000,CDN2-
+In2P2 radical anion,1.680000,In2P2-
+HCI radical,1.680000,CHI
+Pb2Ag radical anion,1.680000,AgPb2-
+Mn2S3 radical anion,1.680000,Mn2S3-
+(1-Me-anthracene)20 radical anion,1.680000,C300H240-
+MeOH..Ag anion,1.680000,CH4AgO-
+Bi2C5H4N anion,1.680000,C5H4Bi2N-
+Bi2C4H3O anion,1.680000,C4H3Bi2O-
+C60Na4 radical anion,1.680000,C60Na4-
+FeC3 radical anion,1.680000,C3Fe-
+Co7 radical anion,1.680000,Co7-
+Pb7,1.680000,Pb7
+Cr10,1.680000,Cr10
+HCNN anion,1.684000,CHN2-
+Palladium dimer,1.685000,Pd2
+NbC3,1.686000,C3Nb
+"2,3,6-trimethyl-p-benzoquinone",1.687000,C9H10O2
+C60Na6 radical anion,1.690000,C60Na6-
+Ti11,1.690000,Ti11
+Tetraphenylporphyrin,1.690000,C44H30N4
+Al12Si anion,1.690000,Al12Si-
+cyclononanone enolate anion,1.691000,C9H15O-
+"Benzaldehyde, 4-nitro-",1.691000,C7H5NO3
+Tellurium monoxide,1.697000,OTe
+CD3CD2O anion,1.699000,C2D5O-
+Trimethyltin,1.700000,C3H9Sn
+(benzene)Pb2 anion,1.700000,C6H6Pb2-
+-3,1.700000,Mo12O40P
+V2C6 radical anion,1.700000,C6V2-
+V2C7 radical anion,1.700000,C7V2-
+V3C3 radical anion,1.700000,C3V3-
+V4C4 radical anion,1.700000,C4V4-
+V4C7 radical anion,1.700000,C7V4-
+EuSi5 anion,1.700000,EuSi5-
+EuSi7 anion,1.700000,EuSi7-
+Al11Cs anion,1.700000,Al11Cs-
+SmSi8 anion,1.700000,Si8Sm-
+HoSi4 anion,1.700000,HoSi4-
+MoVO3 radical anion,1.700000,MoO3V-
+HHfO anion,1.700000,HHfO-
+Nb3C8 radical anion,1.700000,C8Nb3-
+V4C5 radical,1.700000,C5V4
+pNO2-C6H4SO2NHCH(Me)CO2H,1.700000,C9H10N2O6S
+Al6S anion,1.700000,Al6S-
+(C6F6)6..C6F6 radical anion,1.700000,C42F42-
+As5 anion,1.700000,As5-
+Pd7 anion,1.700000,Pd7-
+CoC2 radical anion,1.700000,C2Co-
+S2O8 dianion,1.700000,O8S2-2
+Fe4O anion,1.700000,Fe4O-
+(benzene)3..Co anion,1.700000,C18H18Co-
+Fe6O anion,1.700000,Fe6O-
+chromium dichloride,1.700000,Cl2Cr
+selenium tetrafluoride,1.700000,F4Se
+In4,1.700000,In4
+K2C60,1.700000,C60K2
+Dibromosilylene,1.700000,Br2Si
+Fe7S2 radical,1.700000,Fe7S2
+Br2CH anion,1.706000,CHBr2-
+"9,10-Anthracenedione, 1-chloro-",1.709000,C14H7ClO2
+CD3CH2O anion,1.709000,C2H2D5O-
+(H2O)6..SO4 dianion,1.710000,H12O10S-2
+Al13Na radical anion,1.710000,Al13Na-
+Co8 radical anion,1.710000,Co8-
+Co5O radical anion,1.710000,Co5O-
+Co6O radical anion,1.710000,Co6O-
+Co5 radical,1.710000,Co5
+CH3CD2O anion,1.712000,C2H3D5O-
+(H2O)47 radical anion,1.712000,H94O47-
+EtO anion,1.712000,C2H5O-
+(Ar)3..O radical anion,1.717000,Ar3O-
+"2,6-Dimethoxybenzoquinone",1.717000,C8H8O4
+FCH=C radical,1.718000,C2HF
+Pb7I anion,1.720000,IPb7-
+V16 anion,1.720000,V16-
+W7 radical anion,1.720000,W7-
+(NaCl)4 radical anion,1.720000,Cl4Na4-
+Fe4,1.720000,Fe4
+pCl-C6H4N radical anion,1.720000,C6H4ClN-
+(azulene)5 radical anion,1.720000,C50H40-
+CH2=C(OiPr)O anion,1.720000,C5H9O2-
+EtCH=C(nPr)O anion,1.722000,C7H13O-
+FeS anion,1.725000,FeS-
+"Benzonitrile, 4-nitro-",1.726000,C7H4N2O2
+CH2=C(OEt)O anion,1.729000,C4H7O2-
+Cobalt dicarbonyl nitrosyl,1.730000,C2CoNO3
+HOHfO anion,1.730000,HHfO2-
+C70Na4 radical anion,1.730000,C70Na4-
+Cr7 anion,1.730000,Cr7-
+W9 radical anion,1.730000,W9-
+Cr11,1.730000,Cr11
+Tl6,1.730000,Tl6
+YC6 radical,1.730000,C6Y
+oF-phenide anion,1.730000,C6H4F-
+CF3-phenide anion,1.735000,C7H4F3-
+Si4C radical anion,1.740000,CSi4-
+(fluorobenzene)2..V anion,1.740000,C12H10F2V-
+H2O..O2C(CH2)6CO2 dianion,1.740000,C8H14O5-2
+W8 radical anion,1.740000,W8-
+(H2O)8..O2CCO2 dianion,1.740000,C2H16O12-2
+P2H3 anion,1.740000,H3P2-
+tin diiodide,1.740000,I2Sn
+Ti12,1.740000,Ti12
+Ni(Ph4-porphyrin-mono-á-CHO) radical,1.740000,C45H28N4NiO
+(H2O)5..Me2CO radical anion,1.740000,C3H16O6-
+(azulene)6 radical anion,1.740000,C60H48-
+PbIn2 anion,1.740000,In2Pb-
+Pb6S6 anion,1.740000,Pb6S6-
+Nb3C7 radical anion,1.740000,C7Nb3-
+AlCo8,1.740000,AlCo8
+Phenylmaleic anhydride,1.743000,C10H6O3
+CH2=C(OnPr)O anion,1.746000,C5H9O2-
+CH2=C(Me)O anion,1.747000,C3H5O-
+CD3SS anion,1.748000,CD3S2-
+TiC5 anion,1.748000,C5Ti-
+EuSi8 anion,1.750000,EuSi8-
+Si5Cs anion,1.750000,CsSi5-
+C70Na10 radical anion,1.750000,C70Na10-
+In6 anion,1.750000,In6-
+(CO2)3..pyridine radical anion,1.750000,C8H5NO6-
+CO2..(pyridine)2 radical anion,1.750000,C11H10N2O2-
+"(H2O)4..1,3-O2C-C6H4-CO2 dianion",1.750000,C8H12O8-2
+Fe9,1.750000,Fe9
+Tl5,1.750000,Tl5
+cyclopentadienylide radical,1.752000,C5H4
+oCl-phenide anion,1.753000,C6H4Cl-
+CH2=C(tBu)O anion,1.755000,C6H11O-
+"Ruthenium, tris(2,4-pentanedionato)-",1.756000,C15H21O6Ru
+Thymoquinone,1.756000,C10H12O2
+Methyldithio radical,1.757000,CH3S2
+Chromium monofluoride,1.760000,CrF
+Al2Co8 anion,1.760000,Al2Co8-
+MoNbO2 anion,1.760000,MoNbO2-
+Si3O anion,1.760000,OSi3-
+CH2=C(Et)O anion,1.760000,C4H7O-
+"2,5-Cyclohexadiene-1,4-dione, 2,5-dimethyl-",1.761000,C8H8O2
+CNN Radical,1.761000,CN2
+"2,5-Cyclohexadiene-1,4-dione, 2,6-dimethyl-",1.765000,C8H8O2
+Menadione,1.765000,C11H8O2
+"Naphthalene, 1,5-dinitro-",1.765000,C10H6N2O4
+1-Cyanoethyl radical,1.766000,C3H4N
+CH2=C(OnBu)O anion,1.768000,C6H11O2-
+In3P radical anion,1.770000,In3P-
+C60Na9 radical anion,1.770000,C60Na9-
+Co8O radical anion,1.770000,Co8O-
+"Benzene, 1-methyl-2,3-dinitro-",1.770000,C7H6N2O4
+"Benzene, 4-methyl-1,2-dinitro-",1.770000,C7H6N2O4
+C6F6..Au radical anion,1.770000,C6AuF6-
+MnS radical anion,1.770000,MnS-
+Mn2S4 radical anion,1.770000,Mn2S4-
+Al16Co anion,1.770000,Al16Co-
+(azulene)7 radical anion,1.770000,C70H56-
+AlCo6,1.770000,AlCo6
+AuOH anion,1.771000,AuHO-
+copper oxide,1.777000,CuO
+(Ar)4..O radical anion,1.778000,Ar4O-
+n-Propoxy radical,1.780000,C3H7O
+(NH3)2..NH2 anion,1.780000,H8N3-
+Mn5S5 radical anion,1.780000,Mn5S5-
+ZnOH anion,1.780000,HOZn-
+Dibromomethylene,1.780000,CBr2
+C70Na2 radical anion,1.780000,C70Na2-
+Al4O4 anion,1.780000,Al4O4-
+Cr9,1.780000,Cr9
+Si10Na2 radical,1.780000,Na2Si10
+"Naphthalene, 1,3-dinitro-",1.782000,C10H6N2O4
+n-Butoxy radical,1.784000,C4H9O
+"3,5-Bis(trifluoromethyl)nitrobenzene",1.787000,C8H3F6NO2
+Fe5S2 radical anion,1.790000,Fe5S2-
+Co9 radical anion,1.790000,Co9-
+Cr12,1.790000,Cr12
+Al2Co10 anion,1.790000,Al2Co10-
+oCl-C6H4N radical anion,1.790000,C6H4ClN-
+CoNb9 anion,1.790000,CoNb9-
+H3Sn anion,1.792000,H3Sn-
+2-indanone enolate anion,1.793000,C9H7O-
+Propadienylidene,1.796000,C3H2
+Nb18 radical anion,1.797000,Nb18-
+Co(CO)(NO) anion,1.800000,CCoNO2-
+CH2=C(OMe)O anion,1.800000,C3H5O2-
+Co(CO)3,1.800000,C3CoO3
+Co(CO)2,1.800000,C2CoO2
+Ge7 anion,1.800000,Ge7-
+Al7S anion,1.800000,Al7S-
+Al8S anion,1.800000,Al8S-
+Fe8S2 radical anion,1.800000,Fe8S2-
+benzocyclobutadienide anion,1.800000,C8H5-
+Fe3O2 anion,1.800000,Fe3O2-
+Co9O radical anion,1.800000,Co9O-
+Co6O2 radical anion,1.800000,Co6O2-
+Al5N radical anion,1.800000,Al5N-
+(NH3)3..H anion,1.800000,H10N3-
+V2C5 radical anion,1.800000,C5V2-
+V2C9 radical anion,1.800000,C9V2-
+Pb2-pyridinyl radical anion,1.800000,C5H4NPb2-
+Al10Cs anion,1.800000,Al10Cs-
+YbSi4 anion,1.800000,Si4Yb-
+YbSi6 anion,1.800000,Si6Yb-
+MoNbO3 anion,1.800000,MoNbO3-
+chromium difluoride,1.800000,CrF2
+Na(NaF)5,1.800000,F5Na6
+Cr13,1.800000,Cr13
+V3C5 radical,1.800000,C5V3
+Fe(CO)3,1.800000,C3FeO3
+cyclobutanone enolate anion,1.801000,C4H5O-
+Nb17 radical anion,1.803000,Nb17-
+CH2=C(OH)O anion,1.804000,C2H3O2-
+2-tBu-p-benzoquinone radical,1.804000,C10H12O2
+"3,5-Cyclohexadiene-1,2-dione, 3,5-bis(1,1-dimethylethyl)-",1.804000,C14H20O2
+oF-anilide anion,1.810000,C6H5FN-
+Fe5,1.810000,Fe5
+Cu6,1.810000,Cu6
+Al13Li radical anion,1.810000,Al13Li-
+Si3O2 anion,1.810000,O2Si3-
+Pentafluoro ethyl radical,1.810000,C2F5
+(H2O)57 radical anion,1.811000,H114O57-
+"1,4-Naphthalenedione",1.813000,C10H6O2
+CD2=CDO anion,1.817000,C2D3O-
+Ti13,1.820000,Ti13
+Trifluoromethyl radical,1.820000,CF3
+Cu5,1.820000,Cu5
+Al9Co anion,1.820000,Al9Co-
+mCl-C6H4N radical anion,1.820000,C6H4ClN-
+tBuCH=CHO anion,1.821000,C6H11O-
+"2,3-diCN-benzoquinonide",1.821000,C8HN2O2
+Selenium(IV) oxide,1.823000,O2Se
+CH2CHO,1.825000,C2H3O
+Hydroxyl-d,1.826000,DO
+Hydroxyl radical,1.828000,HO
+(Ar)5..O radical anion,1.828000,Ar5O-
+Al4S anion,1.830000,Al4S-
+Mn3S4 radical anion,1.830000,Mn3S4-
+Al15Co anion,1.830000,Al15Co-
+(azulene)8 radical anion,1.830000,C80H64-
+(NH3)3..NH2 anion,1.830000,H11N4-
+Co7O radical anion,1.830000,Co7O-
+Co11O radical anion,1.830000,Co11O-
+mSMe-anilide anion,1.831000,C7H8NS-
+cyclodecanone enolate anion,1.834000,C10H17O-
+CH2=C(iPr)O anion,1.835000,C5H9O-
+vanadium dioxide,1.836000,O2V
+Me2BCH2 anion,1.839000,C3H8B-
+Ru(EtCOCHCOEt)3 radical,1.839000,C21H33O6Ru
+C60Na2 radical anion,1.840000,C60Na2-
+"benzene-1,3,5-tricarbonitrile",1.840000,C9H3N3
+Ge2F2 radical,1.840000,F2Ge2
+"1,3-diazinide anion",1.840000,C4H3N2-
+Mn3S2 radical anion,1.840000,Mn3S2-
+Pb2In anion,1.840000,InPb2-
+NCCH=C radical,1.840000,C3HN
+dihydropentalenide anion,1.842000,C8H7-
+BrClC radical anion,1.845000,CBrCl-
+indium phosphide,1.845000,InP
+"1,2-diazinide anion",1.850000,C4H3N2-
+Si9Na2 radical anion,1.850000,Na2Si9-
+(CS2)3 radical anion,1.850000,C3S6-
+Pd8 anion,1.850000,Pd8-
+(benzene)4..Co anion,1.850000,C24H24Co-
+Co4O2 radical anion,1.850000,Co4O2-
+Co9O2 radical anion,1.850000,Co9O2-
+Fe5O anion,1.850000,Fe5O-
+Ag(NH2)2 anion,1.850000,AgH4N2-
+p-xylene..O4 radical anion,1.850000,C8H10O4-
+YbSi5 anion,1.850000,Si5Yb-
+YbSi7 anion,1.850000,Si7Yb-
+HoSi3 anion,1.850000,HoSi3-
+Si7,1.850000,Si7
+Pb6,1.850000,Pb6
+Fe10,1.850000,Fe10
+Antimony trimer,1.850000,Sb3
+"p-Benzoquinone, 2-methyl-",1.852000,C7H6O2
+Indenyl radical,1.852000,C9H7
+furanide anion,1.853000,C4H3O-
+"2,5-Cyclohexadiene-1,4-dione, 2,3-dimethoxy-5-methyl-",1.856000,C9H10O4
+Methylthio-d3 radical,1.858000,CD3S
+W(CO)3 anion,1.859000,C3O3W-
+InP3 radical anion,1.860000,InP3-
+Pb2In2 anion,1.860000,In2Pb2-
+"2,3-dehydrobenzoquinone radical anion",1.860000,C6H2O2-
+Pb5F anion,1.860000,FPb5-
+Ga2P2 radical anion,1.860000,Ga2P2-
+Co7O2 radical anion,1.860000,Co7O2-
+p-Benzoquinone,1.860000,C6H4O2
+"Fe-tetra-(2,6-Cl2-phenyl)porphyrin radical",1.860000,C44H20Cl8FeN4
+Ni7 radical,1.860000,Ni7
+CH2=CHCNN anion,1.864000,C3H3N2-
+Ferric tris(acetylacetonate),1.865000,C15H21FeO6
+"2,5-Cyclohexadiene-1,4-dione, 2,6-bis(1,1-dimethylethyl)-",1.865000,C14H20O2
+nC7H15O anion,1.866000,C7H15O-
+nC9H19O anion,1.866000,C9H19O-
+CH3S,1.867000,CH3S
+Fluorenyl radical,1.869000,C13H9
+EtN radical,1.869000,C2H5N
+Fe6S2 radical anion,1.870000,Fe6S2-
+MnC3 radical anion,1.870000,C3Mn-
+pyridine..{H2O}..O2 radical anion,1.870000,C5H7NO3-
+(COS)2 radical anion,1.870000,C2O2S2-
+Pt3,1.870000,Pt3
+Iron tetraphenylporphyrin,1.870000,C44H28FeN4
+Chlorodifluoromethyl radical,1.870000,CClF2
+Ni6 radical,1.870000,Ni6
+Mn6S6 radical anion,1.870000,Mn6S6-
+Si2F4 radical anion,1.870000,F4Si2-
+(azulene)9 radical anion,1.870000,C90H72-
+HCCHO radical,1.870000,C2H2O
+Zr2O4 radical anion,1.873000,O4Zr2-
+1-Methyl ethoxy radical,1.874000,C3H7O
+Cu20,1.875000,Cu20
+iBuO anion,1.875000,C4H9O-
+Nb19 radical anion,1.875000,Nb19-
+Disulfur monoxide,1.877000,OS2
+nC8H17O anion,1.879000,C8H17O-
+In4P radical anion,1.880000,In4P-
+Nb3C5 radical anion,1.880000,C5Nb3-
+Al2O2 anion,1.880000,Al2O2-
+Tl10 anion,1.880000,Tl10-
+V17 anion,1.880000,V17-
+AuPd radical anion,1.880000,AuPd-
+Mo2O7 dianion,1.880000,Mo2O7-2
+C6H5Ag3 anion,1.880000,C6H5Ag3-
+Ga3P radical,1.880000,Ga3P
+(Ar)6..O radical anion,1.881000,Ar6O-
+H2O..CO3 radical anion,1.882000,CH2O4-
+CH2=C(CH2F)O anion,1.887000,C3H4FO-
+m-aza-anilide anion,1.888000,C5H5N2-
+cPrCH2O anion,1.888000,C4H7O-
+nC5H11O anion,1.888000,C5H11O-
+Al5O5 anion,1.890000,Al5O5-
+W13 radical,1.890000,W13
+Pb3S3 anion,1.890000,Pb3S3-
+"1,4-Benzenedicarbonitrile, 2,3,5,6-tetrafluoro-",1.891000,C8F4N2
+nC6H13O anion,1.892000,C6H13O-
+GaAs2 radical anion,1.894000,As2Ga-
+sBuCH2O anion,1.895000,C5H11O-
+Platinum dimer,1.898000,Pt2
+O2..O2 radical anion,1.899000,O4-
+Al2S2 anion,1.900000,Al2S2-
+Si6Na radical anion,1.900000,NaSi6-
+(H2O)2..O2C(CH2)4CO2 dianion,1.900000,C6H12O6-2
+In5 anion,1.900000,In5-
+benzocyclobutenone enolate anion,1.900000,C8H5O-
+Cu5(CN)5 radical anion,1.900000,C5Cu5N5-
+Co10O radical anion,1.900000,Co10O-
+Co13O radical anion,1.900000,Co13O-
+(EtNO2)3..EtNO2 anion,1.900000,C8H20N4O8-
+Al7N radical anion,1.900000,Al7N-
+V2C4 radical anion,1.900000,C4V2-
+EuSi11 anion,1.900000,EuSi11-
+Mn4S2 radical anion,1.900000,Mn4S2-
+PrSi5 anion,1.900000,PrSi5-
+Ga7N radical anion,1.900000,Ga7N-
+(azulene)10 radical anion,1.900000,C100H80-
+CuBO2 anion,1.900000,BCuO2-
+Fe8BO2 anion,1.900000,BFe8O2-
+I2CH anion,1.900000,CHI2-
+Ta2B4 anion,1.900000,B4Ta2-
+Bi3C4H4N anion,1.900000,C4H4Bi3N-
+Diethyl disulfide,1.900000,C4H10S2
+NaGa4,1.900000,Ga4Na
+AlCo10,1.900000,AlCo10
+Magnesium iodide,1.900000,IMg
+V3C4 radical,1.900000,C4V3
+Ti14,1.900000,Ti14
+Ti15,1.900000,Ti15
+Ti16,1.900000,Ti16
+Ti17,1.900000,Ti17
+o-Benzoquinone,1.900000,C6H4O2
+Ti18,1.900000,Ti18
+sulphur trioxide,1.900000,O3S
+UO2.(CF3COCHCOCF3)2 radical,1.900000,C10H2F12O6U
+MeCH=CHCH2O anion,1.901000,C4H7O-
+CH2=C(cPr)O anion,1.902000,C5H7O-
+(H2O)69 radical anion,1.903000,H138O69-
+MeOCH2CH2O anion,1.903000,C3H7O2-
+cyclododecanone enolate anion,1.904000,C12H21O-
+"2,5-Furandione, 3,4-dichloro-",1.904000,C4Cl2O3
+cC6H11-CH2O,1.905000,C7H13O
+trans-4-Me-cC6H10O anion,1.908000,C7H13O-
+sBuCH2CH2O anion,1.908000,C6H13O-
+tBuO anion,1.909000,C4H9O-
+"6,6-dimethylfulven-7-ide anion",1.910000,C8H9-
+SO2..SO2 radical anion,1.910000,O4S2-
+Cu10,1.910000,Cu10
+MgO2 radical anion,1.910000,MgO2-
+Fe4S2 radical anion,1.910000,Fe4S2-
+V18 anion,1.910000,V18-
+Cu14,1.910000,Cu14
+Co4 radical,1.910000,Co4
+iPrCH2CH2O anion,1.914000,C5H11O-
+Propanoyl,1.915000,C3H5O
+Nd anion,1.916000,Nd-
+HSS anion,1.916000,HS2-
+Al3,1.916000,Al3
+Ru(iPrCOCHCOiPr)3 radical,1.917000,C27H45O6Ru
+DSS anion,1.918000,DS2-
+C70Na6 radical anion,1.920000,C70Na6-
+MoWO7 dianion,1.920000,MoO7W-2
+Ditellurium,1.920000,Te2
+nPrSSnPr radical,1.920000,C6H14S2
+Si4,1.920000,Si4
+AgS anion,1.920000,AgS-
+nPrCH(Me)O anion,1.921000,C5H11O-
+SnCN anion,1.922000,CNSn-
+Me2C=NO2 anion,1.924000,C3H6NO2-
+(Ar)7..O radical anion,1.926000,Ar7O-
+NiD2,1.926000,D2Ni
+9-Ph-fluorenide anion,1.928000,C19H13-
+Et2CHCH2O anion,1.930000,C6H13O-
+nPrCH(Me)CH2O anion,1.930000,C6H13O-
+Cyclopentadienyl radical,1.930000,C5H5
+Au4Mg anion,1.930000,Au4Mg-
+Au5Cu anion,1.930000,Au5Cu-
+Al10Co anion,1.930000,Al10Co-
+Fe9BO2 anion,1.930000,BFe9O2-
+Pb8S8 anion,1.930000,Pb8S8-
+Ta2B5 anion,1.930000,B5Ta2-
+Al4C anion,1.930000,CAl4-
+V19 anion,1.930000,V19-
+Co12O radical anion,1.930000,Co12O-
+NaIn4,1.930000,In4Na
+iPrCH2CH2CH2O anion,1.931000,C6H13O-
+AlP2 radical anion,1.933000,AlP2-
+NiH2,1.934000,H2Ni
+Nb20 radical anion,1.934000,Nb20-
+Nb21 radical anion,1.934000,Nb21-
+EtC(Me)2O anion,1.936000,C5H11O-
+PhCH=NO anion,1.938000,C7H6NO-
+(Me3Si)2SiH anion,1.938000,C6H19Si3-
+nC10H21O anion,1.938000,C10H21O-
+iPrCH(Me)CH2O anion,1.938000,C6H13O-
+mCO2Me-anilide anion,1.940000,C8H8NO2-
+Pb15 anion,1.940000,Pb15-
+Al9S anion,1.940000,Al9S-
+Si7C radical anion,1.940000,CSi7-
+Si7Na radical anion,1.940000,NaSi7-
+W10 radical anion,1.940000,W10-
+Co5O2 radical anion,1.940000,Co5O2-
+Co8O2 radical anion,1.940000,Co8O2-
+Pb8,1.940000,Pb8
+Tetragermanium,1.940000,Ge4
+Selenium dimer,1.940000,Se2
+Gold dimer,1.940000,Au2
+CH2=C(CH2.)O,1.940000,C3H4O
+o-aza-anilide anion,1.941000,C5H5N2-
+nBuCH(Me)O anion,1.943000,C6H13O-
+Et2CHO anion,1.943000,C5H11O-
+PhCHCN anion,1.944000,C8H6N-
+1-Me-cC5H8-O anion,1.947000,C6H11O-
+iPrCH(Me)O anion,1.947000,C5H11O-
+cC7H13-O,1.947000,C7H13O
+mMe-C6H4CHCN anion,1.949000,C9H8N-
+sBuO anion,1.949000,C4H9O-
+GaAs anion,1.949000,AsGa-
+Sn7 anion,1.950000,Sn7-
+Si10Na3 radical anion,1.950000,Na3Si10-
+Ga3 anion,1.950000,Ga3-
+LaC5 radical anion,1.950000,C5La-
+Ru3Co(CO)2 anion,1.950000,C2CoO2Ru3-
+TbSi6 radical anion,1.950000,Si6Tb-
+W11 radical anion,1.950000,W11-
+Pd9,1.950000,Pd9
+Pd11,1.950000,Pd11
+GaP3 radical,1.950000,GaP3
+Ti20,1.950000,Ti20
+(MeOH)5..Ph2CO radical anion,1.950000,C18H30O6-
+HfSn16 radical anion,1.950000,HfSn16-
+(COT)2Yb anion,1.950000,C16H16Yb-
+Pb5S5 anion,1.950000,Pb5S5-
+(MeOH)2..Ag anion,1.950000,C2H8AgO2-
+trans-2-Me-cC6H10O anion,1.951000,C7H13O-
+cis-4-Me-cC6H10O anion,1.951000,C7H13O-
+Cl-triMe-p-benzoquinone radical,1.951000,C9H9ClO2
+tBuCH2O anion,1.953000,C5H11O-
+"1,3-Isobenzofurandione, 4,5,6,7-tetrachloro-",1.956000,C8Cl4O3
+CI radical,1.960000,CI
+Pb4Ag radical anion,1.960000,AgPb4-
+Bi2Ga2 anion,1.960000,Bi2Ga2-
+Al14Co anion,1.960000,Al14Co-
+Si2F2 radical anion,1.960000,F2Si2-
+Bi3C6F5 anion,1.960000,C6Bi3F5-
+W12 radical anion,1.960000,W12-
+(H2O)9..O2CCO2 dianion,1.960000,C2H18O13-2
+Cr15,1.960000,Cr15
+Cr14,1.960000,Cr14
+Ni9 radical,1.960000,Ni9
+trans-2-Me-cC5H8-O anion,1.960000,C6H11O-
+nPnCH(Me)O,1.960000,C7H15O
+"tris(2,2,6,6-tetramethyl-3,5-heptanedionato)ruthenium(III)",1.960000,C33H57O6Ru
+Sn2,1.962000,Sn2
+Ru(nPrCOCHCOnPr)3 radical,1.964000,C27H45O6Ru
+Ru(nBuCOCHCOnBu)3 radical,1.964000,C33H57O6Ru
+(Ar)8..O radical anion,1.967000,Ar8O-
+sBuCH(Me)O anion,1.969000,C6H13O-
+iBuCH(Me)O anion,1.969000,C6H13O-
+Pb14I anion,1.970000,IPb14-
+Ge2F3 radical anion,1.970000,F3Ge2-
+V20 anion,1.970000,V20-
+Cr6 anion,1.970000,Cr6-
+Fe-triPh-oC6H4NHCO(CH2)4-Im-porphyrin radical,1.970000,C52H39FeN7O
+Ti19,1.970000,Ti19
+Ni8 radical,1.970000,Ni8
+Fe7BO2 anion,1.970000,BFe7O2-
+Tellurium,1.971000,Te
+ZnF radical anion,1.974000,FZn-
+nPrC(Me)2O anion,1.975000,C6H13O-
+CH3CH2S,1.975000,C2H5S
+iPrC(Me)2O anion,1.977000,C6H13O-
+nPrCH(Et)O anion,1.977000,C6H13O-
+mCOMe-anilide,1.979000,C8H8NO
+In8 anion,1.980000,In8-
+MoSi8 anion,1.980000,MoSi8-
+Fe5BO2 anion,1.980000,BFe5O2-
+Fe10BO2 anion,1.980000,BFe10O2-
+MgO3 radical anion,1.980000,MgO3-
+Si2C5 radical anion,1.980000,C5Si2-
+FeC2 radical anion,1.980000,C2Fe-
+(NaCl)8 radical anion,1.980000,Cl8Na8-
+(NaCl)13 radical anion,1.980000,Cl13Na13-
+Al4P radical,1.980000,Al4P
+Cu7,1.980000,Cu7
+1-Me-cC6H10-O anion,1.982000,C7H13O-
+tBuCH(Me)O anion,1.982000,C6H13O-
+Et2C(Me)O anion,1.983000,C6H13O-
+"3,5-Dinitrobenzotrifluoride",1.987000,C7H3F3N2O4
+N-Me-5-imidazolide anion,1.987000,C4H5N2-
+GaP radical anion,1.988000,GaP-
+CO2..(pyridine)3 radical anion,1.990000,C16H15N3O2-
+W14 radical,1.990000,W14
+pOH-phenoxide anion,1.990000,C6H5O2-
+PbIn4 anion,1.990000,In4Pb-
+PbIn6 anion,1.990000,In6Pb-
+Pb9S9 anion,1.990000,Pb9S9-
+VGe6 anion,1.990000,Ge6V-
+5-imidazolide anion,1.992000,C3H3N2-
+nBuC(Me)2O anion,1.992000,C7H15O-
+Al13H anion,1.995000,Al13H-
+Tricarbon,1.995000,C3
+oNH2-phenoxide anion,1.996000,C6H6NO-
+tBuCH2CH2O anion,1.996000,C6H13O-
+WO2 anion,1.998000,O2W-
+2-Propynylidyne,1.999000,C3H
+cis-2-Me-cC6H10O anion,1.999000,C7H13O-
+ClOF radical,1.999000,ClFO
+In4P2 radical anion,2.000000,In4P2-
+Tl14 anion,2.000000,Tl14-
+V21 anion,2.000000,V21-
+"(H2O)2..1,4-O2C-C6H4-CO2 dianion",2.000000,C8H8O6-2
+YO2,2.000000,O2Y
+Fe11,2.000000,Fe11
+Pd10,2.000000,Pd10
+Pd12,2.000000,Pd12
+trifluoronitrosomethane,2.000000,CF3NO
+(H2O)6..Me2CO radical anion,2.000000,C3H18O7-
+Nb2C6 anion,2.000000,C6Nb2-
+EuSi10 anion,2.000000,EuSi10-
+Al8Co anion,2.000000,Al8Co-
+Al5B anion,2.000000,Al5B-
+Si8Cs anion,2.000000,CsSi8-
+Si6Ho anion,2.000000,HoSi6-
+SmSi10 anion,2.000000,Si10Sm-
+Ga4N radical anion,2.000000,Ga4N-
+Ta2B3 anion,2.000000,B3Ta2-
+mOMe-C6H4CHCN anion,2.001000,C9H8NO-
+SiCl3 anion,2.001000,Cl3Si-
+Cyanomethylene,2.003000,C2HN
+"Benzene, 1,4-dinitro-",2.003000,C6H4N2O4
+PhCH2CH2CH2O anion,2.005000,C9H11O-
+iPrCH(Et)O anion,2.005000,C6H13O-
+Nb22 radical anion,2.007000,Nb22-
+(Ar)9..O radical anion,2.008000,Ar9O-
+Fe19 anion,2.010000,Fe19-
+Fe20 anion,2.010000,Fe20-
+Fe16,2.010000,Fe16
+Nb2C7 anion,2.010000,C7Nb2-
+TiSn16 radical anion,2.010000,Sn16Ti-
+ZrSn16 radical anion,2.010000,Sn16Zr-
+Pb7S7 anion,2.010000,Pb7S7-
+MoNbO4 anion,2.010000,MoNbO4-
+TiGe16 radical,2.010000,Ge16Ti
+CH2=SiH anion,2.010000,CH3Si-
+Tl11 anion,2.010000,Tl11-
+"(H2O)5..1,3-O2C-C6H4-CO2 dianion",2.010000,C8H14O9-2
+(benzene)Pt2,2.010000,C6H6Pt2
+tBuCH2CH(Me)O anion,2.016000,C7H15O-
+"2-Cl-3,6-diMe-p-benzoquinone radical",2.016000,C8H7ClO2
+Propylthio radical,2.018000,C3H7S
+Fe8S3 radical anion,2.020000,Fe8S3-
+Si8Na3 radical anion,2.020000,Na3Si8-
+Si9Na3 radical anion,2.020000,Na3Si9-
+C60Na3 radical anion,2.020000,C60Na3-
+NaCAl4 anion,2.020000,CAl4Na-
+Co10 radical anion,2.020000,Co10-
+Zn3O4 anion,2.020000,O4Zn3-
+selenium,2.021000,Se
+Et3CO anion,2.027000,C7H15O-
+PtN radical,2.027000,NPt
+(Me3Si)3Si anion,2.029000,C9H27Si4-
+Pb3(benzene) anion,2.030000,C6H6Pb3-
+TiSi16 radical anion,2.030000,Si16Ti-
+(H2O)2..UO2F4 dianion,2.030000,F4H4O4U-2
+HfGe16 radical,2.030000,Ge16Hf
+MeSO2CH2 anion,2.031000,C2H5O2S-
+Germanium dimer,2.035000,Ge2
+Dititanium tetraoxide,2.035000,O4Ti2
+(iPr)2CHO anion,2.036000,C7H15O-
+Cobalt tris(acetylacetonate),2.038000,C15H21CoO6
+(Ar)10..O radical anion,2.039000,Ar10O-
+nBuS anion,2.040000,C4H9S-
+Fe23 anion,2.040000,Fe23-
+NaAl4 anion,2.040000,Al4Na-
+(MeOH)2..Ph2CO radical anion,2.040000,C15H18O3-
+TiSi8 anion,2.040000,Si8Ti-
+Sn4 anion,2.040000,Sn4-
+Si3C3 radical anion,2.040000,C3Si3-
+Fe4S4 radical,2.040000,Fe4S4
+Ti21,2.040000,Ti21
+Ti22,2.040000,Ti22
+Ti23,2.040000,Ti23
+YC5 radical,2.040000,C5Y
+"2,5-Cyclohexadiene-1,4-dione, 2-phenyl-",2.042000,C12H8O2
+aluminium phosphide,2.043000,AlP
+pMe-C6H4CH2O anion,2.044000,C8H9O-
+p-difluorophenide anion,2.049000,C6H3F2-
+(CS2)4 radical anion,2.050000,C4S8-
+Tl12 anion,2.050000,Tl12-
+V22 anion,2.050000,V22-
+V23 anion,2.050000,V23-
+(NaCl)9 radical anion,2.050000,Cl9Na9-
+C4O radical,2.050000,C4O
+Fe4O2,2.050000,Fe4O2
+thiophenide anion,2.050000,C4H3S-
+(Me2CO)5 radical anion,2.050000,C15H30O5-
+Al11Co anion,2.050000,Al11Co-
+Si2F3 radical anion,2.050000,F3Si2-
+Al13B anion,2.050000,Al13B-
+Al12B2 anion,2.050000,Al12B2-
+Al8C anion,2.050000,CAl8-
+Bi4C6F5 anion,2.050000,C6Bi4F5-
+YbSi8 anion,2.050000,Si8Yb-
+HoSi5 anion,2.050000,HoSi5-
+Au6,2.051000,Au6
+Al3P radical,2.051000,Al3P
+"1,3-Isobenzofurandione, 4-nitro-",2.051000,C8H3NO5
+iPrS anion,2.053000,C3H7S-
+N-Me-5-pyrazolide anion,2.054000,C4H5N2-
+FCH2CH2O anion,2.057000,C2H4FO-
+(Ar)11..O radical anion,2.058000,Ar11O-
+Trifluorovinyl radical,2.059000,C2F3
+Carbon tetrabromide,2.060000,CBr4
+Fe17 anion,2.060000,Fe17-
+(TiO2)5 radical anion,2.060000,O10Ti5-
+(TiO2)6 radical anion,2.060000,O12Ti6-
+(TiO2)7 radical anion,2.060000,O14Ti7-
+(TiO2)8 radical anion,2.060000,O16Ti8-
+(TiO2)9 radical anion,2.060000,O18Ti9-
+Pb3-pyridinyl radical anion,2.060000,C5H4NPb3-
+(COT)2Er anion,2.060000,C16H16Er-
+(TiO2)10 radical,2.060000,O20Ti10
+Ge6 anion,2.060000,Ge6-
+Fe7S3 radical anion,2.060000,Fe7S3-
+Sn2CH2CN anion,2.060000,C2H2NSn2-
+AlP3 radical anion,2.060000,AlP3-
+Ni11 radical anion,2.060000,Ni11-
+manganese dioxide,2.060000,MnO2
+Ni10 radical,2.060000,Ni10
+CH2=C(Ph)O anion,2.064000,C8H7O-
+iBuS anion,2.066000,C4H9S-
+PhCH2O anion,2.066000,C7H7O-
+AuCN anion,2.066000,CAuN-
+In3P2 radical anion,2.070000,In3P2-
+In4P4 radical anion,2.070000,In4P4-
+H2O..COS radical anion,2.070000,CH2O2S-
+Fe-tetra(2-(NHCOtBu)phenyl)porphyrin radical,2.070000,C64H64FeN8O4
+In8Si radical anion,2.070000,In8Si-
+Mn5S4 radical anion,2.070000,Mn5S4-
+Fe3BO2 anion,2.070000,BFe3O2-
+Nb23 radical anion,2.072000,Nb23-
+tBuCH(Et)O anion,2.073000,C7H15O-
+C60Eu4 anion,2.074000,C60Eu4-
+sulfur,2.077000,S
+CH2=CHOCH2CH2O anion,2.079000,C4H7O2-
+pOMe-C6H4CH2O anion,2.079000,C8H9O2-
+(H2O)7..SO4 dianion,2.080000,H14O11S-2
+Pb2In4 anion,2.080000,In4Pb2-
+FeBO2 anion,2.080000,BFeO2-
+Pb10S10 anion,2.080000,Pb10S10-
+ZrGe16 radical,2.080000,Ge16Zr
+Co11 radical anion,2.080000,Co11-
+TbSi7 radical anion,2.080000,Si7Tb-
+Ag6,2.080000,Ag6
+NeS anion,2.083000,NeS-
+zinc oxide,2.087000,OZn
+cC6H11-CH2S anion,2.088000,C7H13S-
+nC5H11S anion,2.090000,C5H11S-
+naphthalene..{H2O}..O2 radical anion,2.090000,C10H10O3-
+Ni12 radical anion,2.090000,Ni12-
+Ga4P radical,2.090000,Ga4P
+(Ar)12..O radical anion,2.091000,Ar12O-
+CH2=CHCH(nPr)O anion,2.092000,C6H11O-
+tBuS anion,2.092000,C4H9S-
+Sulfur trimer,2.093000,S3
+(Ar)13..O radical anion,2.098000,Ar13O-
+B3N anion,2.098000,B3N-
+Nb24 radical anion,2.098000,Nb24-
+Ag13 anion,2.100000,Ag13-
+In5P5 anion,2.100000,In5P5-
+In7 anion,2.100000,In7-
+Tl18 anion,2.100000,Tl18-
+(NaCl)11 radical anion,2.100000,Cl11Na11-
+Ga2As2 anion,2.100000,As2Ga2-
+W2O7 dianion,2.100000,O7W2-2
+CF2=C(CF3)O anion,2.100000,C3F5O-
+vanadium trifluoride,2.100000,F3V
+As3Ga3,2.100000,As3Ga3
+(NaF)6 radical,2.100000,F6Na6
+Ti24,2.100000,Ti24
+Ti25,2.100000,Ti25
+CrOF2 radical,2.100000,CrF2O
+Cr17,2.100000,Cr17
+"Silica, vitreous",2.100000,O2Si
+"Cl..Fe-tetra-(2,6-Cl2-phenyl)porphyrin radical",2.100000,C44H20Cl9FeN4
+(EtNO2)4..EtNO2 anion,2.100000,C10H25N5O10-
+-3,2.100000,O40PW12
+(AgF)4 anion,2.100000,Ag4F4-
+HfPb16 radical anion,2.100000,HfPb16-
+(COT)2Eu anion,2.100000,C16H16Eu-
+Al12Cs anion,2.100000,Al12Cs-
+(COT)3Eu2 anion,2.100000,C24H24Eu2-
+(COT)4Eu3 anion,2.100000,C32H32Eu3-
+(COT)5Eu4 anion,2.100000,C40H40Eu4-
+(COT)6Eu5 anion,2.100000,C48H48Eu5-
+(COT)7Eu6 anion,2.100000,C56H56Eu6-
+(COT)8Eu7 anion,2.100000,C64H64Eu7-
+(COT)2Ba anion,2.100000,C16H16Ba-
+(COT)3Ba2 anion,2.100000,C24H24Ba2-
+(COT)4Ba3 anion,2.100000,C32H32Ba3-
+(COT)5Ba4 anion,2.100000,C40H40Ba4-
+(COT)6Ba5 anion,2.100000,C48H48Ba5-
+(COT)7Ba6 anion,2.100000,C56H56Ba6-
+(COT)8Ba7 anion,2.100000,C64H60Ba7-
+Si6Lu anion,2.100000,LuSi6-
+SmSi9 anion,2.100000,Si9Sm-
+PrSi6 anion,2.100000,PrSi6-
+Au5H anion,2.100000,Au5H-
+Ga5N radical anion,2.100000,Ga5N-
+LuGe7 anion,2.100000,Ge7Lu-
+PtAl anion,2.100000,AlPt-
+Al8,2.100000,Al8
+Rh7,2.100000,Rh7
+Rh8,2.100000,Rh8
+NaSn4,2.100000,NaSn4
+Tellurium monohydride,2.102000,HTe
+Ozone,2.103000,O3
+PhCH=CHO anion,2.103000,C8H7O-
+C60Eu3 anion,2.104000,C60Eu3-
+5-pyrazolide anion,2.104000,C3H3N2-
+HfO2 anion,2.104000,HfO2-
+(Ar)14..O radical anion,2.105000,Ar14O-
+Fe21 anion,2.110000,Fe21-
+Au5Zn anion,2.110000,Au5Zn-
+Bi2Ga anion,2.110000,Bi2Ga-
+Pb16 anion,2.110000,Pb16-
+Ti26 anion,2.110000,Ti26-
+2-Cl-5-Me-p-benzoquinone radical,2.112000,C7H5ClO2
+ArS anion,2.113000,ArS-
+GeAl4 anion,2.114000,Al4Ge-
+tBuCH(iPr)O anion,2.118000,C8H17O-
+HONNO anion,2.120000,HN2O2-
+Ag14 anion,2.120000,Ag14-
+Pb13I anion,2.120000,IPb13-
+MnC2 radical anion,2.120000,C2Mn-
+Ti27 anion,2.120000,Ti27-
+Fe12,2.120000,Fe12
+Pentasilver,2.120000,Ag5
+Bi2C6F5 anion,2.120000,C6Bi2F5-
+NaSn6 anion,2.120000,NaSn6-
+(NH3)4..NH2 anion,2.120000,H14N5-
+SiAl4 anion,2.121000,Al4Si-
+(Ar)15..O radical anion,2.122000,Ar15O-
+uranium trioxide,2.125000,O3U
+platinum,2.125000,Pt
+HNiCO anion,2.126000,CHNiO-
+mSCF3-anilide anion,2.126000,C7H5F3NS-
+tBuCH2S anion,2.127000,C5H11S-
+(Ar)16..O radical anion,2.127000,Ar16O-
+MeCH=NO2 anion,2.127000,C2H4NO2-
+"1,3-Isobenzofurandione, 5-nitro-",2.129000,C8H3NO5
+Fe24 anion,2.130000,Fe24-
+Fe5S3 radical anion,2.130000,Fe5S3-
+C70Na9 radical anion,2.130000,C70Na9-
+Tl20 anion,2.130000,Tl20-
+Ti28 anion,2.130000,Ti28-
+Nb2C5 anion,2.130000,C5Nb2-
+LuGe6 anion,2.130000,Ge6Lu-
+Ag10,2.130000,Ag10
+Ge2F radical,2.130000,FGe2
+Cr19,2.130000,Cr19
+Cr16,2.130000,Cr16
+Cr18,2.130000,Cr18
+(Ar)17..O radical anion,2.133000,Ar17O-
+Difluoroboryl radical,2.134000,BF2
+KrS anion,2.134000,KrS-
+Fe18 anion,2.140000,Fe18-
+(NH3)4..H anion,2.140000,H13N4-
+Fe6BO2 anion,2.140000,BFe6O2-
+Pb8I anion,2.140000,IPb8-
+V24 anion,2.140000,V24-
+Mo2O4 radical anion,2.140000,Mo2O2-
+(Ar)18..O radical anion,2.143000,Ar18O-
+o-difluorophenide anion,2.143000,C6H3F2-
+pyrrolide anion,2.145000,C4H4N-
+Chlorine dioxide anion,2.145000,ClO2-
+2-Cl-5-tBu-p-benzoquinone radical,2.147000,C10H11ClO2
+PhCH(Me)O anion,2.148000,C8H9O-
+(Ar)19..O radical anion,2.149000,Ar19O-
+Fe22 anion,2.150000,Fe22-
+SiC4 radical anion,2.150000,C4Si-
+Fe7S4 radical anion,2.150000,Fe7S4-
+(CS2)5 radical anion,2.150000,C5S10-
+Tl19 anion,2.150000,Tl19-
+Ti29 anion,2.150000,Ti29-
+V25 anion,2.150000,V25-
+(COS)3 radical anion,2.150000,C3O3S3-
+Al2P2 radical,2.150000,Al2P2
+"5,10,15,20-Tetraphenyl-21H,23H-porphine iron monochloride",2.150000,C44H28ClFeN4
+Fe2S2 radical,2.150000,Fe2S2
+Fe-tetra(C6F5)porphyrin radical,2.150000,C44H8F20FeN4
+LiAl4 anion,2.150000,Al4Li-
+Al12Co anion,2.150000,Al12Co-
+Al7B2 anion,2.150000,Al7B2-
+PbIn5 anion,2.150000,In5Pb-
+(MeCN)2..UO2F4 dianion,2.150000,C4H6F4N2O2U-2
+Al2MoO4 anion,2.150000,Al2MoO4-
+tetrahydropyran-2-O anion,2.151000,C5H9O2-
+(Ar)20..O radical anion,2.155000,Ar20O-
+(Ar)21..O radical anion,2.159000,Ar21O-
+Trichloromethyl radical,2.160000,CCl3
+"Benzonitrile, 3,5-dinitro-",2.160000,C7H3N3O4
+In10Ge radical anion,2.160000,GeIn10-
+ScGe7 anion,2.160000,Ge7Sc-
+Al2MoO2 anion,2.160000,Al2MoO2-
+Co12 radical anion,2.160000,Co12-
+Ni13 radical anion,2.160000,Ni13-
+Ga4P2 radical,2.160000,Ga4P2
+(Ar)22..O radical anion,2.165000,Ar22O-
+Ph2N anion,2.168000,C12H10N-
+p-t-amyl-nitrobenzene radical,2.168000,C11H15NO2
+(tBu)2CHO anion,2.170000,C9H19O-
+Al5S anion,2.170000,Al5S-
+Fe6S3 radical anion,2.170000,Fe6S3-
+Tl15 anion,2.170000,Tl15-
+Tl16 anion,2.170000,Tl16-
+Pb5,2.170000,Pb5
+C20{bowl} radical,2.170000,C20
+(MeOH)3..Ph2CO radical anion,2.170000,C16H22O4-
+TiPb16 radical anion,2.170000,Pb16Ti-
+BiGa2 anion,2.170000,BiGa2-
+Nb25 radical anion,2.171000,Nb25-
+(Ar)23..O radical anion,2.171000,Ar23O-
+mNMe2-phenoxide anion,2.172000,C8H10NO-
+PtO anion,2.172000,OPt-
+"2,3,5,6-Pyridinetetracarbonitrile",2.173000,C9HN5
+MeSCH2S anion,2.175000,C2H5S2-
+pMe-phenoxide anion,2.175000,C7H7O-
+(Ar)24..O radical anion,2.177000,Ar24O-
+Ag11 anion,2.180000,Ag11-
+Ag12 anion,2.180000,Ag12-
+(H2O)2..O2C(CH2)5CO2 dianion,2.180000,C7H14O6-2
+In6P6 anion,2.180000,In6P6-
+(H2O)10..O2CCO2 dianion,2.180000,C2H20O14-2
+ZrPb16 radical anion,2.180000,Pb16Zr-
+In12Si radical anion,2.180000,In12Si-
+TiSi9 anion,2.180000,Si9Ti-
+(COT)2Ho anion,2.180000,C16H16Ho-
+Pb2C6F5 anion,2.180000,C6F5Pb2-
+Pb2In3 anion,2.180000,In3Pb2-
+Fe25 radical,2.180000,Fe25
+benzoquinonide,2.180000,C6H3O2
+(Ar)25..O radical anion,2.184000,Ar25O-
+HfSi12 anion,2.190000,HfSi12-
+C60Na radical anion,2.190000,C60Na-
+Ti30 anion,2.190000,Ti30-
+Ti31 anion,2.190000,Ti31-
+V26 anion,2.190000,V26-
+Fe3O3 anion,2.190000,Fe3O3-
+(NaCl)5 radical anion,2.190000,Cl5Na5-
+(Ar)26..O radical anion,2.191000,Ar26O-
+mNH2-phenoxide anion,2.194000,C6H6NO-
+CH2=CFO anion,2.196000,C2H2FO-
+pEt-phenoxide anion,2.198000,C8H9O-
+Al4S2 anion,2.200000,Al4S2-
+Si5Na3 radical anion,2.200000,Na3Si5-
+C70Na radical anion,2.200000,C70Na-
+Tl17 anion,2.200000,Tl17-
+Ti32 anion,2.200000,Ti32-
+Cr26 anion,2.200000,Cr26-
+TbSi9 radical anion,2.200000,Si9Tb-
+Al5O3 anion,2.200000,Al5O3-
+Se3,2.200000,Se3
+Fe13,2.200000,Fe13
+KC60,2.200000,C60K
+TeF4 radical,2.200000,F4Te
+AsCl2,2.200000,AsCl2
+Cr20,2.200000,Cr20
+Cr21,2.200000,Cr21
+Cr22,2.200000,Cr22
+Cr24,2.200000,Cr24
+Cr25,2.200000,Cr25
+tellurium dioxide,2.200000,O2Te
+vanadium trichloride,2.200000,Cl3V
+CrC5,2.200000,C5Cr
+Al4,2.200000,Al4
+(AgF)6 anion,2.200000,Ag6F6-
+EuSi9 anion,2.200000,EuSi9-
+H2O..PhNH anion,2.200000,C6H8NO-
+Al12SiF anion,2.200000,Al12FSi-
+Al12B anion,2.200000,Al12B-
+Al4B2 anion,2.200000,Al4B2-
+Al6B2 anion,2.200000,Al6B2-
+Si9Cs anion,2.200000,CsSi9-
+Si7Ti anion,2.200000,Si7Ti-
+Si9Zr anion,2.200000,Si9Zr-
+Si7Y anion,2.200000,Si7Y-
+YbSi10 anion,2.200000,Si10Yb-
+Rh9 anion,2.200000,Rh9-
+Si10,2.200000,Si10
+Al7,2.200000,Al7
+oMe-phenoxide anion,2.201000,C7H7O-
+"1,2,4,5-Benzenetetracarbonitrile",2.203000,C10H2N4
+SnCH2CN anion,2.207000,C2H2NSn-
+fluoradenide anion,2.207000,C19H11-
+Dichlone,2.207000,C10H4Cl2O2
+Si8W anion,2.210000,Si8W-
+PbIn3 anion,2.210000,In3Pb-
+B12 anion,2.210000,B12-
+oxazolide anion,2.210000,C3H2NO-
+Ti33 anion,2.210000,Ti33-
+Pb9,2.210000,Pb9
+W15 radical,2.210000,W15
+Selenium monohydride,2.213000,HSe
+AuCl anion,2.217000,AuCl-
+Al5S3 anion,2.220000,Al5S3-
+Fe6S4 radical anion,2.220000,Fe6S4-
+Fe26 radical,2.220000,Fe26
+P6,2.220000,P6
+Tetrasulfur,2.220000,S4
+Cr23,2.220000,Cr23
+In10Si radical anion,2.220000,In10Si-
+In12Ge radical anion,2.220000,GeIn12-
+"2,5-diCl-3,6-diMe-p-benzoquinone radical",2.229000,C8H6Cl2O2
+piPr-phenoxide anion,2.229000,C9H11O-
+Si3F radical anion,2.230000,FSi3-
+(CS2)6 radical anion,2.230000,C6S12-
+Pb10I anion,2.230000,IPb10-
+CO2..(pyridine)4 radical anion,2.230000,C21H20N4O2-
+Ti34 anion,2.230000,Ti34-
+Ti35 anion,2.230000,Ti35-
+Ti36 anion,2.230000,Ti36-
+TbSi8 radical anion,2.230000,Si8Tb-
+Al5,2.230000,Al5
+Fe29 radical,2.230000,Fe29
+Silicon dimer,2.230000,Si2
+Fe14,2.230000,Fe14
+Trigermanium,2.230000,Ge3
+p-aza-anilide anion,2.236000,C5H5N2-
+HS(CH2)3S anion,2.238000,C3H7S2-
+pF-C6H4CH2O anion,2.239000,C7H6FO-
+Au4Zn anion,2.240000,Au4Zn-
+(MeOH)4..Ph2CO radical anion,2.240000,C17H26O5-
+Pb3Ag radical anion,2.240000,AgPb3-
+VGe7 anion,2.240000,Ge7V-
+Sn3 anion,2.240000,Sn3-
+Fe4S3 radical anion,2.240000,Fe4S3-
+Co13 radical anion,2.240000,Co13-
+V27 anion,2.240000,V27-
+V28 anion,2.240000,V28-
+V30 anion,2.240000,V30-
+Fe27 radical,2.240000,Fe27
+(Ar)34..O radical anion,2.243000,Ar34O-
+C60Eu2 anion,2.244000,C60Eu2-
+Aluminum difluoride,2.245000,AlF2
+Cr(CO)3O anion,2.250000,C3CrO4-
+Cr(CO)3O2 anion,2.250000,C3CrO5-
+(H2O)2..O2 radical anion,2.250000,H4O4-
+Pb24 anion,2.250000,Pb24-
+Ga8 anion,2.250000,Ga8-
+Ti37 anion,2.250000,Ti37-
+V29 anion,2.250000,V29-
+Fe28 radical,2.250000,Fe28
+Fe15,2.250000,Fe15
+Cu11,2.250000,Cu11
+Pd13,2.250000,Pd13
+Cu9,2.250000,Cu9
+Al4P2 radical,2.250000,Al4P2
+Ta3O3 anion,2.250000,O3Ta3-
+(AgF)5 anion,2.250000,Ag5F5-
+Bi2Si5 anion,2.250000,Bi2Si5-
+Al9B anion,2.250000,Al9B-
+Al10C anion,2.250000,CAl10-
+Al16C anion,2.250000,CAl16-
+Si6V anion,2.250000,Si6V-
+Pb2In5 anion,2.250000,In5Pb2-
+(NH3)5..NH2 anion,2.250000,H17N6-
+Bi2C4H4N anion,2.250000,C4H4Bi2N-
+C60Si4 radical,2.250000,C60Si4
+MeOH..MeO anion,2.255000,C2H7O2-
+F2C=C radical,2.255000,C2F2
+In14Ge radical anion,2.260000,GeIn14-
+Pb9I anion,2.260000,IPb9-
+Cu4(CN)4 radical anion,2.260000,C4Cu4N4-
+Ti38 anion,2.260000,Ti38-
+V31 anion,2.260000,V31-
+Cr(CO)5,2.264000,C5CrO5
+ptBu-phenoxide anion,2.264000,C10H13O-
+Sn2CN anion,2.270000,CNSn2-
+Co14 radical anion,2.270000,Co14-
+Cr28 anion,2.270000,Cr28-
+"(H2O)6..1,3-O2C-C6H4-CO2 dianion",2.270000,C8H16O10-2
+Cr27,2.270000,Cr27
+Copper trimer,2.270000,Cu3
+(H2O)7..Me2CO radical anion,2.270000,C3H20O8-
+D2O..Au2 anion,2.270000,Au2D2O-
+mEt-phenoxide anion,2.271000,C8H9O-
+Oxygen monofluoride,2.272000,FO
+phospholide anion,2.272000,C4H4P-
+arsolide anion,2.272000,C4H4As-
+Nitrogen dioxide,2.273000,NO2
+mCN-anilide anion,2.274000,C7H5N2-
+Monochlorine monoxide,2.277000,ClO
+HOCH2CH2O anion,2.278000,C2H5O2-
+miPr-phenoxide,2.280000,C9H11O
+Sn6 anion,2.280000,Sn6-
+Pb10 anion,2.280000,Pb10-
+Pb25 anion,2.280000,Pb25-
+Ni14 radical anion,2.280000,Ni14-
+(AgF)3 anion,2.280000,Ag3F3-
+TaGe10 anion,2.280000,Ge10Ta-
+Pb14,2.280000,Pb14
+MeON=C(Me)O anion,2.281000,C3H6NO2-
+Molybdenum tetrafluoride,2.281000,F4Mo
+Monosulfur monofluoride,2.285000,FS
+HSCH2CH2S anion,2.290000,C2H5S2-
+Pb5(benzene) anion,2.290000,C6H6Pb5-
+B3Au anion,2.290000,AuB3-
+Cr29 anion,2.290000,Cr29-
+mF-C6H4CH2O anion,2.291000,C7H6FO-
+YbCl2..Cl anion,2.294000,Cl3Yb-
+U2F8 anion,2.298000,F8U2-
+HS(CH2)4S anion,2.298000,C4H9S2-
+"(H2O)3..1,4-O2C-C6H4-CO2 dianion",2.300000,C8H10O7-2
+Pb12I anion,2.300000,IPb12-
+Ti39 anion,2.300000,Ti39-
+NaSO3 anion,2.300000,NaO3S-
+Al4N radical anion,2.300000,Al4N-
+Al9N radical anion,2.300000,Al9N-
+Al4O5 anion,2.300000,Al4O5-
+C10,2.300000,C10
+Fe30 radical,2.300000,Fe30
+As4Ga4,2.300000,As4Ga4
+Chloryl fluoride,2.300000,ClFO2
+Au6Zn anion,2.300000,Au6Zn-
+Al6B anion,2.300000,Al6B-
+Al6C anion,2.300000,CAl6-
+Si10Cs anion,2.300000,CsSi10-
+Si11Cs anion,2.300000,CsSi11-
+Si6Nb anion,2.300000,NbSi6-
+Si6Ti anion,2.300000,Si6Ti-
+Si6Zr anion,2.300000,Si6Zr-
+Si8Zr anion,2.300000,Si8Zr-
+Si9Hf anion,2.300000,HfSi9-
+Si7Lu anion,2.300000,LuSi7-
+Ga8N radical anion,2.300000,Ga8N-
+Fe(S2-o-xyl)2Na anion,2.300000,C16H8FeNaS2-
+Al6,2.300000,Al6
+Si8,2.300000,Si8
+mtBu-phenoxide anion,2.301000,C10H13O-
+Silicon timer,2.302000,Si3
+pC(CF3)3-anilide anion,2.304000,C10H5F9N-
+gold,2.309000,Au
+pCl-C6H4CH2O anion,2.309000,C7H6ClO-
+F2CHCH2O anion,2.309000,C2H3F2O-
+(Me2CO)6 radical anion,2.310000,C18H36O6-
+Si16W anion,2.310000,Si16W-
+Ag20 anion,2.310000,Ag20-
+HSi2 anion,2.310000,HSi2-
+Cr30 anion,2.310000,Cr30-
+W16 radical,2.310000,W16
+Dicarbon monoxide,2.311000,C2O
+pSCF3-anilide anion,2.313000,C7H5F3NS-
+Ag24,2.314000,Ag24
+Mercapto radical,2.315000,HS
+DS anion,2.315000,DS-
+oOH-phenoxide anion,2.315000,C6H5O2-
+Cr31 anion,2.320000,Cr31-
+Cr32 anion,2.320000,Cr32-
+ScO2,2.320000,O2Sc
+ScC5 radical,2.320000,C5Sc
+CuAl4 anion,2.320000,Al4Cu-
+Au3Ni anion,2.320000,Au3Ni-
+TiSi10 anion,2.320000,Si10Ti-
+mMe-phenoxide anion,2.321000,C7H7O-
+Phenoxy radical,2.324000,C6H5O
+mSO2Me-anilide anion,2.330000,C7H8NO2S-
+Pb18 anion,2.330000,Pb18-
+Ti40 anion,2.330000,Ti40-
+B5 anion,2.330000,B5-
+Mo2O3 radical anion,2.330000,Mo2O3-
+Ga4P4 radical,2.330000,Ga4P4
+mOH-phenoxide anion,2.330000,C6H5O2-
+MoSi16 anion,2.330000,MoSi16-
+AlB11 anion,2.330000,AlB11-
+Al14,2.330000,Al14
+mCl-C6H4CH2O anion,2.330000,C7H6ClO-
+"2,3-diCl-tBu-p-benzoquinone radical",2.333000,C10H10Cl2O2
+"1,2,3-triPh-indenide anion",2.336000,C27H19-
+Ethynyloxy radical,2.338000,C2HO
+Iron tetracarbonyl,2.340000,C4FeO4
+In14 anion,2.340000,In14-
+C70Na3 radical anion,2.340000,C70Na3-
+V32 anion,2.340000,V32-
+V36 anion,2.340000,V36-
+Cr33 anion,2.340000,Cr33-
+Cr34 anion,2.340000,Cr34-
+Fe31 radical,2.340000,Fe31
+Pb11,2.340000,Pb11
+mNO2-anilide anion,2.343000,C6H5N2O2-
+SnCH2CN(CN) anion,2.344000,C3H2N2Sn-
+Phenylthio radical,2.345000,C6H5S
+NH3..HO anion,2.350000,H4NO-
+V33 anion,2.350000,V33-
+V34 anion,2.350000,V34-
+V35 anion,2.350000,V35-
+Cu15,2.350000,Cu15
+Sn12,2.350000,Sn12
+Pb4(benzene) anion,2.350000,C6H6Pb4-
+Gramicidin(M-2H) dianion,2.350000,C99H140N20O17-2
+C60Si3 radical,2.350000,C60Si3
+Bromine monoxide,2.353000,BrO
+Al4S3 anion,2.360000,Al4S3-
+Iron dioxide,2.360000,FeO2
+Fe2O2 radical,2.360000,Fe2O2
+HfSi15 anion,2.360000,HfSi15-
+Si12W anion,2.360000,Si12W-
+Nb3C10 radical anion,2.360000,C10Nb3-
+(H2O)2..O2C(CH2)6CO2 dianion,2.360000,C8H16O6-2
+Pb23 anion,2.360000,Pb23-
+pF-phenoxide anion,2.369000,C6H4FO-
+Ag2Ni anion,2.370000,Ag2Ni-
+Ga5P2 radical anion,2.370000,Ga5P2-
+Ni15 radical anion,2.370000,Ni15-
+Fe32 radical,2.370000,Fe32
+Nb2C9 anion,2.370000,C9Nb2-
+(COT)2Nd anion,2.370000,C16H16Nd-
+Pb2In6 anion,2.370000,In6Pb2-
+HCrO3 radical,2.372000,CrHO3
+MeCOCH=NO anion,2.374000,C3H4NO2-
+AuO,2.374000,AuO
+Iodine oxide,2.378000,IO
+(N2O)2..HO anion,2.380000,HN4O3-
+Pb4F anion,2.380000,FPb4-
+V39 anion,2.380000,V39-
+Cr36 anion,2.380000,Cr36-
+Cr37 anion,2.380000,Cr37-
+Cr39,2.380000,Cr39
+Cr35,2.380000,Cr35
+In14Si radical anion,2.380000,In14Si-
+MoSi15 anion,2.380000,MoSi15-
+PbIn7 anion,2.380000,In7Pb-
+MeC(=O)OO anion,2.381000,C2H3O3-
+fluorobenzoquinonide anion,2.389000,C6H2FO2-
+(NH3)5..H anion,2.390000,H16N5-
+Ga2Bi3 radical anion,2.390000,Bi3Ga2-
+Si6,2.390000,Si6
+AgNi2 anion,2.390000,AgNi2-
+V37 anion,2.390000,V37-
+V38 anion,2.390000,V38-
+V40 anion,2.390000,V40-
+Cr40 anion,2.390000,Cr40-
+Cu2(CN)2 radical,2.390000,C2Cu2N2
+"3,5-diF-C6H3CH2O anion",2.395000,C7H5F2O-
+chlorine trifluoride,2.398000,ClF3
+F4SO..F anion,2.400000,F5OS-
+Ge12 anion,2.400000,Ge12-
+In2P radical anion,2.400000,In2P-
+Ga4 anion,2.400000,Ga4-
+Ga2P4 radical anion,2.400000,Ga2P4-
+(NaCl)10 radical anion,2.400000,Cl10Na10-
+Ni16 radical anion,2.400000,Ni16-
+(COS)4 radical anion,2.400000,C4O4S4-
+boron carbide,2.400000,CB
+CrO2Cl,2.400000,ClCrO2
+W17 radical,2.400000,W17
+Fe4O3,2.400000,Fe4O3
+Cr41,2.400000,Cr41
+F2C=C=O radical,2.400000,C2F2O
+Chlorine,2.400000,Cl2
+V2C8 radical anion,2.400000,C8V2-
+TaO2 anion,2.400000,O2Ta-
+C2B5 anion,2.400000,C2B5-
+In8Ge radical anion,2.400000,GeIn8-
+Al8B2 anion,2.400000,Al8B2-
+Al22C anion,2.400000,CAl22-
+Si12Cs anion,2.400000,CsSi12-
+Si16Cs anion,2.400000,CsSi16-
+Si7Zr anion,2.400000,Si7Zr-
+Si6Hf anion,2.400000,HfSi6-
+Si7Hf anion,2.400000,HfSi7-
+Si7Sc anion,2.400000,ScSi7-
+Si7Ho anion,2.400000,HoSi7-
+PrSi7 anion,2.400000,PrSi7-
+Ga9N radical anion,2.400000,Ga9N-
+LiAuB2O3 radical anion,2.400000,AuB2LiO3-
+Si9,2.400000,Si9
+Al2H6 radical,2.400000,Al2H6
+In10,2.400000,In10
+V2C8 radical anion,2.400000,C8V2-
+TaO2 anion,2.400000,O2Ta-
+C2B5 anion,2.400000,C2B5-
+In8Ge radical anion,2.400000,GeIn8-
+Al8B2 anion,2.400000,Al8B2-
+Al22C anion,2.400000,CAl22-
+Si12Cs anion,2.400000,CsSi12-
+Si16Cs anion,2.400000,CsSi16-
+Si7Zr anion,2.400000,Si7Zr-
+Si6Hf anion,2.400000,HfSi6-
+Si7Hf anion,2.400000,HfSi7-
+Si7Sc anion,2.400000,ScSi7-
+Si7Ho anion,2.400000,HoSi7-
+PrSi7 anion,2.400000,PrSi7-
+Ga9N radical anion,2.400000,Ga9N-
+LiAuB2O3 radical anion,2.400000,AuB2LiO3-
+Si9,2.400000,Si9
+Al2H6 radical,2.400000,Al2H6
+In10,2.400000,In10
+HON=C(Me)O anion,2.400000,C2H4NO2-
+"2,3,5,6-tetracyanophenide",2.407000,C10HN4
+DC5 anion,2.407000,C5D-
+Iodine monochloride,2.410000,ClI
+Au5Ni anion,2.410000,Au5Ni-
+Ge8 anion,2.410000,Ge8-
+Si7Na3 radical anion,2.410000,Na3Si7-
+CO2..(pyridine)5 radical anion,2.410000,C26H25N5O2-
+Co20 radical anion,2.410000,Co20-
+Ti45 anion,2.410000,Ti45-
+Cr42 anion,2.410000,Cr42-
+Trifluorosilyl radical,2.410000,F3Si
+W19 radical,2.410000,W19
+chromium dioxide,2.413000,CrO2
+Cu16,2.415000,Cu16
+mCF3-C6H4CH2O anion,2.417000,C8H6F3O-
+(COT)2Ce anion,2.420000,C16H16Ce-
+In2Bi3 radical anion,2.420000,Bi3In2-
+NaSn5,2.420000,NaSn5
+Fe8S4 radical anion,2.420000,Fe8S4-
+Fe8S5 radical anion,2.420000,Fe8S5-
+Co22 radical anion,2.420000,Co22-
+Ti50 anion,2.420000,Ti50-
+Mo2O2 radical anion,2.420000,Mo2O2-
+Pb19,2.420000,Pb19
+Dichlorofluoromethyl radical,2.421000,CCl2F
+"cis-2-tBu-1,3-dithian-5-O anion",2.422000,C8H15OS2-
+HC5 anion,2.423000,C5H-
+sulphuryl dichloride,2.424000,Cl2O2S
+In4P3 radical anion,2.430000,In4P3-
+(H2O)8..SO4 dianion,2.430000,H16O12S-2
+Ge2O3 radical anion,2.430000,Ge2O3-
+V41 anion,2.430000,V41-
+Silver trimer,2.430000,Ag3
+Fe33 radical,2.430000,Fe33
+In9Ge radical anion,2.430000,GeIn9-
+HfGe7 anion,2.430000,Ge7Hf-
+Si2F radical,2.430000,FSi2
+"2,5-Cyclohexadiene-1,4-dione, 2,5-dichloro-",2.437000,C6H2Cl2O2
+"Tetrabromo-1,2-benzoquinone",2.440000,C6Br4O2
+NbGe18 anion,2.440000,Ge18Nb-
+W20 radical anion,2.440000,W20-
+Co21 radical anion,2.440000,Co21-
+V43 anion,2.440000,V43-
+Si8Na radical,2.440000,NaSi8
+Co23 radical,2.440000,Co23
+W18 radical,2.440000,W18
+pCF3-C6H4CH2O anion,2.443000,C8H6F3O-
+Ag16 anion,2.450000,Ag16-
+Si5Na radical anion,2.450000,NaSi5-
+In7P7 anion,2.450000,In7P7-
+H3P3O10 dianion,2.450000,H3O10P3-2
+V42 anion,2.450000,V42-
+Al2N radical anion,2.450000,Al2N-
+Ga5,2.450000,Ga5
+Al3P3 radical,2.450000,Al3P3
+C16,2.450000,C16
+Ag9,2.450000,Ag9
+Cu19,2.450000,Cu19
+(H2O)8..Me2CO radical anion,2.450000,C3H22O9-
+Au2Ni anion,2.450000,Au2Ni-
+TiSi11 anion,2.450000,Si11Ti-
+Mn4S3 radical anion,2.450000,Mn4S3-
+Al10B anion,2.450000,Al10B-
+Al5B2 anion,2.450000,Al5B2-
+Al14C anion,2.450000,CAl14-
+Si14Cs anion,2.450000,CsSi14-
+LuGe8 anion,2.450000,Ge8Lu-
+In2Sb3 radical,2.450000,In2Sb3
+Ga2As,2.457000,AsGa2
+In9Si radical anion,2.460000,In9Si-
+Si16Zr radical,2.460000,Si16Zr
+Co15 radical anion,2.460000,Co15-
+V44 anion,2.460000,V44-
+V45 anion,2.460000,V45-
+"(E,E)HN=CHCNN anion",2.460000,C2H2N3-
+Cu2O2,2.460000,Cu2O2
+AuS,2.469000,AuS
+(Me2CO)7 radical anion,2.470000,C21H42O7-
+TiSi17 anion,2.470000,Si17Ti-
+Si15W anion,2.470000,Si15W-
+TiGe7 anion,2.470000,Ge7Ti-
+Ga4P5 radical anion,2.470000,Ga4P5-
+"(H2O)7..1,3-O2C-C6H4-CO2 dianion",2.470000,C8H18O11-2
+Sn11,2.470000,Sn11
+SmCl2..Cl anion,2.473000,Cl3Sm-
+CH2=NO2 anion,2.475000,CH2NO2-
+Sn8 anion,2.480000,Sn8-
+Cr45 anion,2.480000,Cr45-
+Cr50,2.480000,Cr50
+Co24 radical,2.480000,Co24
+Pb13,2.480000,Pb13
+In11Ge radical anion,2.480000,GeIn11-
+Chlorine azide,2.480000,ClN3
+"2,5-Cyclohexadiene-1,4-dione, 2,6-dichloro-",2.480000,C6H2Cl2O2
+Ga2P anion,2.481000,Ga2P-
+PbAl3 anion,2.484000,Al3Pb-
+"Amidogen, methanetetraylbis-",2.484000,CN2
+"(Z,E)HN=CHCNN anion",2.484000,C2H2N3-
+Al3S2 anion,2.490000,Al3S2-
+In12 anion,2.490000,In12-
+In15Ge radical anion,2.490000,GeIn15-
+AlB6 anion,2.490000,AlB6-
+Pb22 anion,2.490000,Pb22-
+V46 anion,2.490000,V46-
+Fe34 radical,2.490000,Fe34
+HC(=O)OO anion,2.493000,CHO3-
+pSO2Me-anilide anion,2.499000,C7H8NO2S-
+CrH2,2.500000,CrH2
+titanium tetrafluoride,2.500000,F4Ti
+Ge10 anion,2.500000,Ge10-
+Ge11 anion,2.500000,Ge11-
+C14 anion,2.500000,C14-
+Cu34 anion,2.500000,Cu34-
+Pb30 anion,2.500000,Pb30-
+ReO2 anion,2.500000,O2Re-
+Co25 radical anion,2.500000,Co25-
+V47 anion,2.500000,V47-
+Ni17 radical anion,2.500000,Ni17-
+Al11N radical anion,2.500000,Al11N-
+Al19N radical anion,2.500000,Al19N-
+germanium dioxide,2.500000,GeO2
+CrOCl2 radical,2.500000,Cl2CrO
+Cu18,2.500000,Cu18
+Cu21,2.500000,Cu21
+CsO4,2.500000,CsO4
+Ga3P3 radical,2.500000,Ga3P3
+CrO2F,2.500000,CrFO2
+Fe3S2 radical,2.500000,Fe3S2
+(AgF)2 anion,2.500000,Ag2F2-
+EuSi14 anion,2.500000,EuSi14-
+HfSi16 radical anion,2.500000,HfSi16-
+In16 radical anion,2.500000,In16-
+MoSi12 anion,2.500000,MoSi12-
+MoSi14 anion,2.500000,MoSi14-
+Si14W anion,2.500000,Si14W-
+C60Si2 radical anion,2.500000,C60Si2-
+C60Ge3 radical anion,2.500000,C60Ge3-
+Al10B2 anion,2.500000,Al10B2-
+Al11C anion,2.500000,CAl11-
+Al15C anion,2.500000,CAl15-
+Al18C anion,2.500000,CAl18-
+Al20C anion,2.500000,CAl20-
+Al24C anion,2.500000,CAl24-
+Si8Nb anion,2.500000,NbSi8-
+Si6Ta anion,2.500000,Si6Ta-
+Si6Y anion,2.500000,Si6Y-
+PrSi8 anion,2.500000,PrSi8-
+Ga6N radical anion,2.500000,Ga6N-
+VGe8 anion,2.500000,Ge8V-
+NbGe16 anion,2.500000,Ge16Nb-
+HfSn17 anion,2.500000,HfSn17-
+Al10,2.500000,Al10
+Al12,2.500000,Al12
+Si11,2.500000,Si11
+Al3H9 radical,2.500000,Al3H9
+Tin(IV) chloride,2.500000,Cl4Sn
+Ga2N anion,2.506000,Ga2N-
+"2,6-diCl-Br-tBu-p-benzoquinone radical",2.506000,C10H9BrCl2O2
+BO anion,2.508000,BO-
+Ge5 anion,2.510000,Ge5-
+Ti55 anion,2.510000,Ti55-
+Ti60 anion,2.510000,Ti60-
+Ni18 radical anion,2.510000,Ni18-
+Ni19 radical anion,2.510000,Ni19-
+Au3Pd radical anion,2.510000,Au3Pd-
+In8P8,2.510000,In8P8
+iodine bromide,2.512000,BrI
+(CF3)2CH anion,2.513000,C3HF6-
+Al2P radical,2.513000,Al2P
+BrO2 anion,2.515000,BrO2-
+Ag23,2.517000,Ag23
+ZrGe8 anion,2.520000,Ge8Zr-
+Co26 radical,2.520000,Co26
+W21 radical,2.520000,W21
+indolide anion,2.522000,C8H6N-
+HN=C(Me)S anion,2.524000,C2H4NS-
+Iodine,2.524000,I2
+oCl-phenoxide anion,2.526000,C6H4ClO-
+(H2O)3..O2C(CH2)6CO2 dianion,2.530000,C8H18O7-2
+HSi3 anion,2.530000,HSi3-
+V48 anion,2.530000,V48-
+Cr55 anion,2.530000,Cr55-
+(H2O)2..COS radical anion,2.530000,CH4O3S-
+(H2O)12..O2CCO2 dianion,2.530000,C2H24O16-2
+C6H5Au3 anion,2.530000,C6H5Au3-
+Au6Pd anion,2.530000,Au6Pd-
+In16Ge radical anion,2.530000,GeIn16-
+HfGe17 anion,2.530000,Ge17Hf-
+NbGe19 anion,2.530000,Ge19Nb-
+Al2MoO3 anion,2.530000,Al2MoO3-
+LiD2 radical,2.540000,D2Li
+Re3O3 anion,2.540000,O3Re3-
+TiGe13 anion,2.540000,Ge13Ti-
+V49 anion,2.540000,V49-
+hexacyanobenzene radical anion,2.541000,C12N6-
+Ag26,2.542000,Ag26
+Ag27,2.542000,Ag27
+Si2C4 radical anion,2.543000,C4Si2-
+PdCN anion,2.543000,CNPd-
+Me-triCl-p-benzoquinone radical,2.545000,C7H3Cl3O2
+MeN=C(Me)O anion,2.550000,C3H6NO-
+(O2N)2N anion,2.550000,N3O4-
+V50 anion,2.550000,V50-
+Ga7,2.550000,Ga7
+Cu22,2.550000,Cu22
+C12,2.550000,C12
+Bromine,2.550000,Br2
+Al20 anion,2.550000,Al20-
+Al24 anion,2.550000,Al24-
+Al9C anion,2.550000,CAl9-
+Al12C anion,2.550000,CAl12-
+Al19C anion,2.550000,CAl19-
+B7 anion,2.550000,B7-
+TaGe11 anion,2.550000,Ge11Ta-
+ZrSn17 anion,2.550000,Sn17Zr-
+C60Si radical,2.550000,C60Si
+CF3CH2O anion,2.554000,C2H2F3O-
+2-CO2-pyridinium-N-CH2 anion,2.555000,C7H6NO2-
+germanium dichloride,2.558000,Cl2Ge
+Manganic acetylacetonate,2.558000,C15H21MnO6
+In9 anion,2.560000,In9-
+Al3C anion,2.560000,CAl3-
+Co19 radical anion,2.560000,Co19-
+V51 anion,2.560000,V51-
+V52 anion,2.560000,V52-
+V53 anion,2.560000,V53-
+V54 anion,2.560000,V54-
+(D2O)2..Au2 anion,2.560000,Au2D4O2-
+In15Si radical anion,2.560000,In15Si-
+TiSi12 anion,2.560000,Si12Ti-
+TiSi14 anion,2.560000,Si14Ti-
+Ag2H anion,2.560000,Ag2H-
+ScGe6 anion,2.560000,Ge6Sc-
+NbGe8 anion,2.560000,Ge8Nb-
+NbGe9 anion,2.560000,Ge9Nb-
+NbGe20 anion,2.560000,Ge20Nb-
+triiron tetraoxide,2.560000,Fe3O4
+pCl-phenoxide anion,2.561000,C6H4ClO-
+C60Eu radical anion,2.564000,C60Eu-
+Tribromomethyl radical,2.569000,CBr3
+(CO2)7 radical anion,2.570000,C7O14-
+(Me2CO)8 radical anion,2.570000,C24H48O8-
+Au7Cu anion,2.570000,Au7Cu-
+HfSi17 anion,2.570000,HfSi17-
+MoSi17 anion,2.570000,MoSi17-
+VGe17 anion,2.570000,Ge17V-
+HfGe9 anion,2.570000,Ge9Hf-
+C60(CF3)12,2.570000,C72F36
+Si10Na radical anion,2.570000,NaSi10-
+Si4F radical anion,2.570000,FSi4-
+CO2..(pyridine)6 radical anion,2.570000,C31H30N6O2-
+V56 anion,2.570000,V56-
+Co27 radical,2.570000,Co27
+OIO anion,2.575000,IO2-
+Ag15 anion,2.580000,Ag15-
+Ag18 anion,2.580000,Ag18-
+Pb35 anion,2.580000,Pb35-
+Al3P2 radical anion,2.580000,Al3P2-
+Co16 radical anion,2.580000,Co16-
+Co17 radical anion,2.580000,Co17-
+Co18 radical anion,2.580000,Co18-
+Ti65 anion,2.580000,Ti65-
+Al36 anion,2.580000,Al36-
+V55 anion,2.580000,V55-
+Ni21 radical anion,2.580000,Ni21-
+Sn17,2.580000,Sn17
+Al6N radical anion,2.580000,Al6N-
+In11Si radical anion,2.580000,In11Si-
+TaGe16 anion,2.580000,Ge16Ta-
+HOCH2CH2CH2O anion,2.585000,C3H7O2-
+TiSi13 anion,2.590000,Si13Ti-
+C60Au2 radical anion,2.590000,C60Au2-
+IrB9 anion,2.590000,B9Ir-
+LuGe9 anion,2.590000,Ge9Lu-
+Si11Na radical anion,2.590000,NaSi11-
+Cu3(CN)3 radical anion,2.590000,C3Cu3N3-
+Ni20 radical anion,2.590000,Ni20-
+Fe-perchlorotetraphenylporphyrin radical,2.590000,C44Cl28FeN4
+Co28 radical,2.590000,Co28
+Si5,2.590000,Si5
+Cu26 anion,2.600000,Cu26-
+Fe8S6 radical anion,2.600000,Fe8S6-
+(N2O)3..HO anion,2.600000,HN6O4-
+Ga14 anion,2.600000,Ga14-
+Pb21 anion,2.600000,Pb21-
+Pb40 anion,2.600000,Pb40-
+C20,2.600000,C20
+Ga6,2.600000,Ga6
+Aluminum sulfide,2.600000,AlS
+Aluminum oxide anion,2.600000,AlO-
+Tungsten tetrafluoride,2.600000,F4W
+Cu24,2.600000,Cu24
+Si2O4 radical,2.600000,O4Si2
+Ag7,2.600000,Ag7
+CuH2 anion,2.600000,CuH2-
+CuD2 anion,2.600000,CuD2-
+EuSi16 anion,2.600000,EuSi16-
+EuSi17 anion,2.600000,EuSi17-
+In13Ge radical anion,2.600000,GeIn13-
+C60Ge2 radical anion,2.600000,C60Ge2-
+Al9B2 anion,2.600000,Al9B2-
+Al17C anion,2.600000,CAl17-
+Si15Cs anion,2.600000,CsSi15-
+Si7V anion,2.600000,Si7V-
+Si7Nb anion,2.600000,NbSi7-
+Si6Sc anion,2.600000,ScSi6-
+Si9Sc anion,2.600000,ScSi9-
+Si8Y anion,2.600000,Si8Y-
+YbSi9 anion,2.600000,Si9Yb-
+YbSi11 anion,2.600000,Si11Yb-
+Au3H anion,2.600000,Au3H-
+NbGe17 anion,2.600000,Ge17Nb-
+Si12,2.600000,Si12
+CuH2 anion,2.600000,CuH2-
+CuD2 anion,2.600000,CuD2-
+EuSi16 anion,2.600000,EuSi16-
+EuSi17 anion,2.600000,EuSi17-
+In13Ge radical anion,2.600000,GeIn13-
+C60Ge2 radical anion,2.600000,C60Ge2-
+Al9B2 anion,2.600000,Al9B2-
+Al17C anion,2.600000,CAl17-
+Si15Cs anion,2.600000,CsSi15-
+Si7V anion,2.600000,Si7V-
+Si7Nb anion,2.600000,NbSi7-
+Si6Sc anion,2.600000,ScSi6-
+Si9Sc anion,2.600000,ScSi9-
+Si8Y anion,2.600000,Si8Y-
+YbSi9 anion,2.600000,Si9Yb-
+YbSi11 anion,2.600000,Si11Yb-
+Au3H anion,2.600000,Au3H-
+NbGe17 anion,2.600000,Ge17Nb-
+Si12,2.600000,Si12
+F2PS anion,2.602000,F2PS-
+H2O..O radical anion,2.607000,H2O2-
+Al5C anion,2.607000,CAl5-
+mF-phenoxide anion,2.607000,C6H4FO-
+mSO2CF3-anilide anion,2.607000,C7H5F3NO2S-
+"(H2O)4..1,4-O2C-C6H4-CO2 dianion",2.608000,C8H12O8-2
+mCO2Me-phenoxide anion,2.609000,C8H7O3-
+GeCl3 anion,2.610000,Cl3Ge-
+Ni22 radical anion,2.610000,Ni22-
+Au7Zn anion,2.610000,Au7Zn-
+Si11W anion,2.610000,Si11W-
+Co29 radical,2.610000,Co29
+Trichlorobenzoquinone,2.611000,C6HCl3O2
+GaO anion,2.612000,GaO-
+imidazolide anion,2.613000,C3H3N2-
+HC(CO2Et)2 anion,2.615000,C7H11O4-
+"Gallium,tris(1,1,1,5,5,5-hexafluoro-2,4-pentanedionato-o,o')-",2.619000,C15H3F18GaO6
+ZrGe9 anion,2.620000,Ge9Zr-
+ZrGe17 anion,2.620000,Ge17Zr-
+Pb17 anion,2.620000,Pb17-
+Sn16,2.620000,Sn16
+Sn(CN)2,2.622000,C2N2Sn
+HNCN anion,2.623000,CHN2-
+DNCN anion,2.623000,CDN2-
+CH2=C(CF3)O anion,2.625000,C3H2F3O-
+CF3C(Me)2O anion,2.625000,C4H6F3O-
+"trans-2-tBu-1,3-dithian-5-O anion",2.626000,C8H15OS2-
+"1,3,5-Trinitrobenzene",2.628000,C6H3N3O6
+"3,5-diCF3-anilide anion",2.629000,C8H4F6N-
+Pb45 anion,2.630000,Pb45-
+V60 anion,2.630000,V60-
+Sn13,2.630000,Sn13
+(H2O)9..Me2CO radical anion,2.630000,C3H24O10-
+In13Si radical anion,2.630000,In13Si-
+In16Si radical anion,2.630000,In16Si-
+Pb3C6F5 anion,2.630000,C6F5Pb3-
+Cu(cytidine) anion,2.630000,C9H13CuN3O5-
+HfGe8 anion,2.630000,Ge8Hf-
+HfGe13 anion,2.630000,Ge13Hf-
+YSn17 anion,2.630000,Sn17Y-
+In11,2.630000,In11
+W25 radical anion,2.631000,W25-
+W28 radical anion,2.631000,W28-
+pNO2-C6H4CH2O anion,2.634000,C7H6NO3-
+Mn3S3 radical anion,2.640000,Mn3S3-
+CB4 radical anion,2.640000,CB4-
+MeOH..PhCOMe radical anion,2.640000,C9H12O2-
+Sn8Cl anion,2.640000,ClSn8-
+AlCSi anion,2.640000,CAlSi-
+"(H2O)8..1,3-O2C-C6H4-CO2 dianion",2.640000,C8H20O12-2
+AlP4 radical,2.640000,AlP4
+SeCN anion,2.641000,CNSe-
+MeCOCH=C(Me)O anion,2.641000,C5H7O2-
+Ag22,2.644000,Ag22
+Ag34,2.644000,Ag34
+Ag36,2.644000,Ag36
+mCOMe-phenoxide anion,2.649000,C8H7O2-
+SnF3 anion,2.650000,F3Sn-
+Sn5 anion,2.650000,Sn5-
+AlC2 anion,2.650000,C2Al-
+Co30 radical anion,2.650000,Co30-
+Ni23 radical anion,2.650000,Ni23-
+Al15N radical anion,2.650000,Al15N-
+Al17N radical anion,2.650000,Al17N-
+C18,2.650000,C18
+In9P9,2.650000,In9P9
+In10P10,2.650000,In10P10
+Au4Ni anion,2.650000,Au4Ni-
+Al7B anion,2.650000,Al7B-
+Al8B anion,2.650000,Al8B-
+TiGe17 anion,2.650000,Ge17Ti-
+ZrSn15 anion,2.650000,Sn15Zr-
+Al11,2.650000,Al11
+Boron trifluoride,2.650000,BF3
+carbazolide anion,2.652000,C12H8N-
+W29 radical anion,2.652000,W29-
+Fe5S4 radical anion,2.660000,Fe5S4-
+Si9Na radical anion,2.660000,NaSi9-
+Pb28 anion,2.660000,Pb28-
+SnAl3 anion,2.660000,Al3Sn-
+C6H5Ag2 anion,2.660000,C6H5Ag2-
+(Me2CO)9 radical anion,2.660000,C27H54O9-
+MoVO4 radical anion,2.660000,MoO4V-
+NbGe10 anion,2.660000,Ge10Nb-
+Co31 radical,2.660000,Co31
+Sn15,2.660000,Sn15
+Cu40,2.665000,Cu40
+HO(CH2)5O anion,2.667000,C5H11O2-
+HO(CH2)4O anion,2.669000,C4H9O2-
+CO2..IBr anion,2.670000,CBrIO2-
+Ga5P3 radical anion,2.670000,Ga5P3-
+V65 anion,2.670000,V65-
+Ni24 radical anion,2.670000,Ni24-
+mCl-phenoxide anion,2.675000,C6H4ClO-
+platinum dioxide,2.677000,O2Pt
+Sn18 anion,2.680000,Sn18-
+HSi4 anion,2.680000,HSi4-
+Azide radical,2.680000,N3
+LaC12 radical,2.680000,C12La
+Sn14,2.680000,Sn14
+Pb4-pyridinyl radical anion,2.680000,C5H4NPb4-
+MoSi9 anion,2.680000,MoSi9-
+MoSi11 anion,2.680000,MoSi11-
+TiSn15 anion,2.680000,Sn15Ti-
+Buckminsterfullerene,2.684000,C60
+TiGe9 anion,2.690000,Ge9Ti-
+NbGe14 anion,2.690000,Ge14Nb-
+(H2O)9..SO4 dianion,2.690000,H18O13S-2
+Sn4Cl anion,2.690000,ClSn4-
+Fe4O4 anion,2.690000,Fe4O4-
+Au4Pd radical anion,2.690000,Au4Pd-
+iron difluoride,2.693000,F2Fe
+CH2=C(CN)O anion,2.693000,C3H2NO-
+PhCON radical anion,2.700000,C7H5NO-
+Ge15 anion,2.700000,Ge15-
+Pb20 anion,2.700000,Pb20-
+Cu27 anion,2.700000,Cu27-
+Cu28 anion,2.700000,Cu28-
+Pb34 anion,2.700000,Pb34-
+Ga10 anion,2.700000,Ga10-
+Pb50 anion,2.700000,Pb50-
+CAl3Ge anion,2.700000,CAl3Ge-
+Co35 radical anion,2.700000,Co35-
+Al10N radical anion,2.700000,Al10N-
+As5Ga5,2.700000,As5Ga5
+"Propyl,heptafluoro",2.700000,C3F7
+Tellurium trimer,2.700000,Te3
+GeAl3,2.700000,Al3Ge
+Al16 anion,2.700000,Al16-
+Al26 anion,2.700000,Al26-
+(Me2CO)10 radical anion,2.700000,C30H60O10-
+Au5Pd anion,2.700000,Au5Pd-
+EuSi15 anion,2.700000,EuSi15-
+(H2O)2..PhNH anion,2.700000,C6H10NO2-
+Si17W anion,2.700000,Si17W-
+C60Au4 radical anion,2.700000,C60Au4-
+L-Tyrosine anion,2.700000,C9H10NO3-
+Al11B anion,2.700000,Al11B-
+Al14B anion,2.700000,Al14B-
+Al13B2 anion,2.700000,Al13B2-
+Al26C anion,2.700000,CAl26-
+Si9Nb anion,2.700000,NbSi9-
+Si7Ta anion,2.700000,Si7Ta-
+Si8Ta anion,2.700000,Si8Ta-
+Si20Ti anion,2.700000,Si20Ti-
+Si10Zr anion,2.700000,Si10Zr-
+Si19Zr anion,2.700000,Si19Zr-
+Si20Zr anion,2.700000,Si20Zr-
+Si8Hf anion,2.700000,HfSi8-
+Si8Sc anion,2.700000,ScSi8-
+Si9Y anion,2.700000,Si9Y-
+Si8Ho anion,2.700000,HoSi8-
+Si8Lu anion,2.700000,LuSi8-
+YbSi13 anion,2.700000,Si13Yb-
+HfGe10 anion,2.700000,Ge10Hf-
+B6Au anion,2.700000,AuB6-
+Al15,2.700000,Al15
+Al9,2.700000,Al9
+C60Ge radical,2.700000,C60Ge
+"p-Benzoquinone, 2,3,5,6-tetrafluoro-",2.702000,C6F4O2
+Au4,2.710000,Au4
+Pb11I anion,2.710000,IPb11-
+Co37 radical anion,2.710000,Co37-
+Ni25 radical anion,2.710000,Ni25-
+CrSi8 anion,2.710000,CrSi8-
+In15 anion,2.710000,In15-
+CB6 anion,2.710000,CB6-
+HfSi13 anion,2.710000,HfSi13-
+HfSi14 anion,2.710000,HfSi14-
+Cu(uridine) anion,2.710000,C9H12CuN2O6-
+HfSn15 anion,2.710000,HfSn15-
+B3(BO) anion,2.710000,B4O-
+mCOPh-phenoxide anion,2.717000,C13H9O2-
+MeCðC anion,2.718000,C3H3-
+In2P3 radical anion,2.720000,In2P3-
+In3P4 radical anion,2.720000,In3P4-
+Au3Cu anion,2.720000,Au3Cu-
+Ag2S3 anion,2.720000,Ag2S3-
+Ag3S3 anion,2.720000,Ag3S3-
+VGe9 anion,2.720000,Ge9V-
+TiGe8 anion,2.720000,Ge8Ti-
+TiGe15 anion,2.720000,Ge15Ti-
+In11P11 anion,2.720000,In11P11-
+Sn22 anion,2.720000,Sn22-
+naphthalene..{H2O}2..O2 radical anion,2.720000,C10H12O4-
+mSCF3-phenoxide anion,2.723000,C7H4F3OS-
+IS,2.723000,IS
+Cu13,2.725000,Cu13
+(CO2)8 radical anion,2.730000,C8O16-
+SiAl3 anion,2.730000,Al3Si-
+Co36 radical anion,2.730000,Co36-
+ScEr2N@C80 radical anion,2.730000,C80Er2NSc2-
+Ni26 radical anion,2.730000,Ni26-
+Ni28 radical anion,2.730000,Ni28-
+Co32 radical,2.730000,Co32
+tri-μ-carbonylhexacarbonyldiiron,2.730000,C9Fe2O9
+(Me2CO)11 radical anion,2.730000,C33H66O11-
+(MeOH)2..PhCOMe radical anion,2.730000,C10H16O3-
+Ag2S4 anion,2.730000,Ag2S4-
+Ag49 anion,2.731000,Ag49-
+Ag40,2.731000,Ag40
+W32 radical anion,2.734000,W32-
+mCHO-phenoxide anion,2.736000,C7H5O2-
+Al2P3 radical,2.739000,Al2P3
+C60F2 radical anion,2.740000,C60F2-
+(MeOH)3..PhCOMe radical anion,2.740000,C11H20O4-
+Cu2(BO2)2 anion,2.740000,B2Cu2O4-
+YSn15 anion,2.740000,Sn15Y-
+Sn9 anion,2.740000,Sn9-
+Ga6P6 radical anion,2.740000,Ga6P6-
+Ge4F radical anion,2.740000,FGe4-
+W30 radical anion,2.744000,W30-
+W35 radical anion,2.744000,W35-
+C60O anion,2.745000,C60O-
+Au20,2.745000,Au20
+Ag29,2.746000,Ag29
+CCS anion,2.748000,C2S-
+"Methylidyne, cyano-",2.749000,C2N
+Pb55 anion,2.750000,Pb55-
+Ni27 radical anion,2.750000,Ni27-
+Co33 radical,2.750000,Co33
+Cu36,2.750000,Cu36
+Cu25,2.750000,Cu25
+Al17 anion,2.750000,Al17-
+Al18 anion,2.750000,Al18-
+Al28 anion,2.750000,Al28-
+(H2O)10..Me2CO radical anion,2.750000,C3H26O11-
+Nb2C8 anion,2.750000,C8Nb2-
+Al7C anion,2.750000,CAl7-
+Al21C anion,2.750000,CAl21-
+Al23C anion,2.750000,CAl23-
+Al30C anion,2.750000,CAl30-
+Ge25 anion,2.750000,Ge25-
+Ge26 anion,2.750000,Ge26-
+ZrGe13 anion,2.750000,Ge13Zr-
+"2,3,5,6-tetrafluorophenoxide anion",2.754000,C6HF4O-
+Sn10 anion,2.760000,Sn10-
+(SO2)5..SO2 radical anion,2.760000,O12S6-
+In5P4 anion,2.760000,In5P4-
+Sc2ErN@C80 radical anion,2.760000,C80ErNSc3-
+H2O..Au anion,2.760000,AuH2O-
+(MeOH)4..PhCOMe radical anion,2.760000,C12H24O5-
+NbGe15 anion,2.760000,Ge15Nb-
+Au8,2.764000,Au8
+C70,2.765000,C70
+(Me3Si)2N anion,2.767000,C6H18NSi2-
+mSOMe-phenoxide,2.768000,C7H7O2S
+(Me2CO)12 radical anion,2.770000,C36H72O12-
+Fe7S5 radical anion,2.770000,Fe7S5-
+Fe7S6 radical anion,2.770000,Fe7S6-
+CAl3Si anion,2.770000,CAl3Si-
+SO2..F anion,2.771000,FO2S-
+Ag33,2.771000,Ag33
+Ru(CF3COCHCOMe)3 radical anion,2.775000,C15H12F9O6Ru-
+"p-Benzoquinone, 2,3,5,6-tetrachloro-",2.775000,C6Cl4O2
+"Scandium,tris(1,1,1,5,5,5-hexafluoro-2,4-pentanedionato-o,o')-",2.775000,C15H3F18O6Sc
+Sn13Cl anion,2.780000,ClSn13-
+Sn14Cl anion,2.780000,ClSn14-
+Al3O3 radical anion,2.780000,Al3O3-
+(TiO2)3 anion,2.780000,O6Ti3-
+TiSi15 anion,2.780000,Si15Ti-
+HfSi18 anion,2.780000,HfSi18-
+ScSn17 anion,2.780000,ScSn17-
+CrC4,2.781000,C4Cr
+Ga2As3,2.783000,As3Ga2
+(CO2)2 radical anion,2.790000,C2O4-
+(Me2CO)13 radical anion,2.790000,C39H78O13-
+(D2O)3..Au2 anion,2.790000,Au2D6O3-
+ZrGe12 anion,2.790000,Ge12Zr-
+NbGe13 anion,2.790000,Ge13Nb-
+Pb60 anion,2.790000,Pb60-
+Sn10Cl anion,2.790000,ClSn10-
+P7,2.790000,P7
+Ag50 anion,2.797000,Ag50-
+Ag60 anion,2.797000,Ag60-
+CrF2..F anion,2.800000,CrF3-
+(CO2)9 radical anion,2.800000,C9O18-
+Sulfur pentamer,2.800000,S5
+VOF2,2.800000,F2OV
+Al19 anion,2.800000,Al19-
+Al29 anion,2.800000,Al29-
+Ge17 anion,2.800000,Ge17-
+EuSi12 anion,2.800000,EuSi12-
+EuSi13 anion,2.800000,EuSi13-
+Si9W anion,2.800000,Si9W-
+C60Au6 radical anion,2.800000,C60Au6-
+Al11B2 anion,2.800000,Al11B2-
+Al28C anion,2.800000,CAl28-
+Si13Cs anion,2.800000,CsSi13-
+Ge8Cl anion,2.800000,ClGe8-
+Ge16 anion,2.800000,Ge16-
+Ge22 anion,2.800000,Ge22-
+Ge27 anion,2.800000,Ge27-
+Si9Ta anion,2.800000,Si9Ta-
+Si17Zr anion,2.800000,Si17Zr-
+Si9Lu anion,2.800000,LuSi9-
+(CO2)2..IBr anion,2.800000,C2BrIO4-
+YbSi12 anion,2.800000,Si12Yb-
+PrSi9 anion,2.800000,PrSi9-
+Ga7N2 radical anion,2.800000,Ga7N2-
+PtPb10 anion,2.800000,Pb10Pt-
+KPtPb12 anion,2.800000,KPb12Pt-
+ScGe8 anion,2.800000,Ge8Sc-
+ScGe9 anion,2.800000,Ge9Sc-
+ScGe15 anion,2.800000,Ge15Sc-
+HfGe11 anion,2.800000,Ge11Hf-
+HfGe19 anion,2.800000,Ge19Hf-
+Fe(SMe)3 anion,2.800000,C3H9FeS3-
+Ge18,2.800000,Ge18
+Ge14 anion,2.800000,Ge14-
+Sn19 anion,2.800000,Sn19-
+Cu23 anion,2.800000,Cu23-
+Cu31 anion,2.800000,Cu31-
+(N2O)4..HO anion,2.800000,HN8O5-
+In12P12 anion,2.800000,In12P12-
+Ga12 anion,2.800000,Ga12-
+Sn27 anion,2.800000,Sn27-
+Co34 radical anion,2.800000,Co34-
+"(H2O)9..1,3-O2C-C6H4-CO2 dianion",2.800000,C8H22O13-2
+Al13N radical anion,2.800000,Al13N-
+Al14N radical anion,2.800000,Al14N-
+Al21N radical anion,2.800000,Al21N-
+Pt2(N2) anion,2.800000,N2Pt2-
+KO4,2.800000,KO4
+C28,2.800000,C28
+Tetracyano-p-quinodimethane,2.800000,C12H4N4
+Pb70 anion,2.810000,Pb70-
+In7P6 anion,2.810000,In7P6-
+Pb65 anion,2.810000,Pb65-
+Sn21 anion,2.810000,Sn21-
+Ga5P5 radical anion,2.810000,Ga5P5-
+Ga7P7 radical anion,2.810000,Ga7P7-
+Sc3N@C80 radical anion,2.810000,C80NSc3-
+pSCF3-phenoxide anion,2.810000,C7H4F3OS-
+H2O..ClO2 anion,2.810000,ClH2O3-
+(Me2CO)14 radical anion,2.810000,C42H84O14-
+C60(CF3)10 anion,2.810000,C70F30-
+TaGe8 anion,2.810000,Ge8Ta-
+Cu29 anion,2.815000,Cu29-
+HC7 anion,2.819000,C7H-
+Au7Ni anion,2.820000,Au7Ni-
+TiSi18 anion,2.820000,Si18Ti-
+Pb12 anion,2.820000,Pb12-
+Fe6S5 radical anion,2.820000,Fe6S5-
+Pb37 anion,2.820000,Pb37-
+Pb39 anion,2.820000,Pb39-
+Ge5F radical anion,2.820000,FGe5-
+B3 anion,2.820000,B3-
+5-CO2-N-Me-pyridinium-3-ide anion,2.820000,C7H6NO2-
+C60O2 anion,2.820000,C60O2-
+Al6O5 anion,2.820000,Al6O5-
+Cl..Fe-perchlorotetraphenylporphyrin radical,2.820000,C44Cl29FeN4
+Sn20,2.820000,Sn20
+PhN=C(Me)O anion,2.821000,C8H8NO-
+Ag45 anion,2.822000,Ag45-
+Ag51 anion,2.822000,Ag51-
+Ag37,2.822000,Ag37
+Ag38,2.822000,Ag38
+Cu30 anion,2.825000,Cu30-
+Cu43 anion,2.825000,Cu43-
+Cu17,2.825000,Cu17
+SiC3 radical anion,2.827000,C3Si-
+CF3CF2CH2O anion,2.829000,C3H2F5O-
+Fe5S5 radical anion,2.830000,Fe5S5-
+Si6F radical anion,2.830000,FSi6-
+Pb42 anion,2.830000,Pb42-
+Ga6P4 radical anion,2.830000,Ga6P4-
+Co40 radical anion,2.830000,Co40-
+Co42 radical,2.830000,Co42
+(Me2CO)15 radical anion,2.830000,C45H90O15-
+TbSi13 radical anion,2.830000,Si13Tb-
+HfGe18 anion,2.830000,Ge18Hf-
+In13 anion,2.830000,In13-
+W37 radical anion,2.836000,W37-
+(CO2)10 radical anion,2.840000,C10O20-
+Ag19 anion,2.840000,Ag19-
+Ag21 anion,2.840000,Ag21-
+Pb41 anion,2.840000,Pb41-
+Pb44 anion,2.840000,Pb44-
+Ni29 radical anion,2.840000,Ni29-
+(H2O)14..O2CCO2 dianion,2.840000,C2H28O18-2
+Ag2Au radical,2.840000,Ag2Au
+Ag44 anion,2.847000,Ag44-
+Ag28,2.847000,Ag28
+Ag35,2.847000,Ag35
+Ag39,2.847000,Ag39
+H2O..NO2 anion,2.850000,H2NO3-
+pCO2H-phenoxide anion,2.850000,C7H5O3-
+Al25C anion,2.850000,CAl25-
+"p-vinylidene-(4(2,3-dimethyl-5-imidazolone))-phenoxide anion",2.850000,C12H11N2O2-
+In6P5 anion,2.850000,In6P5-
+Sn35 anion,2.850000,Sn35-
+ScC12 radical anion,2.850000,C12Sc-
+LiB8 anion,2.850000,B8Li-
+Cu41,2.850000,Cu41
+NCCH=C(OEt)O anion,2.851000,C5H6NO2-
+Carbon,2.854000,C5
+Ge9 anion,2.860000,Ge9-
+"(H2O)5..1,4-O2C-C6H4-CO2 dianion",2.860000,C8H14O9-2
+In8P7 anion,2.860000,In8P7-
+Sn26 anion,2.860000,Sn26-
+Ge8F radical anion,2.860000,FGe8-
+AgAu3 radical,2.860000,AgAu3
+RhB9 anion,2.860000,B9Rh-
+NbGe12 anion,2.860000,Ge12Nb-
+Al8N radical anion,2.860000,Al8N-
+Au10,2.860000,Au10
+Tetraphosphorus decaoxide,2.862000,O10P4
+HfGe12 anion,2.870000,Ge12Hf-
+Nb4O10 anion,2.870000,Nb4O10-
+In13P13 anion,2.870000,In13P13-
+CrSi10 anion,2.870000,CrSi10-
+mCF3-phenoxide anion,2.870000,C7H4F3O-
+m-benzoquinone radical,2.875000,C6H4O2
+Titanium tetrachloride,2.879000,Cl4Ti
+Si8F radical anion,2.880000,FSi8-
+Sn36 anion,2.880000,Sn36-
+Ga4P3 radical anion,2.880000,Ga4P3-
+Ni30 radical anion,2.880000,Ni30-
+CrSi9 anion,2.880000,CrSi9-
+Au6Ni anion,2.880000,Au6Ni-
+HC(CN)2 anion,2.880000,C3HN2-
+ScGe12 anion,2.880000,Ge12Sc-
+ScGe17 anion,2.880000,Ge17Sc-
+"3-vinylidene-(4(2,3-dimethyl-5-imidazolone))-indolide anion",2.880000,C14H12N3O-
+mSF5-anilide anion,2.881000,C6H5F5NS-
+(CO2)11 radical anion,2.890000,C11O22-
+Cu45 anion,2.890000,Cu45-
+Sn11Cl anion,2.890000,ClSn11-
+Al44 anion,2.890000,Al44-
+NbGe11 anion,2.890000,Ge11Nb-
+YSn16 anion,2.890000,Sn16Y-
+pSO2CF3-anilide anion,2.894000,C7H5F3NO2S-
+"5,5-diMe-1,3-cyclohexandion-2-ide anion",2.895000,C8H11O2-
+pMe-C6H4C(CN)2 anion,2.895000,C10H7N2-
+Carbonyl fluoride,2.897000,CFO
+W40 radical anion,2.898000,W40-
+FeS3 radical,2.898000,FeS3
+Ag25,2.898000,Ag25
+nPrCðC anion,2.899000,C5H7-
+(CO2)12 radical anion,2.900000,C12O24-
+Selenium hexafluoride,2.900000,F6Se
+Al27C anion,2.900000,CAl27-
+Ge4Cl anion,2.900000,ClGe4-
+Ge20 anion,2.900000,Ge20-
+Ge24 anion,2.900000,Ge24-
+Ge30 anion,2.900000,Ge30-
+Si19Ti anion,2.900000,Si19Ti-
+Si11Zr anion,2.900000,Si11Zr-
+Si12Zr anion,2.900000,Si12Zr-
+Si18Zr anion,2.900000,Si18Zr-
+Si19Hf anion,2.900000,HfSi19-
+Si20Hf anion,2.900000,HfSi20-
+Si13Sc anion,2.900000,ScSi13-
+Si20Tb anion,2.900000,Si20Tb-
+Si9Ho anion,2.900000,HoSi9-
+Si15Ho anion,2.900000,HoSi15-
+C2B3 radical anion,2.900000,C2B3-
+Ga10N radical anion,2.900000,Ga10N-
+VGe10 anion,2.900000,Ge10V-
+Ge13 anion,2.900000,Ge13-
+C22 anion,2.900000,C22-
+Cu42 anion,2.900000,Cu42-
+Sn37 anion,2.900000,Sn37-
+Sn5Cl anion,2.900000,ClSn5-
+ZrF6 dianion,2.900000,F6Zr-2
+Al66 anion,2.900000,Al66-
+Al16N radical anion,2.900000,Al16N-
+Co38 radical,2.900000,Co38
+Co44 radical,2.900000,Co44
+As7Ga7,2.900000,As7Ga7
+As6Ga6,2.900000,As6Ga6
+As8Ga8,2.900000,As8Ga8
+3-aza(+)-Me-5-CO2(-)-phenide,2.905000,C7H6NO2
+"Chromium, tris(1,1,1,5,5,5-hexafluoro-2,4-pentanedionato-o,o')-",2.905000,C15H3CrF18O6
+Co45 radical anion,2.910000,Co45-
+YC7 radical,2.910000,C7Y
+Co41 radical,2.910000,Co41
+Ag2S5 anion,2.910000,Ag2S5-
+TaGe9 anion,2.910000,Ge9Ta-
+B6Au2 anion,2.910000,Au2B6-
+HCS2 anion,2.910000,CH2S2-
+Cu44 anion,2.915000,Cu44-
+Al30 anion,2.920000,Al30-
+Fe@Sn12 anion,2.920000,FeSn12-
+ZrGe19 anion,2.920000,Ge19Zr-
+ScSn15 anion,2.920000,ScSn15-
+Fe3S3 radical anion,2.920000,Fe3S3-
+(N2O)5..HO anion,2.920000,HN10O6-
+Sn28 anion,2.920000,Sn28-
+Sn29 anion,2.920000,Sn29-
+Sn33 anion,2.920000,Sn33-
+Sn6Cl anion,2.920000,ClSn6-
+Ga9P9 radical anion,2.920000,Ga9P9-
+Ni31 radical anion,2.920000,Ni31-
+Ag52 anion,2.924000,Ag52-
+Ag53 anion,2.924000,Ag53-
+Cu51 anion,2.925000,Cu51-
+(H2O)10..SO4 dianion,2.930000,H20O14S-2
+(NO)2 radical anion,2.930000,N2O2-
+Sn42 anion,2.930000,Sn42-
+Al42 anion,2.930000,Al42-
+Al54 anion,2.930000,Al54-
+Ni33 radical anion,2.930000,Ni33-
+Fe2S3 radical,2.930000,Fe2S3
+Au5,2.930000,Au5
+Co43 radical,2.930000,Co43
+Co46 radical,2.930000,Co46
+Co47 radical,2.930000,Co47
+(CO2)3..IBr anion,2.930000,C3BrIO6-
+TiGe11 anion,2.930000,Ge11Ti-
+Ag43 anion,2.934000,Ag43-
+pyrazolide(d3) anion,2.935000,C3D3N2-
+pyrazolide anion,2.938000,C3H3N2-
+oCN-phenoxide anion,2.940000,C7H4NO-
+(CO2)3 radical anion,2.940000,C3O6-
+Sn23 anion,2.940000,Sn23-
+YC12 radical anion,2.940000,C12Y-
+Ni32 radical anion,2.940000,Ni32-
+B(BO)2 anion,2.940000,B3O2-
+VGe11 anion,2.940000,Ge11V-
+Co39 radical,2.940000,Co39
+H2O..HO anion,2.949000,H3O2-
+SiN anion,2.949000,NSi-
+Ag59 anion,2.949000,Ag59-
+Ag30,2.949000,Ag30
+(CO2)13 radical anion,2.950000,C13O26-
+Al22 anion,2.950000,Al22-
+Ti@Sn12 anion,2.950000,Sn12Ti-
+Al29C anion,2.950000,CAl29-
+Si8V anion,2.950000,Si8V-
+ScSn16 anion,2.950000,ScSn16-
+TiSn17 anion,2.950000,Sn17Ti-
+Cu52 anion,2.950000,Cu52-
+Cu59 anion,2.950000,Cu59-
+Cu60 anion,2.950000,Cu60-
+Ga7P5 radical anion,2.950000,Ga7P5-
+Al38 anion,2.950000,Al38-
+CrSi11 anion,2.950000,CrSi11-
+Al18N radical anion,2.950000,Al18N-
+4-CO2-pyridinium-N-CH2 anion,2.955000,C7H6NO2-
+W45 radical anion,2.959000,W45-
+Au14,2.959000,Au14
+(CO2)4 radical anion,2.960000,C4O8-
+(H2O)4..O2C(CH2)6CO2 dianion,2.960000,C8H20O8-2
+Sn34 anion,2.960000,Sn34-
+Sn38 anion,2.960000,Sn38-
+"(H2O)10..1,3-O2C-C6H4-CO2 dianion",2.960000,C8H24O14-2
+Al32,2.960000,Al32
+CrC7,2.960000,C7Cr
+C60Au radical anion,2.960000,C60Au-
+ScGe18 anion,2.960000,Ge18Sc-
+ScGe20 anion,2.960000,Ge20Sc-
+Cu37 anion,2.965000,Cu37-
+Ethynyl radical,2.969000,C2H
+DCðC anion,2.970000,C2D-
+YSi16 anion,2.970000,Si16Y-
+LuGe12 anion,2.970000,Ge12Lu-
+TiGe10 anion,2.970000,Ge10Ti-
+TiGe12 anion,2.970000,Ge12Ti-
+HfGe15 anion,2.970000,Ge15Hf-
+HfGe20 anion,2.970000,Ge20Hf-
+Sn31 anion,2.970000,Sn31-
+Sn39 anion,2.970000,Sn39-
+Sn44 anion,2.970000,Sn44-
+Ga6P5 radical anion,2.970000,Ga6P5-
+Ga9P8 radical anion,2.970000,Ga9P8-
+Ni34 radical anion,2.970000,Ni34-
+Ag41 anion,2.975000,Ag41-
+Ag42 anion,2.975000,Ag42-
+Cu46 anion,2.975000,Cu46-
+Fullerene-C76,2.975000,C76
+tBuCðC anion,2.977000,C6H9-
+Pb62 anion,2.980000,Pb62-
+Sn25 anion,2.980000,Sn25-
+Sn32 anion,2.980000,Sn32-
+Sn43 anion,2.980000,Sn43-
+Al52 anion,2.980000,Al52-
+Ta4O10 anion,2.980000,O10Ta4-
+TbSi12 radical anion,2.980000,Si12Tb-
+YGe14 anion,2.980000,Ge14Y-
+TaGe13 anion,2.980000,Ge13Ta-
+mSO2Me-phenoxide anion,2.989000,C7H7O3S-
+Si11F radical anion,2.990000,FSi11-
+In10P9 anion,2.990000,In10P9-
+In13P12 anion,2.990000,In13P12-
+Co50 radical anion,2.990000,Co50-
+Co51 radical anion,2.990000,Co51-
+(D2O)4..Au2 anion,2.990000,Au2D8O4-
+MoSi13 anion,2.990000,MoSi13-
+Si13W anion,2.990000,Si13W-
+ZrGe10 anion,2.990000,Ge10Zr-
+ZrGe11 anion,2.990000,Ge11Zr-
+ZrGe18 anion,2.990000,Ge18Zr-
+Co48 radical,2.990000,Co48
+Pb52,2.990000,Pb52
+Ga2P3,2.991000,Ga2P3
+"Titanium, tris(1,1,1,5,5,5-hexafluoro-2,4-pentanedionato-o,o')-",2.992000,C15H3F18O6Ti
+C86 anion,3.000000,C86-
+C90 anion,3.000000,C90-
+C92 anion,3.000000,C92-
+"Allyl, pentafluoro-, radical",3.000000,C3F5
+Al21 anion,3.000000,Al21-
+(TiO2)4 anion,3.000000,O8Ti4-
+Ge6Cl anion,3.000000,ClGe6-
+Ge12Cl anion,3.000000,ClGe12-
+Ge13Cl anion,3.000000,ClGe13-
+Ge19 anion,3.000000,Ge19-
+Ge21 anion,3.000000,Ge21-
+Ge23 anion,3.000000,Ge23-
+Ge29 anion,3.000000,Ge29-
+Ge31 anion,3.000000,Ge31-
+Ge32 anion,3.000000,Ge32-
+Si13Zr anion,3.000000,Si13Zr-
+Si14Zr anion,3.000000,Si14Zr-
+Si12Sc anion,3.000000,ScSi12-
+Si13Y anion,3.000000,Si13Y-
+Si20Y anion,3.000000,Si20Y-
+Si13Ho anion,3.000000,HoSi13-
+Si18Ho anion,3.000000,HoSi18-
+Si13Lu anion,3.000000,LuSi13-
+D2S..DS anion,3.000000,D3S2-
+Ga11N radical anion,3.000000,Ga11N-
+CI2 radical,3.000000,CI2
+Al4H12 radical,3.000000,Al4H12
+Cu32 anion,3.000000,Cu32-
+Cu33 anion,3.000000,Cu33-
+Cu35 anion,3.000000,Cu35-
+Cu61 anion,3.000000,Cu61-
+Fe6S6 radical anion,3.000000,Fe6S6-
+In9P8 anion,3.000000,In9P8-
+Ga9 anion,3.000000,Ga9-
+Ga11 anion,3.000000,Ga11-
+Sn30 anion,3.000000,Sn30-
+YC16 radical anion,3.000000,C16Y-
+Ga9P7 radical anion,3.000000,Ga9P7-
+Co49 radical anion,3.000000,Co49-
+Co52 radical anion,3.000000,Co52-
+Al12N radical anion,3.000000,Al12N-
+Ca@C60 radical,3.000000,C60Ca
+LaC14 radical,3.000000,C14La
+LaC16 radical,3.000000,C16La
+fluorine,3.005000,F2
+Fe3(CO)14 anion,3.010000,C14Fe3O14-
+Al3S3 anion,3.010000,Al3S3-
+Pb54 anion,3.010000,Pb54-
+Sn45 anion,3.010000,Sn45-
+Sn12Cl anion,3.010000,ClSn12-
+Sn17Cl anion,3.010000,ClSn17-
+Al68 anion,3.010000,Al68-
+B6 anion,3.010000,B6-
+Si10W anion,3.010000,Si10W-
+YGe12 anion,3.010000,Ge12Y-
+LuGe20 anion,3.010000,Ge20Lu-
+VGe18 anion,3.010000,Ge18V-
+Cd8Se(SePh)16 dianion,3.010000,C96H80Cd8Se17-2
+pCF3-phenoxide anion,3.012000,C7H4F3O-
+B20 anion,3.020000,B20-
+B8 anion,3.020000,B8-
+ZrGe15 anion,3.020000,Ge15Zr-
+ZrGe20 anion,3.020000,Ge20Zr-
+ZrGe21 anion,3.020000,Ge21Zr-
+Al46 anion,3.020000,Al46-
+Fe4O5 anion,3.020000,Fe4O5-
+benzene..F anion,3.022000,C6H6F-
+mCN-phenoxide anion,3.022000,C7H4NO-
+Cu47 anion,3.025000,Cu47-
+Cu48 anion,3.025000,Cu48-
+Ag54 anion,3.025000,Ag54-
+Ag56 anion,3.025000,Ag56-
+(H2O)3..O2 radical anion,3.030000,H6O5-
+In14P13 anion,3.030000,In14P13-
+Co56 radical anion,3.030000,Co56-
+Ga3P2 radical,3.030000,Ga3P2
+V@Sn12 anion,3.030000,Sn12V-
+TbSi14 radical anion,3.030000,Si14Tb-
+C60Au5 radical anion,3.030000,C60Au5-
+AuH2 anion,3.030000,AuH2-
+CB7 anion,3.030000,CB7-
+W50 radical anion,3.031000,W50-
+tBuCH(Me)OH..F anion,3.040000,C6H14FO-
+PhCH2OH..F anion,3.040000,C7H8FO-
+Sn24 anion,3.040000,Sn24-
+Sn40 anion,3.040000,Sn40-
+Sn41 anion,3.040000,Sn41-
+Sn15Cl anion,3.040000,ClSn15-
+Ga8P8 radical anion,3.040000,Ga8P8-
+Ni35 radical anion,3.040000,Ni35-
+Ni36 radical anion,3.040000,Ni36-
+Au7Pd anion,3.040000,Au7Pd-
+ScGe11 anion,3.040000,Ge11Sc-
+ScGe14 anion,3.040000,Ge14Sc-
+ScGe19 anion,3.040000,Ge19Sc-
+NbC6,3.040000,C6Nb
+HCðCCH2CH2CH2CðC anion,3.046000,C7H7-
+tBuCH(Et)OH..F anion,3.048000,C7H16FO-
+Al27 anion,3.050000,Al27-
+TbSi15 radical anion,3.050000,Si15Tb-
+C60Au3 radical anion,3.050000,C60Au3-
+Si11V anion,3.050000,Si11V-
+YGe13 anion,3.050000,Ge13Y-
+YGe21 anion,3.050000,Ge21Y-
+VGe13 anion,3.050000,Ge13V-
+VGe19 anion,3.050000,Ge19V-
+Al13,3.050000,Al13
+NbSi16 anion,3.050000,NbSi16-
+Cu38 anion,3.050000,Cu38-
+Cu50 anion,3.050000,Cu50-
+Cu54 anion,3.050000,Cu54-
+Pb68 anion,3.050000,Pb68-
+Co53 radical anion,3.050000,Co53-
+C11,3.050000,C11
+Ni37 radical,3.050000,Ni37
+P8,3.050000,P8
+PhC(CN)2 anion,3.050000,C9H5N2-
+Ag46 anion,3.051000,Ag46-
+Ag47 anion,3.051000,Ag47-
+Au12,3.057000,Au12
+mSO2CF3-phenoxide anion,3.057000,C7H4F3O3S-
+nC3F7CH2O anion,3.059000,C4H2F7O-
+Iodine atom,3.059000,I
+In11P10 anion,3.060000,In11P10-
+Sn16Cl anion,3.060000,ClSn16-
+ScC16 radical anion,3.060000,C16Sc-
+Co55 radical anion,3.060000,Co55-
+Co57 radical anion,3.060000,Co57-
+Al47 anion,3.060000,Al47-
+Indian red oxide,3.060000,Fe2O3
+Co58 radical,3.060000,Co58
+H2S..HS anion,3.060000,H3S2-
+B10 anion,3.060000,B10-
+Au4Cu anion,3.070000,Au4Cu-
+Ag3S4 anion,3.070000,Ag3S4-
+Si5F anion,3.070000,FSi5-
+(H2O)5..O2C(CH2)6CO2 dianion,3.070000,C8H22O9-2
+Sn20Cl anion,3.070000,ClSn20-
+Ga6P3 radical anion,3.070000,Ga6P3-
+Co54 radical anion,3.070000,Co54-
+Sulfur trifluoride,3.070000,F3S
+Cu53 anion,3.075000,Cu53-
+Ag48 anion,3.076000,Ag48-
+SnBr3 anion,3.080000,Br3Sn-
+Fe4(CO)19 anion,3.080000,C19Fe4O19-
+In12P11 anion,3.080000,In12P11-
+Ni38 radical anion,3.080000,Ni38-
+Ni39 radical anion,3.080000,Ni39-
+Co59 radical,3.080000,Co59
+VSi16 radical anion,3.080000,Si16V-
+LuGe13 anion,3.080000,Ge13Lu-
+LuGe17 anion,3.080000,Ge17Lu-
+W60 radical anion,3.082000,W60-
+Ar..I anion,3.086000,ArI-
+PdO2 anion,3.086000,O2Pd-
+Fe3S6 radical anion,3.090000,Fe3S6-
+Pb80 anion,3.090000,Pb80-
+Sn18Cl anion,3.090000,ClSn18-
+Co61 radical anion,3.090000,Co61-
+Co62 radical anion,3.090000,Co62-
+Co63 radical anion,3.090000,Co63-
+Cu(O2)2 radical anion,3.090000,CuO4-
+YGe20 anion,3.090000,Ge20Y-
+VGe20 anion,3.090000,Ge20V-
+MoNbO5 anion,3.090000,MoNbO5-
+"3,5-diCl-phenoxide anion",3.093000,C6H3Cl2O-
+HC9 anion,3.097000,C9H-
+B2N anion,3.098000,B2N-
+C6Cl5 anion,3.098000,C6Cl5-
+GeF3 anion,3.100000,F3Ge-
+C48 anion,3.100000,C48-
+(NO2)3C anion,3.100000,CN3O6-
+c50-Fullerene,3.100000,C50
+trifluorooxovanadium,3.100000,F3OV
+Al23 anion,3.100000,Al23-
+Hf@Sn12 anion,3.100000,HfSn12-
+Si17 anion,3.100000,Si17-
+Si18 radical anion,3.100000,Si18-
+Ge5Cl anion,3.100000,ClGe5-
+Ge18Cl anion,3.100000,ClGe18-
+Ge19Cl anion,3.100000,ClGe19-
+Ge20Cl anion,3.100000,ClGe20-
+Ge28 anion,3.100000,Ge28-
+Si9V anion,3.100000,Si9V-
+Si10Nb anion,3.100000,NbSi10-
+Si17Nb anion,3.100000,NbSi17-
+Si10Hf anion,3.100000,HfSi10-
+Si11Hf anion,3.100000,HfSi11-
+Si14Y anion,3.100000,Si14Y-
+Si15Y anion,3.100000,Si15Y-
+Si18Y anion,3.100000,Si18Y-
+Si19Tb anion,3.100000,Si19Tb-
+Si14Ho anion,3.100000,HoSi14-
+Si17Ho anion,3.100000,HoSi17-
+Si20Ho anion,3.100000,HoSi20-
+Si14Lu anion,3.100000,LuSi14-
+Si17Lu anion,3.100000,LuSi17-
+Si18Lu anion,3.100000,LuSi18-
+Si19Lu anion,3.100000,LuSi19-
+Si20Lu anion,3.100000,LuSi20-
+PtPb12 anion,3.100000,Pb12Pt-
+HfGe14 anion,3.100000,Ge14Hf-
+Si15,3.100000,Si15
+Si13,3.100000,Si13
+C26 anion,3.100000,C26-
+As10Ga10 anion,3.100000,As10Ga10-
+Cu49 anion,3.100000,Cu49-
+Co60 radical anion,3.100000,Co60-
+Ge11F radical anion,3.100000,FGe11-
+Si3O5 anion,3.100000,O5Si3-
+Ni40 radical anion,3.100000,Ni40-
+(H2O)16..O2CCO2 dianion,3.100000,C2H32O20-2
+"(H2O)11..1,3-O2C-C6H4-CO2 dianion",3.100000,C8H26O15-2
+Al22N radical anion,3.100000,Al22N-
+As4Ga3,3.100000,As4Ga3
+Sc2@C84 radical,3.100000,C84Sc2
+NaO4,3.100000,NaO4
+Ag55 anion,3.102000,Ag55-
+Ag31,3.102000,Ag31
+B14 anion,3.102000,B14-
+Kr..I anion,3.102000,IKr-
+SiC5 radical anion,3.110000,C5Si-
+Pb79 anion,3.110000,Pb79-
+Ga5P4 radical anion,3.110000,Ga5P4-
+Ga8P6 radical anion,3.110000,Ga8P6-
+Ni41 radical anion,3.110000,Ni41-
+LaC10 radical,3.110000,C10La
+LuGe14 anion,3.110000,Ge14Lu-
+TiGe14 anion,3.110000,Ge14Ti-
+C4N anion,3.111000,C4N-
+pentafluorophenoxide anion,3.112000,C6F5O-
+ScGe13 anion,3.120000,Ge13Sc-
+Cd8Se(SePh)12Cl4 dianion,3.120000,C72H60Cd8Cl4Se13-2
+(H2O)11..SO4 dianion,3.120000,H22O15S-2
+Ag17 anion,3.120000,Ag17-
+Sn19Cl anion,3.120000,ClSn19-
+Cu6(CN)6 radical anion,3.120000,C6Cu6N6-
+Co64 radical anion,3.120000,Co64-
+Al34 anion,3.120000,Al34-
+Ga3P4 radical,3.120000,Ga3P4
+XeI anion,3.129000,IXe-
+FeS4 radical anion,3.129000,FeS4-
+Pb85 anion,3.130000,Pb85-
+Pb89 anion,3.130000,Pb89-
+Ge7F radical anion,3.130000,FGe7-
+Ni43 radical,3.130000,Ni43
+Au6Cu anion,3.130000,Au6Cu-
+Co@Sn12 anion,3.130000,CoSn12-
+VGe12 anion,3.130000,Ge12V-
+Ge9F radical anion,3.140000,FGe9-
+Ni42 radical anion,3.140000,Ni42-
+H2O..N3 anion,3.140000,H2N3O-
+C82 radical,3.140000,C82
+Cl..Fe-tetra(C6F5)porphyrin radical,3.140000,C44H8ClF20FeN4
+mNO2-phenoxide anion,3.145000,C6H4NO3-
+Al25 anion,3.150000,Al25-
+Ge9Cl anion,3.150000,ClGe9-
+AlB9 anion,3.150000,AlB9-
+LuGe11 anion,3.150000,Ge11Lu-
+Cu55 anion,3.150000,Cu55-
+Co65 radical anion,3.150000,Co65-
+Al45 anion,3.150000,Al45-
+Al58 anion,3.150000,Al58-
+Al62 anion,3.150000,Al62-
+Al20N radical anion,3.150000,Al20N-
+Ni44 radical,3.150000,Ni44
+Cu39,3.150000,Cu39
+LaC9 radical,3.150000,C9La
+Ag58 anion,3.153000,Ag58-
+CrC6,3.156000,C6Cr
+Al74 anion,3.160000,Al74-
+Ni46 radical anion,3.160000,Ni46-
+Boron nitride,3.160000,BN
+Co66 radical,3.160000,Co66
+Heptasulfur,3.160000,S7
+ICO anion,3.160000,CIO-
+Cu@Au17 anion,3.160000,Au17Cu-
+B4O2 anion,3.160000,B4O2-
+YGe22 anion,3.160000,Ge22Y-
+VGe16 anion,3.160000,Ge16V-
+Tetracyanoethylene,3.160000,C6N4
+Fullerene-C78,3.165000,C78
+"Vanadium,tris(1,1,1,5,5,5-hexafluoro-2,4-pentanedionato-o,o')-,(oc-6-11)-",3.166000,C15H3F18O6V
+Me3SiO anion,3.166000,C3H9OSi-
+EtSi(Me)2O anion,3.166000,C4H11OSi-
+Et2Si(Me)O anion,3.166000,C5H13OSi-
+Ag4S3 anion,3.170000,Ag4S3-
+B3Au2 anion,3.170000,Au2B3-
+Ni48 radical anion,3.170000,Ni48-
+molybdenum trioxide,3.170000,MoO3
+C80,3.170000,C80
+N2O..I anion,3.172000,IN2O-
+Cu58 anion,3.175000,Cu58-
+Ag3S5 anion,3.180000,Ag3S5-
+Ag4S5 anion,3.180000,Ag4S5-
+LuGe15 anion,3.180000,Ge15Lu-
+TaGe12 anion,3.180000,Ge12Ta-
+TaGe17 anion,3.180000,Ge17Ta-
+Pb101 anion,3.180000,Pb101-
+Ge6F radical anion,3.180000,FGe6-
+Al41 anion,3.180000,Al41-
+Al60 anion,3.180000,Al60-
+CrSi12 anion,3.180000,CrSi12-
+Co67 radical,3.180000,Co67
+Co68 radical,3.180000,Co68
+C6F5 anion,3.181000,C6F5-
+OCuO2 anion,3.190000,CuO3-
+Ni45 radical anion,3.190000,Ni45-
+Ni51 radical,3.190000,Ni51
+Ni47 radical,3.190000,Ni47
+YGe17 anion,3.190000,Ge17Y-
+YGe19 anion,3.190000,Ge19Y-
+(Xe)2..I anion,3.195000,IXe2-
+CF3CF2CF(CF3) anion,3.200000,C4F9-
+CF3S anion,3.200000,CF3S-
+vanadium dichloride oxide,3.200000,Cl2OV
+(H2O)2..Au anion,3.200000,AuH4O2-
+MoSi10 anion,3.200000,MoSi10-
+Al13C anion,3.200000,CAl13-
+Ge14Cl anion,3.200000,ClGe14-
+Si17V anion,3.200000,Si17V-
+Si18Nb anion,3.200000,NbSi18-
+Si17Ta anion,3.200000,Si17Ta-
+Si15Zr anion,3.200000,Si15Zr-
+Si14Sc anion,3.200000,ScSi14-
+Si17Sc anion,3.200000,ScSi17-
+Si12Y anion,3.200000,Si12Y-
+Si17Y anion,3.200000,Si17Y-
+Si19Y anion,3.200000,Si19Y-
+Si17Tb anion,3.200000,Si17Tb-
+Si18Tb anion,3.200000,Si18Tb-
+Si12Lu anion,3.200000,LuSi12-
+Si15Lu anion,3.200000,LuSi15-
+Au4H anion,3.200000,Au4H-
+VGe14 anion,3.200000,Ge14V-
+Si14 anion,3.200000,Si14-
+Si16 anion,3.200000,Si16-
+CB8 anion,3.200000,CB8-
+C15 anion,3.200000,C15-
+As6Ga5 anion,3.200000,As6Ga5-
+As9Ga9 anion,3.200000,As9Ga9-
+As11Ga11 anion,3.200000,As11Ga11-
+Cu56 anion,3.200000,Cu56-
+Cu57 anion,3.200000,Cu57-
+Al43 anion,3.200000,Al43-
+Al50 anion,3.200000,Al50-
+Al56 anion,3.200000,Al56-
+NaO5 anion,3.200000,NaO5-
+Ni50 radical anion,3.200000,Ni50-
+C30 anion,3.200000,C30-
+Sc2@C80 radical,3.200000,C80Sc2
+Ni49 radical,3.200000,Ni49
+Ni52 radical,3.200000,Ni52
+Gd@C76 radical,3.200000,C76Gd
+Ag32,3.203000,Ag32
+W75 radical anion,3.205000,W75-
+PhCðC anion,3.207000,C8H5-
+SnI3 anion,3.210000,I3Sn-
+Pb107 anion,3.210000,Pb107-
+Sc2@C82 radical anion,3.210000,C82Sc2-
+"(H2O)12..1,3-O2C-C6H4-CO2 dianion",3.210000,C8H28O16-2
+Hexathiane,3.210000,S6
+Fe-tetra(C6F5)-octaCl-porphyrin radical,3.210000,C44Cl8F20FeN4
+Ni53 radical,3.210000,Ni53
+OCuO2(O2),3.210000,CuO5
+Cr@Sn12 anion,3.210000,CrSn12-
+Ni@Sn12 anion,3.210000,NiSn12-
+(CO)2..I anion,3.210000,C2IO2-
+TaGe20 anion,3.210000,Ge20Ta-
+B6Au3 anion,3.210000,Au3B6-
+AuC2 anion,3.219000,C2Au-
+InP4 radical anion,3.220000,InP4-
+LuGe18 anion,3.220000,Ge18Lu-
+CO2..I anion,3.220000,CIO2-
+Al31 anion,3.220000,Al31-
+(SO2)2..SO2 radical anion,3.220000,O6S3-
+Sn7Cl anion,3.220000,ClSn7-
+Sn9Cl anion,3.220000,ClSn9-
+Al48 anion,3.220000,Al48-
+Fe3S4 radical,3.220000,Fe3S4
+iron disulphide,3.222000,FeS2
+''bismuth tetroxide'',3.222000,BiO2
+Ag57 anion,3.229000,Ag57-
+YGe15 anion,3.230000,Ge15Y-
+TiSi16F anion,3.230000,FSi16Ti-
+ScC7 radical anion,3.230000,C7Sc-
+FCl..F anion,3.231000,ClF2-
+"3,4,5-triCl-phenoxide anion",3.239000,C6H2Cl3O-
+Gd@C74 radical,3.240000,C74Gd
+Ni54 radical,3.240000,Ni54
+Co69 radical,3.240000,Co69
+Pt@Sn12 anion,3.240000,PtSn12-
+(CO2)5 radical anion,3.250000,C5O10-
+B16 anion,3.250000,B16-
+Ge11Cl anion,3.250000,ClGe11-
+Ge15Cl anion,3.250000,ClGe15-
+Ge16Cl anion,3.250000,ClGe16-
+Ge17Cl anion,3.250000,ClGe17-
+Si10V anion,3.250000,Si10V-
+Si13V anion,3.250000,Si13V-
+(NC)2C radical anion,3.250000,C3N2-
+MoVO5 radical anion,3.250000,MoO5V-
+LuGe19 anion,3.250000,Ge19Lu-
+TaGe15 anion,3.250000,Ge15Ta-
+thyminide,3.250000,C5H5N2O2
+Fe3S5 radical anion,3.250000,Fe3S5-
+Pb134 anion,3.250000,Pb134-
+Ga15 anion,3.250000,Ga15-
+Co70 radical anion,3.250000,Co70-
+"(H2O)7..1,4-O2C-C6H4-CO2 dianion",3.250000,C8H18O11-2
+Ni56 radical,3.250000,Ni56
+MeCO2 anion,3.250000,C2H3O2-
+Co71 radical anion,3.260000,Co71-
+Co72 radical anion,3.260000,Co72-
+Co74 radical anion,3.260000,Co74-
+Al40 anion,3.260000,Al40-
+Al67 anion,3.260000,Al67-
+FeO3 radical,3.260000,FeO3
+FeO4 radical,3.260000,FeO4
+Gd@C78 radical,3.260000,C78Gd
+Co73 radical,3.260000,Co73
+Gd@Sn12 anion,3.260000,GdSn12-
+YGe18 anion,3.260000,Ge18Y-
+C84,3.260000,C84
+FeS5 radical,3.262000,FeS5
+benzene..I anion,3.270000,C6H6I-
+Ga5P6 radical anion,3.270000,Ga5P6-
+Co75 radical anion,3.270000,Co75-
+YC8 radical,3.270000,C8Y
+Ni55 radical,3.270000,Ni55
+NbC4,3.270000,C4Nb
+Pb117,3.270000,Pb117
+Dicarbon,3.273000,C2
+Ag4S4 anion,3.280000,Ag4S4-
+(CO)3..I anion,3.280000,C3IO3-
+ScGe16 anion,3.280000,Ge16Sc-
+Pb150 anion,3.280000,Pb150-
+C74 radical,3.280000,C74
+Ni57 radical,3.280000,Ni57
+Ni58 radical,3.280000,Ni58
+W90 radical anion,3.287000,W90-
+Fe2S6 radical anion,3.290000,Fe2S6-
+Fe4S5 radical anion,3.290000,Fe4S5-
+Fe4S6 radical anion,3.290000,Fe4S6-
+(Xe)3..I anion,3.290000,IXe3-
+Co76 radical anion,3.290000,Co76-
+Co78 radical anion,3.290000,Co78-
+LuGe10 anion,3.290000,Ge10Lu-
+hexacyanobutadiene radical,3.291000,C10N6
+pCl-C6H4C(CN)2 anion,3.297000,C9H4ClN2-
+(N2O)2..I anion,3.299000,IN4O2-
+Fluoromethylidyne,3.300000,CF
+C64,3.300000,C64
+c68-Fullerene,3.300000,C68
+c58-Fullerene,3.300000,C58
+C62,3.300000,C62
+C72,3.300000,C72
+tellurium hexafluoride,3.300000,F6Te
+Ta@Sn12 anion,3.300000,Sn12Ta-
+Ge7Cl anion,3.300000,ClGe7-
+Ge10Cl anion,3.300000,ClGe10-
+Si12V anion,3.300000,Si12V-
+Si11Nb anion,3.300000,NbSi11-
+Si13Nb anion,3.300000,NbSi13-
+Si10Ta anion,3.300000,Si10Ta-
+Si11Sc anion,3.300000,ScSi11-
+Si15Sc anion,3.300000,ScSi15-
+Si18Sc anion,3.300000,ScSi18-
+Si19Sc anion,3.300000,ScSi19-
+Si20Sc anion,3.300000,ScSi20-
+Si11Y anion,3.300000,Si11Y-
+Si12Ho anion,3.300000,HoSi12-
+Si19Ho anion,3.300000,HoSi19-
+Si11Lu anion,3.300000,LuSi11-
+Ga12N radical anion,3.300000,Ga12N-
+AlB7 anion,3.300000,AlB7-
+As8Ga7 anion,3.300000,As8Ga7-
+Co77 radical anion,3.300000,Co77-
+Al49 anion,3.300000,Al49-
+Al57 anion,3.300000,Al57-
+Al64 anion,3.300000,Al64-
+As5Ga4,3.300000,As5Ga4
+Gd@C82 radical,3.300000,C82Gd
+Ni60 radical,3.300000,Ni60
+Gd@C80 radical,3.300000,C80Gd
+As7Ga6,3.300000,As7Ga6
+LiO4,3.300000,LiO4
+cytosinide,3.307000,C4H4N3O
+(H2O)12..SO4 dianion,3.310000,H24O16S-2
+Co79 radical anion,3.310000,Co79-
+Co80 radical anion,3.310000,Co80-
+Al61 anion,3.310000,Al61-
+Al65 anion,3.310000,Al65-
+VGe15 anion,3.310000,Ge15V-
+TaGe18 anion,3.310000,Ge18Ta-
+Au18,3.317000,Au18
+(Xe)4..I anion,3.320000,IXe4-
+Co81 radical anion,3.320000,Co81-
+Au@Sn12 anion,3.320000,AuSn12-
+LuGe16 anion,3.320000,Ge16Lu-
+Ni59 radical,3.320000,Ni59
+"2,2-diMe-1,3-dioxan-4,6-dione-5-ide anion",3.325000,C6H7O4-
+tungsten trioxide,3.330000,O3W
+Cu@Sn12 anion,3.330000,CuSn12-
+Y@Sn12 anion,3.330000,Sn12Y-
+(CO)4..I anion,3.330000,C4IO4-
+THF..I anion,3.330000,C4H8IO-
+"hexatetracontafluorohexatetracontahydro[5,6]fullerene (C60F46)",3.330000,C60F46
+Si9F radical anion,3.330000,FSi9-
+Ga8P7 radical anion,3.330000,Ga8P7-
+Al59 anion,3.330000,Al59-
+"(H2O)13..1,3-O2C-C6H4-CO2 dianion",3.330000,C8H30O17-2
+Ni61 radical,3.330000,Ni61
+MnO3 radical,3.335000,MnO3
+CO3 radical anion,3.340000,CO3-
+Al63 anion,3.340000,Al63-
+Ni63 radical,3.340000,Ni63
+NH3..I anion,3.340000,H3IN-
+Au3Zn anion,3.340000,Au3Zn-
+LuSi16 anion,3.340000,LuSi16-
+B15 anion,3.340000,B15-
+Nb2O5 anion,3.350000,Nb2O5-
+(H2O)6..O2C(CH2)6CO2 dianion,3.350000,C8H24O10-2
+Fe2S5 radical anion,3.350000,Fe2S5-
+(H2O)18..O2CCO2 dianion,3.350000,C2H36O22-2
+Cl..Fe-tetra(C6F5)-octaCl-porphyrin radical,3.350000,C44Cl9F20FeN4
+Ni62 radical,3.350000,Ni62
+Ni68 radical,3.350000,Ni68
+NNO2 anion,3.351000,N2O2-
+difluorodioxouranium,3.356000,F2O2U
+C7,3.358000,C7
+Pb166 anion,3.360000,Pb166-
+YC9 radical anion,3.360000,C9Y-
+Co82 radical anion,3.360000,Co82-
+Al100 anion,3.360000,Al100-
+Ru3Co(CO)6 anion,3.360000,C6CoO6Ru3-
+Al7O5 anion,3.360000,Al7O5-
+Ni64 radical,3.360000,Ni64
+Ni65 radical,3.360000,Ni65
+Ni69 radical,3.360000,Ni69
+Ni70 radical,3.360000,Ni70
+Ni72 radical,3.360000,Ni72
+Tungsten hexafluoride,3.360000,F6W
+ZrGe14 anion,3.360000,Ge14Zr-
+pSO2CF3-phenoxide anion,3.361000,C7H4F3O3S-
+2-Me-4-NO2-phenoxide anion,3.363000,C7H6NO3-
+Bromine,3.364000,Br
+(CF3)2CHO anion,3.367000,C3HF6O-
+Co88 radical anion,3.370000,Co88-
+Al35 anion,3.370000,Al35-
+TaSi16 anion,3.370000,Si16Ta-
+3-Me-4-NO2-phenoxide anion,3.371000,C7H6NO3-
+C6N anion,3.371000,C6N-
+(CO2)2..I anion,3.380000,C2IO4-
+Nb@Sn12 anion,3.380000,NbSn12-
+Fe(SMe)4 anion,3.380000,C4H12FeS4-
+Pb204 anion,3.380000,Pb204-
+Co83 radical anion,3.380000,Co83-
+Co84 radical anion,3.380000,Co84-
+Co85 radical anion,3.380000,Co85-
+Co86 radical anion,3.380000,Co86-
+Al72 anion,3.380000,Al72-
+6-CO2-N-Me-pyridinium-2-ide anion,3.380000,C7H6NO2-
+Ni66 radical,3.380000,Ni66
+Ni71 radical,3.380000,Ni71
+Co87 radical,3.380000,Co87
+mCl-C6H4C(CN)2 anion,3.388000,C9H4ClN2-
+Ga7P6 radical anion,3.390000,Ga7P6-
+F2PO,3.400000,F2OP
+SnCl3 anion,3.400000,Cl3Sn-
+(CO2)6 radical anion,3.400000,C6O12-
+C56,3.400000,C56
+c66-Fullerene,3.400000,C66
+C52,3.400000,C52
+C54,3.400000,C54
+C59,3.400000,C59
+Si15V anion,3.400000,Si15V-
+Si12Nb anion,3.400000,NbSi12-
+Si15Nb anion,3.400000,NbSi15-
+Si13Ta anion,3.400000,Si13Ta-
+Si10Sc anion,3.400000,ScSi10-
+C19 anion,3.400000,C19-
+As12Ga12 anion,3.400000,As12Ga12-
+As13Ga13 anion,3.400000,As13Ga13-
+As14Ga14 anion,3.400000,As14Ga14-
+Co89 radical anion,3.400000,Co89-
+Co94 radical anion,3.400000,Co94-
+Al33 anion,3.400000,Al33-
+Al39 anion,3.400000,Al39-
+Al53 anion,3.400000,Al53-
+Al69 anion,3.400000,Al69-
+Al75 anion,3.400000,Al75-
+Al78 anion,3.400000,Al78-
+Al80 anion,3.400000,Al80-
+Al84 anion,3.400000,Al84-
+Al101 anion,3.400000,Al101-
+Mo6O19 dianion,3.400000,Mo6O19-2
+C32 anion,3.400000,C32-
+nHpCO2 anion,3.400000,C8H15O2-
+FCðC anion,3.400000,C2F-
+As10Ga9,3.400000,As10Ga9
+Ni67 radical,3.400000,Ni67
+Ni73 radical,3.400000,Ni73
+Ni78 radical,3.400000,Ni78
+Ar..Br anion,3.401000,ArBr-
+Fluorine atom,3.401000,F
+"europium (III) chloride, anhydrous",3.410000,Cl3Eu
+Fe2S4 radical anion,3.410000,Fe2S4-
+(Xe)5..I anion,3.410000,IXe5-
+Al51 anion,3.410000,Al51-
+Al55 anion,3.410000,Al55-
+"(H2O)8..1,4-O2C-C6H4-CO2 dianion",3.410000,C8H20O12-2
+"(H2O)14..1,3-O2C-C6H4-CO2 dianion",3.410000,C8H32O18-2
+Co93 radical,3.410000,Co93
+Al79,3.410000,Al79
+MeCl..I anion,3.410000,CH3ClI-
+ScSi16 radical anion,3.410000,ScSi16-
+Au7,3.415000,Au7
+(N2O)3..I anion,3.415000,IN6O3-
+"3,5-diCF3-phenoxide anion",3.419000,C8H3F6O-
+MeBr..I anion,3.420000,CH3BrI-
+Fe5S6 radical anion,3.420000,Fe5S6-
+Co90 radical anion,3.420000,Co90-
+Co91 radical anion,3.420000,Co91-
+Co92 radical anion,3.420000,Co92-
+Co98 radical anion,3.420000,Co98-
+Co99 radical anion,3.420000,Co99-
+Co100 radical anion,3.420000,Co100-
+Al70 anion,3.420000,Al70-
+Cu(SMe)2 anion,3.420000,C2H6CuS2-
+Phosphorus dioxide,3.420000,O2P
+Ni79 radical,3.420000,Ni79
+Ni74 radical,3.420000,Ni74
+Ni82 radical,3.420000,Ni82
+Al85,3.420000,Al85
+(Xe)6..I anion,3.423000,IXe6-
+B11 anion,3.426000,B11-
+S11,3.430000,S11
+MeI..I anion,3.430000,CH3I2-
+Au5S anion,3.430000,Au5S-
+Si7F radical anion,3.430000,FSi7-
+Co95 radical anion,3.430000,Co95-
+Co96 radical anion,3.430000,Co96-
+Co97 radical anion,3.430000,Co97-
+Co101 radical anion,3.430000,Co101-
+Co102 radical anion,3.430000,Co102-
+EtCO2 anion,3.434000,C3H5O2-
+Au2H anion,3.437000,Au2H-
+Co103 radical anion,3.440000,Co103-
+Al5O4 anion,3.440000,Al5O4-
+Ni75 radical,3.440000,Ni75
+Ni77 radical,3.440000,Ni77
+Al87,3.440000,Al87
+"1,2,3-triazolide anion",3.447000,C2H2N3-
+Au24 anion,3.447000,Au24-
+Au26 anion,3.447000,Au26-
+Au34 anion,3.447000,Au34-
+H2O..I anion,3.450000,H2IO-
+B4(BO) anion,3.450000,B5O-
+Au2S anion,3.450000,Au2S-
+(H2O)4..O2 radical anion,3.450000,H8O6-
+ScC9 radical anion,3.450000,C9Sc-
+Al37 anion,3.450000,Al37-
+Ni85 radical anion,3.450000,Ni85-
+Ni90 radical anion,3.450000,Ni90-
+Al92,3.450000,Al92
+Ni76 radical,3.450000,Ni76
+D2O..I anion,3.453000,D2IO-
+Co104 radical anion,3.460000,Co104-
+Co105 radical anion,3.460000,Co105-
+O2..Cu anion,3.460000,CuO2-
+B9 anion,3.460000,B9-
+MoF4..F anion,3.460000,F5Mo-
+(Xe)7..I anion,3.468000,IXe7-
+FeF3..F anion,3.470000,F4Fe-
+YC14 radical anion,3.470000,C14Y-
+Co106 radical anion,3.470000,Co106-
+Co107 radical anion,3.470000,Co107-
+nPrCO2 anion,3.473000,C4H7O2-
+cyclobutanetetraone radical anion,3.475000,C4O4-
+B12Au anion,3.480000,AuB12-
+Co108 radical anion,3.480000,Co108-
+Ni95 radical,3.480000,Ni95
+GaP4 radical,3.480000,GaP4
+nBuCO2 anion,3.486000,C5H9O2-
+P9 anion,3.490000,P9-
+(H2O)13..SO4 dianion,3.490000,H26O17S-2
+dialuminium trisulphide,3.490000,Al2S3
+LaC18 radical,3.490000,C18La
+Fe(S2-o-xyl)2 anion,3.490000,C16H8FeS2-
+nPnCO2 anion,3.491000,C6H11O2-
+MeCH=CHCO2 anion,3.491000,C4H5O2-
+pNO2-phenoxide anion,3.493000,C6H4NO3-
+cPrCO2 anion,3.495000,C4H5O2-
+iPrCO2 anion,3.495000,C4H7O2-
+Me2C=CHCO2 anion,3.499000,C5H7O2-
+Tungsten pentafluoride,3.499000,F5W
+C6F11 anion,3.500000,C6F11-
+S10,3.500000,S10
+AsBr2,3.500000,AsBr2
+aniline..I anion,3.500000,C6H7IN-
+Si14Nb anion,3.500000,NbSi14-
+Si16Ho anion,3.500000,HoSi16-
+Au6H anion,3.500000,Au6H-
+CO..Br anion,3.500000,CBrO-
+Ga13 anion,3.500000,Ga13-
+Al73 anion,3.500000,Al73-
+Al99 anion,3.500000,Al99-
+(H2O)7..O2C(CH2)6CO2 dianion,3.500000,C8H26O11-2
+C36 anion,3.500000,C36-
+Cu2O4,3.500000,Cu2O4
+cBuCO2 anion,3.504000,C5H7O2-
+cPrCH2CO2 anion,3.504000,C5H7O2-
+2-Me-cPrCO2 anion,3.504000,C5H7O2-
+Cl(CH2)3CO2 anion,3.508000,C4H6ClO2-
+ScC14 radical anion,3.510000,C14Sc-
+ScC18 radical anion,3.510000,C18Sc-
+Al105 anion,3.510000,Al105-
+TaGe19 anion,3.510000,Ge19Ta-
+Cd17Se4(SePh)28 dianion,3.510000,C168H140Cd17Se32-2
+H2O..tetracyanoethylene radical anion,3.510000,C6H2N4O-
+cPnCO2 anion,3.512000,C6H9O2-
+VF3..F anion,3.513000,F4V-
+(Xe)8..I anion,3.513000,IXe8-
+DCO2 anion,3.516000,CDO2-
+iBuCO2 anion,3.517000,C5H9O2-
+cPnCH2CO2 anion,3.517000,C7H11O2-
+FeS6 radical anion,3.520000,FeS6-
+"(H2O)15..1,3-O2C-C6H4-CO2 dianion",3.520000,C8H34O19-2
+C6H5Au2 anion,3.520000,C6H5Au2-
+Au2B7 anion,3.520000,Au2B7-
+Ni100 radical,3.520000,Ni100
+cC6H11-CH2CO2 anion,3.526000,C8H13O2-
+EtCH=CHCO2 anion,3.530000,C5H7O2-
+Cu2BO2 anion,3.530000,BCu2O2-
+B18 anion,3.530000,B18-
+rhenium trioxide,3.530000,O3Re
+OCuO(O2) anion,3.530000,CuO4-
+OCuO(O2)2 anion,3.530000,CuO6-
+cHxCO2 anion,3.534000,C7H11O2-
+(N2O)4..I anion,3.535000,IN8O4-
+NCS anion,3.537000,CNS-
+MeCN..I anion,3.539000,C2H3IN-
+(SO2)3..SO2 radical anion,3.540000,O8S4-
+(H2O)20..O2CCO2 dianion,3.540000,C2H40O24-2
+Cu2O3,3.540000,Cu2O3
+nitrobenzene..I anion,3.540000,C6H5INO2-
+B4(BO)2 anion,3.540000,B6O2-
+NbC5,3.540000,C5Nb
+pCl-C6H4CðC anion,3.541000,C8H4Cl-
+tBuCH2CO2 anion,3.547000,C6H11O2-
+"Propyl,hexaflouro-2-triflouromethyl",3.550000,C4F9
+L-Tyrosine anion,3.550000,C9H10NO3-
+oMe-benzoate anion,3.550000,C8H7O2-
+Ge10F radical anion,3.550000,FGe10-
+Al71 anion,3.550000,Al71-
+Al111 anion,3.550000,Al111-
+Al112 anion,3.550000,Al112-
+(NH3)2..I anion,3.550000,H6IN2-
+TbSi11 radical anion,3.550000,Si11Tb-
+C34 anion,3.550000,C34-
+LaC11 radical,3.550000,C11La
+DCðCCðC anion,3.552000,C4D-
+(Xe)9..I anion,3.554000,IXe9-
+tBuCO2 anion,3.556000,C5H9O2-
+mCl-C6H4CðC anion,3.558000,C8H4Cl-
+3-Me-bicyclo[1.1.1]pentane-1-CO2 anion,3.558000,C7H9O2-
+YC10 radical anion,3.560000,C10Y-
+Al108 anion,3.560000,Al108-
+Al110 anion,3.560000,Al110-
+Al140,3.560000,Al140
+MeCO2I radical,3.560000,C2H3IO2
+HCðCCðC anion,3.561000,C4H-
+CH2=CHCH2CH2CO2 anion,3.569000,C5H7O2-
+"(H2O)9..1,4-O2C-C6H4-CO2 dianion",3.570000,C8H22O13-2
+bicyclo[2.2.2]octane-CO2 anion,3.573000,C9H13O2-
+CH2=CHCO2 anion,3.573000,C3H3O2-
+1-Me-cPrCO2 anion,3.578000,C5H7O2-
+CH2=C(Me)CO2 anion,3.578000,C4H5O2-
+TaGe14 anion,3.580000,Ge14Ta-
+(THF)2..I anion,3.580000,C8H16IO2-
+(CO2)3..I anion,3.580000,C3IO6-
+ScC17 radical anion,3.580000,C17Sc-
+Al141 anion,3.580000,Al141-
+(H2O)2..N3 anion,3.580000,H4N3O2-
+Al3O4 radical,3.580000,Al3O4
+CO2..Br anion,3.582000,CBrO2-
+Cyclic octaatomic sulfur,3.590000,S8
+benzoate anion,3.590000,C7H5O2-
+1-adamantyl-CH2CO2 anion,3.595000,C12H17O2-
+(Xe)10..I anion,3.595000,IXe10-
+CeF3..F anion,3.599000,CeF4-
+CrF3..F anion,3.600000,CrF4-
+S9,3.600000,S9
+vanadium trichloride oxide,3.600000,Cl3OV
+Si14V anion,3.600000,Si14V-
+Si12Ta anion,3.600000,Si12Ta-
+Si14Ta anion,3.600000,Si14Ta-
+Si15Ta anion,3.600000,Si15Ta-
+Si10Y anion,3.600000,Si10Y-
+ScGe10 anion,3.600000,Ge10Sc-
+Cd17Se4(SPh)28 dianion,3.600000,C168H140Cd17S28Se4-2
+As15Ga15 anion,3.600000,As15Ga15-
+Al142 anion,3.600000,Al142-
+TbSi10 radical anion,3.600000,Si10Tb-
+W6O19 dianion,3.600000,O19W6-2
+Al116,3.600000,Al116
+C13,3.600000,C13
+Ga16As16,3.600000,As16Ga16
+Ga17As17,3.600000,As17Ga17
+3-OMe-bicyclo[2.2.2]octane-CO2 anion,3.604000,C10H15O3-
+pNH2-benzoate anion,3.608000,C7H6NO2-
+Isocyanato radical,3.609000,CNO
+Au15,3.610000,Au15
+Au19,3.610000,Au19
+AlB10 anion,3.610000,AlB10-
+mMe-benzoate anion,3.610000,C8H7O2-
+Al143 anion,3.610000,Al143-
+Al144 anion,3.610000,Al144-
+Al145 anion,3.610000,Al145-
+Al147,3.610000,Al147
+Al146,3.610000,Al146
+Chlorine atom,3.613000,Cl
+4-Me-bicyclo[2.2.2]octane-CO2 anion,3.617000,C10H15O2-
+iron trifluoride,3.617000,F3Fe
+pMe-benzoate anion,3.620000,C8H7O2-
+ScC13 radical anion,3.620000,C13Sc-
+TbSi16 radical anion,3.620000,Si16Tb-
+1-adamantyl-CO2 anion,3.625000,C11H15O2-
+3-tBu-bicyclo[1.1.1]pentane-1-CO2 anion,3.627000,C10H15O2-
+3-SiMe3-bicyclo[1.1.1]pentane-1-CO2 anion,3.627000,C9H15O2Si-
+F9Mo2 anion,3.630000,F9Mo2-
+Cd17S4(SPh)28 dianion,3.630000,C168H140Cd17S32-2
+ScC11 radical anion,3.630000,C11Sc-
+Ru3Co(CO)4 anion,3.630000,C4CoO4Ru3-
+"(H2O)16..1,3-O2C-C6H4-CO2 dianion",3.630000,C8H36O20-2
+(Xe)11..I anion,3.635000,IXe11-
+bicyclo[1.1.1]pentane-1-CO2 anion,3.638000,C6H7O2-
+B(BO)3 anion,3.640000,B4O3-
+Au3S anion,3.640000,Au3S-
+Au36 anion,3.642000,Au36-
+Au60 anion,3.642000,Au60-
+ScC15 radical anion,3.650000,C15Sc-
+C17,3.650000,C17
+(N2O)5..I anion,3.651000,IN10O5-
+bicyclo[2.2.2]octene-CO2 anion,3.656000,C9H11O2-
+AlB8 anion,3.660000,AlB8-
+(CO2)4..I anion,3.660000,C4IO8-
+ClOO anion,3.660000,ClO2-
+H2..F anion,3.660000,FH2-
+chromium trioxide,3.660000,CrO3
+Ar..Cl anion,3.664000,ArCl-
+EtOCH2CO2 anion,3.669000,C4H7O3-
+CH2=CHC(Me)2CH2CO2 anion,3.669000,C7H11O2-
+(H2O)5..O2 radical anion,3.670000,H10O7-
+3-Ph-bicyclo[1.1.1]pentane-1-CO2 anion,3.671000,C12H11O2-
+Cyanogen fluoride,3.673000,CFN
+MeOCH2CO2 anion,3.675000,C3H5O3-
+(Xe)12..I anion,3.675000,IXe12-
+Au3,3.675000,Au3
+MeCHClCH2CO2 anion,3.677000,C4H6ClO2-
+Alanine anion,3.678000,C3H6NO2-
+CO2..HO anion,3.680000,CHO3-
+Ru3Co(CO)9 anion,3.680000,C9CoO9Ru3-
+C9,3.684000,C9
+4-OMe-bicyclo[2.2.2]octane-CO2 anion,3.686000,C10H15O3-
+PhCH(Me)CO2 anion,3.686000,C9H9O2-
+Glycine anion,3.687000,C2H4NO2-
+(Xe)13..I anion,3.688000,IXe13-
+"(H2O)10..1,4-O2C-C6H4-CO2 dianion",3.690000,C8H24O14-2
+Au3Mg anion,3.690000,Au3Mg-
+Cr4O10 anion,3.690000,Cr4O10-
+PhCH2CO2 anion,3.690000,C8H7O2-
+mNH2-benzoate anion,3.690000,C7H6NO2-
+MeNHCH2CO2 anion,3.691000,C3H6NO2-
+pCF3-C6H4CðC anion,3.692000,C9H4F3-
+4-Me-bicyclo[2.2.2]octene-CO2 anion,3.695000,C10H13O2-
+HWO4,3.700000,HO4W
+PbF3,3.700000,F3Pb
+C23 anion,3.700000,C23-
+(NO)3 radical anion,3.700000,N3O3-
+YC11 radical anion,3.700000,C11Y-
+3-CO2-pyridinium-N-CH2 anion,3.700000,C7H6NO2-
+2-aza-benzoate anion,3.700000,C6H4NO2-
+Si11Ho anion,3.700000,HoSi11-
+Si10Lu anion,3.700000,LuSi10-
+"3,4,5-triMe-benzoate anion",3.701000,C10H11O2-
+(Ar)2..Cl anion,3.705000,Ar2Cl-
+cubane-CO2,3.708000,C9H7O2
+oF-benzoate anion,3.710000,C7H4FO2-
+Ta2O5 anion,3.710000,O5Ta2-
+Al2O3 radical anion,3.710000,Al2O3-
+"3,5-diMe-benzoate anion",3.718000,C9H9O2-
+(H2O)8..O2C(CH2)6CO2 dianion,3.720000,C8H28O12-2
+pOMe-benzoate anion,3.721000,C8H7O3-
+ClCH2CH2CO2 anion,3.721000,C3H4ClO2-
+MeCOCH2CH2CO2 anion,3.725000,C5H7O3-
+(CO2)5..I anion,3.735000,C5IO10-
+Au37 anion,3.740000,Au37-
+Si10F radical anion,3.740000,FSi10-
+L-Proline anion,3.744000,C5H8NO2-
+piPr-benzoate anion,3.744000,C10H11O2-
+3-Cl-bicyclo[2.2.2]octane-CO2 anion,3.747000,C9H12ClO2-
+(Ar)3..Cl anion,3.749000,Ar3Cl-
+C24 anion,3.750000,C24-
+Al2O5 anion,3.750000,Al2O5-
+pOH-benzoate anion,3.750000,C7H5O3-
+Mo2F9..F anion,3.751000,F10Mo2-
+(N2O)6..I anion,3.752000,IN12O6-
+p-tBu-benzoate anion,3.757000,C11H13O2-
+"2,4-diMe-benzoate anion",3.760000,C9H9O2-
+"(H2O)17..1,3-O2C-C6H4-CO2 dianion",3.760000,C8H38O21-2
+MeSCH2CO2 anion,3.764000,C3H5O2S-
+(H2O)6..O2 radical anion,3.770000,H12O8-
+Ru3Co(CO)11 anion,3.770000,C11CoO11Ru3-
+(NH3)3..I anion,3.770000,H9IN3-
+phenol..I anion,3.770000,C6H6IO-
+3-CO2Me-bicyclo[1.1.1]pentane-1-CO2 anion,3.771000,C8H9O4-
+Au23 anion,3.772000,Au23-
+Au38 anion,3.772000,Au38-
+Au40 anion,3.772000,Au40-
+Au61 anion,3.772000,Au61-
+Au11,3.772000,Au11
+miPr-benzoate anion,3.775000,C10H11O2-
+"2,5-diMe-benzoate anion",3.777000,C9H9O2-
+B13 anion,3.780000,B13-
+mOMe-benzoate anion,3.781000,C8H7O3-
+HSCH2CH2CO2 anion,3.781000,C3H5O2S-
+L-Valine anion,3.784000,C5H10NO2-
+oiPr-benzoate anion,3.784000,C10H11O2-
+(THF)3..I anion,3.784000,C12H24IO3-
+3-COMe-bicyclo[1.1.1]pentane-1-CO2 anion,3.788000,C8H9O3-
+m-tBu-benzoate anion,3.792000,C11H13O2-
+(Ar)4..Cl anion,3.792000,Ar4Cl-
+"2,3-diMe-benzoate anion",3.794000,C9H9O2-
+L-Leucine anion,3.797000,C6H12NO2-
+"2,4,6-triMe-benzoate anion",3.799000,C10H11O2-
+FeF2..FeF3 anion,3.800000,F5Fe2-
+MnF2..F anion,3.800000,F3Mn-
+C27 anion,3.800000,C27-
+Fe3O5 anion,3.800000,Fe3O5-
+Au2Pd radical anion,3.800000,Au2Pd-
+(H2O)9..O2C(CH2)6CO2 dianion,3.800000,C8H30O13-2
+"(H2O)11..1,4-O2C-C6H4-CO2 dianion",3.800000,C8H26O15-2
+Si11Ta anion,3.800000,Si11Ta-
+FCH2CO2 anion,3.800000,C2H2FO2-
+4-CO2Et-bicyclo[2.2.2]octene-CO2 anion,3.803000,C12H15O4-
+UOF3..F anion,3.803000,F4OU-
+DCðCCðCCðC anion,3.805000,C6D-
+N2O..Cl anion,3.807000,ClN2O-
+HCðCCðCCðC anion,3.809000,C6H-
+oNO2-benzoate anion,3.810000,C7H4NO4-
+L-Isoleucine anion,3.810000,C6H12NO2-
+AgAu2 radical,3.810000,AgAu2
+(CO2)2..Br anion,3.811000,C2BrO4-
+p(.)-benzoate anion,3.813000,C7H4O2-
+mOH-benzoate anion,3.816000,C7H5O3-
+4-F-bicyclo[2.2.2]octane-CO2 anion,3.816000,C9H12FO2-
+MoF5..F anion,3.816000,F6Mo-
+"2,3,5,6-tetraMe-benzoate anion",3.816000,C11H13O2-
+UF5 anion,3.820000,F5U-
+NbC7,3.820000,C7Nb
+(NC)2C=CCN anion,3.820000,C5N3-
+"2,6-diMe-benzoate anion",3.825000,C9H9O2-
+(CF3)3C anion,3.827000,C4F9-
+Cl2PO,3.829000,Cl2OP
+Ru3Co(CO)12 anion,3.830000,C12CoO12Ru3-
+3-F-bicyclo[1.1.1]pentane-1-CO2 anion,3.831000,C6H6FO2-
+(Ar)5..Cl anion,3.832000,Ar5Cl-
+Au28 anion,3.837000,Au28-
+Au62 anion,3.837000,Au62-
+Au64 anion,3.837000,Au64-
+Au9,3.837000,Au9
+4-Cl-bicyclo[2.2.2]octane-CO2 anion,3.842000,C9H12ClO2-
+MoOF3..F anion,3.842000,F4MoO-
+PhOCH2CO2 anion,3.842000,C8H7O3-
+(N2O)7..I anion,3.849000,IN14O7-
+(SO2)4..SO2 radical anion,3.850000,O10S5-
+2-aza-3-CO2Me-benzoate anion,3.850000,C8H6NO4-
+Sulfur pentafluoride,3.850000,F5S
+3-CN-bicyclo[2.2.2]octane-CO2 anion,3.855000,C10H12NO2-
+4-CF3-bicyclo[2.2.2]octane-CO2 anion,3.855000,C10H12F3O2-
+4-CO2Me-cubane-CO2 anion,3.855000,C11H9O4-
+m(.)-benzoate anion,3.856000,C7H4O2-
+pNO2-C6H4CðC anion,3.857000,C8H4NO2-
+MeCH(OH)CO2 anion,3.859000,C3H5O3-
+Cyano radical,3.862000,CN
+o(.)-benzoate anion,3.865000,C7H4O2-
+YC13 radical anion,3.870000,C13Y-
+"(H2O)18..1,3-O2C-C6H4-CO2 dianion",3.870000,C8H40O22-2
+OsF4 radical,3.870000,F4Os
+Au2Cu anion,3.870000,Au2Cu-
+YGe16 anion,3.870000,Ge16Y-
+L-Lysine anion,3.870000,C6H13N2O2-
+(Ar)6..Cl anion,3.872000,Ar6Cl-
+4-Br-bicyclo[2.2.2]octane-CO2 anion,3.872000,C9H12BrO2-
+oNH2-benzoate anion,3.874000,C7H6NO2-
+Ru3Co(CO)10 anion,3.880000,C10CoO10Ru3-
+Tetracarbon,3.882000,C4
+EtCHClCO2 anion,3.883000,C4H6ClO2-
+pF-benzoate anion,3.885000,C7H4FO2-
+MeCHClCO2 anion,3.887000,C3H4ClO2-
+Fe2O5 radical anion,3.890000,Fe2O5-
+ScC19 radical anion,3.890000,C19Sc-
+MeCHBrCO2 anion,3.894000,C3H4BrO2-
+EtCHBrCO2 anion,3.894000,C4H6BrO2-
+mCH2Cl-benzoate anion,3.894000,C8H6ClO2-
+L-Tryptophan anion,3.896000,C11H11N2O2-
+3-Cl-bicyclo[1.1.1]pentane-1-CO2 anion,3.896000,C6H6ClO2-
+perfluoromethylcyclohexanide anion,3.900000,C7F13-
+C21 anion,3.900000,C21-
+C25 anion,3.900000,C25-
+As14Ga13 anion,3.900000,As14Ga13-
+Ru3Co(CO)13 anion,3.900000,C13CoO13Ru3-
+(NH3)4..I anion,3.900000,H12IN4-
+"(H2O)12..1,4-O2C-C6H4-CO2 dianion",3.900000,C8H28O16-2
+C35 anion,3.900000,C35-
+B13O anion,3.900000,B13O-
+Au27 anion,3.902000,Au27-
+Au29 anion,3.902000,Au29-
+Au30 anion,3.902000,Au30-
+Au39 anion,3.902000,Au39-
+Au41 anion,3.902000,Au41-
+Au42 anion,3.902000,Au42-
+Au44 anion,3.902000,Au44-
+Au63 anion,3.902000,Au63-
+Au21,3.902000,Au21
+MeCN..Br anion,3.904000,C2H3BrN-
+CF3CH2CH2CO2 anion,3.907000,C4H4F3O2-
+(Ar)7..Cl anion,3.908000,Ar7Cl-
+L-Phenylalanine anion,3.909000,C9H10NO2-
+H2O..Br anion,3.910000,BrH2O-
+LaC13 radical,3.910000,C13La
+4-Br-cubane-CO2 anion,3.911000,C9H6BrO2-
+3-CF3-bicyclo[1.1.1]pentane-1-CO2 anion,3.914000,C7H6F3O2-
+pCH2Cl-benzoate anion,3.916000,C8H6ClO2-
+(H2O)2..I anion,3.920000,H4IO2-
+mF-benzoate anion,3.924000,C7H4FO2-
+NH3..Cl anion,3.929000,ClH3N-
+ClCH2CO2 anion,3.930000,C2H2ClO2-
+O2NCðC anion,3.931000,C2NO2-
+2-CN-bicyclo[2.2.2]octane-CO2 anion,3.933000,C10H12NO2-
+Nitrate Radical,3.937000,NO3
+4-Cl-bicyclo[2.2.2]octene-CO2 anion,3.937000,C9H10ClO2-
+4-CF3-bicyclo[2.2.2]octene-CO2 anion,3.937000,C10H10F3O2-
+L-Methionine anion,3.940000,C5H10NO2S-
+3-Br-bicyclo[1.1.1]pentane-1-CO2 anion,3.940000,C6H6BrO2-
+"(H2O)19..1,3-O2C-C6H4-CO2 dianion",3.940000,C8H42O23-2
+LaC20 radical,3.940000,C20La
+(N2O)8..I anion,3.942000,IN16O8-
+(Ar)8..Cl anion,3.945000,Ar8Cl-
+4-CN-bicyclo[2.2.2]octane-CO2 anion,3.946000,C10H12NO2-
+C29 anion,3.950000,C29-
+C31 anion,3.950000,C31-
+pCl-benzoate anion,3.950000,C7H4ClO2-
+Au66 anion,3.954000,Au66-
+4-NO2-bicyclo[2.2.2]octane-CO2 anion,3.955000,C9H12NO4-
+(CO2)6..I anion,3.958000,C6IO12-
+(H2O)25..O2CCO2 dianion,3.960000,C2H50O29-2
+(H2O)10..O2C(CH2)6CO2 dianion,3.960000,C8H32O14-2
+mCl-benzoate anion,3.963000,C7H4ClO2-
+CF3CðC anion,3.966000,C3F3-
+Au13 anion,3.967000,Au13-
+Au43 anion,3.967000,Au43-
+Au45 anion,3.967000,Au45-
+Au65 anion,3.967000,Au65-
+Au67 anion,3.967000,Au67-
+Au68 anion,3.967000,Au68-
+Au32,3.967000,Au32
+BrCH2CO2 anion,3.970000,C2H2BrO2-
+(THF)4..I anion,3.970000,C16H32IO4-
+HCðCCðCCðCCðC anion,3.970000,C8H-
+(Ar)9..Cl anion,3.980000,Ar9Cl-
+benzene..Cl anion,3.980000,C6H6Cl-
+Al2O4 anion,3.980000,Al2O4-
+ICH2CO2 anion,3.985000,C2H2IO2-
+"(H2O)13..1,4-O2C-C6H4-CO2 dianion",3.990000,C8H30O17-2
+3-aza-benzoate anion,3.998000,C6H4NO2-
+As13Ga12 anion,4.000000,As13Ga12-
+As15Ga14 anion,4.000000,As15Ga14-
+Au57 anion,4.000000,Au57-
+YC15 radical anion,4.000000,C15Y-
+YC18 radical anion,4.000000,C18Y-
+Ga24As24 anion,4.000000,As24Ga24-
+C37 anion,4.000000,C37-
+LaC15 radical,4.000000,C15La
+LaC17 radical,4.000000,C17La
+VO4,4.000000,O4V
+Si10Ho anion,4.000000,HoSi10-
+CF3CH(OH)CH2CH(CF3)O anion,4.000000,C5H5F6O2-
+L-Cysteine anion,4.000000,C3H6NO2S-
+pCOMe-benzoate anion,4.003000,C9H7O3-
+GaO2 anion,4.008000,GaO2-
+(Ar)10..Cl anion,4.011000,Ar10Cl-
+(MeCN)2..I anion,4.019000,C4H6IN2-
+CF3CH2CO2 anion,4.020000,C3H2F3O2-
+YC20 radical anion,4.020000,C20Y-
+"(H2O)20..1,3-O2C-C6H4-CO2 dianion",4.020000,C8H44O24-2
+(CO2)3..Br anion,4.030000,C3BrO6-
+Au69 anion,4.033000,Au69-
+Au17,4.033000,Au17
+(CF3)3CO anion,4.033000,C4F9O-
+MeCOCO2 anion,4.037000,C3H3O3-
+TaB10 anion,4.040000,B10Ta-
+P5 anion,4.040000,P5-
+(H2O)3..N3 anion,4.040000,H6N3O3-
+(Ar)11..Cl anion,4.040000,Ar11Cl-
+(N2O)9..I anion,4.045000,IN18O9-
+4-CN-bicyclo[2.2.2]octene-CO2 anion,4.046000,C10H10NO2-
+pCO2Et-benzoate anion,4.046000,C10H9O4-
+3-CN-bicyclo[1.1.1]pentane-1-CO2 anion,4.048000,C7H6NO2-
+C33 anion,4.050000,C33-
+C60 dianion,4.059000,C60-2
+C60F44 fullerene radical,4.060000,C60F44
+Octatetracontylfluorobuckminsterfullerene,4.060000,C60F48
+Au47 anion,4.065000,Au47-
+pCHO-benzoate anion,4.068000,C8H5O3-
+(H2O)11..O2C(CH2)6CO2 dianion,4.070000,C8H34O15-2
+(Ar)12..Cl anion,4.074000,Ar12Cl-
+L-Serine anion,4.074000,C3H6NO3-
+4-aza-benzoate anion,4.076000,C6H4NO2-
+H2O..MeCO2 anion,4.080000,C2H5O3-
+(Ar)13..Cl anion,4.086000,Ar13Cl-
+pCF3-benzoate anion,4.089000,C8H4F3O2-
+HOCH2CO2 anion,4.089000,C2H3O3-
+"(H2O)14..1,4-O2C-C6H4-CO2 dianion",4.090000,C8H32O18-2
+mCF3-benzoate anion,4.094000,C8H4F3O2-
+Au31 anion,4.098000,Au31-
+Au35 anion,4.098000,Au35-
+Au46 anion,4.098000,Au46-
+Au48 anion,4.098000,Au48-
+(Ar)14..Cl anion,4.099000,Ar14Cl-
+(NH3)5..I anion,4.100000,H15IN5-
+Ga15As16 anion,4.100000,As16Ga15-
+Ga16As17 anion,4.100000,As17Ga16-
+NbB10 anion,4.100000,B10Nb-
+L-Threonine anion,4.100000,C4H8NO3-
+3-NO2-bicyclo[1.1.1]pentane-1-CO2 anion,4.100000,C6H6NO4-
+(CO2)7..I anion,4.102000,C7IO14-
+YC17 radical anion,4.110000,C17Y-
+(Ar)15..Cl anion,4.113000,Ar15Cl-
+L-Arginine anion,4.113000,C6H13N4O2-
+Au16,4.117000,Au16
+L-Glutamine anion,4.117000,C5H9N2O3-
+Fe(SCN)4Na anion,4.120000,C4FeN4NaS4-
+Cu@Au16 anion,4.120000,Au16Cu-
+(N2O)10..I anion,4.122000,IN20O10-
+pCN-C6H4CðC anion,4.126000,C9H4N-
+(H2O)16..O2C(CH2)6CO2 dianion,4.130000,C8H44O20-2
+(THF)5..I anion,4.130000,C20H40IO5-
+(NC)2N anion,4.135000,C2N3-
+L-Asparagine anion,4.145000,C4H7N2O3-
+L-Histidine anion,4.148000,C6H8N3O2-
+F2CHCO2 anion,4.148000,C2HF2O2-
+Au53 anion,4.150000,Au53-
+(N2O)11..I anion,4.165000,IN22O11-
+YC19 radical anion,4.170000,C19Y-
+3-aza-5-CO2Me-benzoate anion,4.170000,C8H6NO4-
+"(H2O)15..1,4-O2C-C6H4-CO2 dianion",4.170000,C8H34O19-2
+"N-Me-pyridinium-3,4-diCO2 anion",4.170000,C8H6NO4-
+Au54 anion,4.176000,Au54-
+Au55 anion,4.176000,Au55-
+NCCH2CO2 anion,4.178000,C3H2NO2-
+Carbon hexamer,4.180000,C6
+OH..Cl anion,4.200000,ClHO-
+Ga17As18 anion,4.200000,As18Ga17-
+Ga23As24 anion,4.200000,As24Ga23-
+Ga24As25 anion,4.200000,As25Ga24-
+(H2O)17..O2C(CH2)6CO2 dianion,4.200000,C8H46O21-2
+titanium trioxide,4.200000,O3Ti
+Au49 anion,4.208000,Au49-
+C3B2 radical anion,4.210000,C3B2-
+FeCl3 anion,4.220000,Cl3Fe-
+(N2O)12..I anion,4.223000,IN24O12-
+AuI2 radical anion,4.226000,AuI2-
+I3 anion,4.226000,I3-
+Au33 anion,4.228000,Au33-
+Au50 anion,4.228000,Au50-
+mNO2-benzoate anion,4.228000,C7H4NO4-
+(H2O)12..O2C(CH2)6CO2 dianion,4.230000,C8H36O16-2
+Aluminum oxide,4.230000,AlO2
+B17 anion,4.230000,B17-
+(CO2)8..I anion,4.235000,C8IO16-
+(NH3)6..I anion,4.240000,H18IN6-
+"(H2O)16..1,4-O2C-C6H4-CO2 dianion",4.250000,C8H36O20-2
+Chlorine trioxide,4.250000,ClO3
+(CrO3)2 radical anion,4.250000,Cr2O6-
+"N-Me-pyridinium-2,3-diCO2 anion",4.250000,C8H6NO4-
+4-aza-3-CO2Me-benzoate anion,4.250000,C8H6NO4-
+(THF)6..I anion,4.250000,C24H48IO6-
+LiB2O3 radical anion,4.250000,B2LiO3-
+(CO2)4..Br anion,4.254000,C4BrO8-
+mCN-benzoate anion,4.254000,C8H4NO2-
+CuI2 anion,4.256000,CuI2-
+Cl2CHCO2 anion,4.260000,C2HCl2O2-
+FeBr3 anion,4.260000,Br3Fe-
+Tetravanadium decaoxide,4.260000,O10V4
+Au51 anion,4.260000,Au51-
+Br2CHCO2 anion,4.263000,C2HBr2O2-
+pNO2-benzoate anion,4.271000,C7H4NO4-
+FCO2 anion,4.277000,CFO2-
+pCN-benzoate anion,4.284000,C8H4NO2-
+C60F17 anion,4.285000,C60F17-
+(CO2)2..Cl anion,4.290000,C2ClO4-
+(H2O)3..I anion,4.290000,H6IO3-
+LaC19 radical,4.290000,C19La
+Au52 anion,4.293000,Au52-
+Au56 anion,4.293000,Au56-
+Ga18As19 anion,4.300000,As19Ga18-
+Ga19As20 anion,4.300000,As20Ga19-
+Ga20As21 anion,4.300000,As21Ga20-
+Ga21As22 anion,4.300000,As22Ga21-
+Ga22As23 anion,4.300000,As23Ga22-
+(H2O)18..O2C(CH2)6CO2 dianion,4.300000,C8H48O22-2
+U2F9 anion,4.302000,F9U2-
+Cyanoethynyl radical,4.305000,C3N
+Cr3O8 anion,4.310000,Cr3O8-
+V6O15 anion,4.320000,O15V6-
+"(H2O)17..1,4-O2C-C6H4-CO2 dianion",4.320000,C8H38O21-2
+HO2C(CH2)3CO2 anion,4.332000,C5H7O4-
+B19 anion,4.340000,B19-
+(H2O)13..O2C(CH2)6CO2 dianion,4.340000,C8H38O17-2
+MeCN..Cl anion,4.343000,C2H3ClN-
+CuBr2 radical anion,4.350000,Br2Cu-
+(NH3)7..I anion,4.350000,H21IN7-
+copper dichloride,4.350000,Cl2Cu
+(CO2)9..I anion,4.355000,C9IO18-
+Au58 anion,4.358000,Au58-
+manganese difluoride,4.358000,F2Mn
+VO3 radical anion,4.360000,O3V-
+(THF)7..I anion,4.360000,C28H56IO7-
+HO2C(CH2)8CO2 anion,4.367000,C10H17O4-
+W3O8 anion,4.370000,O8W3-
+H2O..Cl anion,4.370000,ClH2O-
+C8,4.379000,C8
+"(H2O)18..1,4-O2C-C6H4-CO2 dianion",4.380000,C8H40O22-2
+"(H2O)19..1,4-O2C-C6H4-CO2 dianion",4.380000,C8H42O23-2
+(H2O)4..N3 anion,4.380000,H8N3O4-
+B21 anion,4.380000,B21-
+oOH-benzoate anion,4.382000,C7H5O3-
+(H2O)14..O2C(CH2)6CO2 dianion,4.390000,C8H40O18-2
+CF3O anion,4.391000,CF3O-
+(CO2)10..I anion,4.392000,C10IO20-
+YbCl3..Cl anion,4.400000,Cl4Yb-
+CrO5 radical anion,4.400000,CrO5-
+(H2O)30..O2CCO2 dianion,4.400000,C2H60O34-2
+(H2O)19..O2C(CH2)6CO2 dianion,4.400000,C8H50O23-2
+HO2C(CH2)4CO2 anion,4.401000,C6H9O4-
+(MeCN)2..Br anion,4.404000,C4H6BrN2-
+(H2O)15..O2C(CH2)6CO2 dianion,4.410000,C8H42O19-2
+W4O10 anion,4.410000,O10W4-
+HO2C(CH2)5CO2 anion,4.423000,C7H11O4-
+(THF)8..I anion,4.430000,C32H64IO8-
+"3,5-diCF3-benzoate anion",4.432000,C9H3F6O2-
+I2Br anion,4.433000,BrI2-
+(CO2)5..Br anion,4.435000,C5BrO10-
+(CO2)11..I anion,4.437000,C11IO22-
+(MeCN)3..I anion,4.439000,C6H9IN3-
+(CrO3)3 radical anion,4.440000,Cr3O9-
+B3(BO)2 anion,4.440000,B5O2-
+(H2O)2..Br anion,4.440000,BrH4O2-
+HO2CCO2 anion,4.440000,C2HO4-
+HO2C(CH2)6CO2 anion,4.449000,C8H13O4-
+Fe2F6 anion,4.450000,F6Fe2-
+VF4..F anion,4.450000,F5V-
+"(H2O)20..1,4-O2C-C6H4-CO2 dianion",4.450000,C8H44O24-2
+Pt(SC(CN)=C(CN)S)2 anion,4.450000,C8N4PtS4-
+FeF3..FeF4 anion,4.450000,F7Fe2-
+V8O20 anion,4.450000,O20V8-
+NCCðCCðC anion,4.450000,C5N-
+Au59 anion,4.455000,Au59-
+CF3CO2 anion,4.457000,C2F3O2-
+Boron dioxide,4.460000,BO2
+pentafluorobenzoate anion,4.467000,C7F5O2-
+HO2C(CH2)7CO2 anion,4.467000,C9H15O4-
+(NH3)8..I anion,4.480000,H24IN8-
+U2F10 anion,4.500000,F10U2-
+(H2O)20..O2C(CH2)6CO2 dianion,4.500000,C8H52O24-2
+TeF5,4.500000,F5Te
+"2-Propenenitrile, 2-chloro-",4.500000,C3H2ClN
+H2O..(NC)2N anion,4.500000,C2H2N3O-
+(CO2)12..I anion,4.506000,C12IO24-
+HO2C(CH2)2CO2 anion,4.510000,C4H5O4-
+(THF)9..I anion,4.510000,C36H72IO9-
+Au4S anion,4.510000,Au4S-
+NdCl3..Cl anion,4.519000,Cl4Nd-
+CsI..I anion,4.520000,CsI2-
+(THF)10..I anion,4.520000,C40H80IO10-
+H2O..CN anion,4.540000,CH2NO-
+(H2O)5..N3 anion,4.540000,H10N3O5-
+nC3F7CO2 anion,4.540000,C4F7O2-
+Pd(SC(CN)=C(CN)S)2 anion,4.550000,C8N4PdS4-
+(H2O)2..MeCO2 anion,4.550000,C2H7O4-
+(THF)11..I anion,4.550000,C44H88IO11-
+(CO2)13..I anion,4.552000,C13IO26-
+Ni(SC(CN)=C(CN)S)2 anion,4.560000,C8N4NiS4-
+H2PO4 anion,4.570000,H2O4P-
+(THF)12..I anion,4.580000,C48H96IO12-
+(H2O)4..I anion,4.590000,H8IO4-
+C6F13 anion,4.600000,C6F13-
+C70F52 fullerene radical,4.600000,C70F52
+C70F54 fullerene radical,4.600000,C70F54
+CoBr3 anion,4.600000,Br3Co-
+BrO3 anion,4.600000,BrO3-
+(THF)13..I anion,4.600000,C52H104IO13-
+HO2CCH2CO2 anion,4.601000,C3H3O4-
+(CO2)6..Br anion,4.608000,C6BrO12-
+(CrO3)4 radical anion,4.610000,Cr4O12-
+Br3 anion,4.618000,Br3-
+(THF)14..I anion,4.619000,C56H112IO14-
+(THF)15..I anion,4.630000,C60H120IO15-
+(THF)16..I anion,4.640000,C64H128IO16-
+Fe(SCN)3 anion,4.640000,C3FeN3S3-
+Cl3 anion,4.640000,Cl3-
+AlS2 anion,4.660000,AlS2-
+SiF4..F anion,4.660000,F5Si-
+(THF)17..I anion,4.660000,C68H136IO17-
+(THF)19..I anion,4.660000,C76H152IO19-
+IrF4 radical,4.670000,F4Ir
+(THF)18..I anion,4.670000,C72H144IO18-
+(THF)20..I anion,4.670000,C80H160IO20-
+(H2O)35..O2CCO2 dianion,4.670000,C2H70O39-2
+(THF)21..I anion,4.690000,C84H168IO21-
+(THF)22..I anion,4.694000,C88H176IO22-
+(THF)23..I anion,4.694000,C92H184IO23-
+Co(SC(CN)=C(CN)S)2 anion,4.700000,C8CoN4S4-
+CoCl3 anion,4.700000,Cl3Co-
+IO3 anion,4.700000,IO3-
+(THF)24..I anion,4.700000,C96H192IO24-
+(THF)25..I anion,4.700000,C100H200IO25-
+(H2O)6..N3 anion,4.700000,H12N3O6-
+FSO3 anion,4.710000,FO3S-
+(THF)26..I anion,4.720000,C104H208IO26-
+(THF)27..I anion,4.724000,C108H216IO27-
+(THF)28..I anion,4.730000,C112H224IO28-
+(THF)29..I anion,4.739000,C116H232IO29-
+Fe(SC(CN)=C(CN)S)2 anion,4.740000,C8FeN4S4-
+RuF4 radical anion,4.750000,F4Ru-
+N-CH2CO2-pyridinium-2-CO2 anion,4.750000,C8H6NO4-
+(THF)30..I anion,4.750000,C120H240IO30-
+HSO4 anion,4.750000,HO4S-
+(MeCN)4..I anion,4.759000,C8H12IN4-
+(H2O)40..O2CCO2 dianion,4.760000,C2H80O44-2
+(CO2)7..Br anion,4.766000,C7BrO14-
+Ph2Ag anion,4.770000,C12H10Ag-
+(H2O)5..I anion,4.770000,H10IO5-
+(CrO3)5 radical anion,4.800000,Cr5O15-
+(CrO3)5 radical anion,4.800000,Cr5O15-
+MnO4 anion,4.800000,MnO4-
+H2O..F anion,4.800000,FH2O-
+"N-Me-pyridinium-2,4-diCO2 anion",4.830000,C8H6NO4-
+NaI2 anion,4.840000,I2Na-
+(H2O)7..N3 anion,4.840000,H14N3O7-
+"N-Me-pyridinium-3,5-diCO2 anion",4.850000,C8H6NO4-
+(MeCN)3..Br anion,4.854000,C6H9BrN3-
+(MeCN)2..Cl anion,4.863000,C4H6ClN2-
+BrCl2 anion,4.864000,BrCl2-
+LiI2 anion,4.880000,I2Li-
+(H2O)2..(NC)2N anion,4.880000,C2H4N3O2-
+HCl..Cl anion,4.896000,Cl2H-
+(H2O)3..Br anion,4.910000,BrH6O3-
+C60F33,4.920000,C60F33
+Al3O5 radical,4.920000,Al3O5
+(CO2)8..Br anion,4.925000,C8BrO16-
+NiBr3 anion,4.940000,Br3Ni-
+B4(BO)3 anion,4.940000,B7O3-
+PO3 anion,4.950000,O3P-
+Cu(SC(CN)=C(CN)S)2 anion,4.960000,C8CuN4S4-
+CrO4 radical,4.964000,CrO4
+(H2O)2..Cl anion,4.970000,ClH4O2-
+(H2O)8..N3 anion,4.980000,H16N3O8-
+C60F35 anion,4.980000,C60F35-
+C4B radical anion,4.990000,C4B-
+(MeOH)3..MeCO2 anion,5.000000,C5H15O5-
+(CF3)2C(OH)C(CF3)2O anion,5.000000,C6HF12O2-
+(MeOH)3..MeCO2 anion,5.000000,C5H15O5-
+(CF3)2C(OH)C(CF3)2O anion,5.000000,C6HF12O2-
+PhSO3 anion,5.000000,C6H5O3S-
+(CO2)9..Br anion,5.002000,C9BrO18-
+"N-Me-pyridinium-2,5-diCO2 anion",5.020000,C8H6NO4-
+MnBr3 anion,5.030000,Br3Mn-
+Uranium hexafluoride,5.056000,F6U
+MnCl3 anion,5.070000,Cl3Mn-
+Cu(BO2)2 anion,5.070000,B2CuO4-
+"N-Me-pyridinium-2,6-diCO2 anion",5.080000,C8H6NO4-
+(CO2)10..Br anion,5.081000,C10BrO20-
+SeF5,5.100000,F5Se
+SO4 radical,5.100000,O4S
+(CO2)11..Br anion,5.102000,C11BrO22-
+(MeCN)6..I anion,5.109000,C12H18IN6-
+(H2O)6..I anion,5.110000,H12IO6-
+(H2O)9..N3 anion,5.120000,H18N3O9-
+(H2O)3..(NC)2N anion,5.120000,C2H6N3O3-
+N-CH2CO2-pyridinium-4-CO2 anion,5.120000,C8H6NO4-
+N-CH2CO2-pyridinium-3-CO2 anion,5.140000,C8H6NO4-
+rhenium hexafluoride,5.140000,F6Re
+Ta2O7 anion,5.150000,O7Ta2-
+RuF4..F anion,5.190000,F5Ru-
+Platinum tetrafluoride,5.199000,F4Pt
+NiCl3 anion,5.200000,Cl3Ni-
+NiCl3 anion,5.200000,Cl3Ni-
+(H2O)2..CN anion,5.200000,CH4NO2-
+(H2O)7..I anion,5.200000,H14IO7-
+(H2O)4..Br anion,5.210000,BrH8O4-
+(MeCN)5..I anion,5.219000,C10H15IN5-
+(H2O)4..(NC)2N anion,5.220000,C2H8N3O4-
+(MeCN)4..Br anion,5.224000,C8H12BrN4-
+(H2O)8..I anion,5.230000,H16IO8-
+Nb2O7 anion,5.250000,Nb2O7-
+ClO4 anion,5.250000,ClO4-
+(H2O)10..N3 anion,5.250000,H20N3O10-
+CuF2..F anion,5.260000,CuF3-
+(MeCN)7..I anion,5.269000,C14H21IN7-
+Ta2O6 anion,5.280000,O6Ta2-
+CF3SO3 anion,5.300000,CF3O3S-
+(H2O)11..N3 anion,5.340000,H22N3O11-
+Nb2O6 anion,5.350000,Nb2O6-
+NaBr2 anion,5.360000,Br2Na-
+(H2O)12..N3 anion,5.370000,H24N3O12-
+(H2O)5..(NC)2N anion,5.380000,C2H10N3O5-
+(MeCN)3..Cl anion,5.383000,C6H9ClN3-
+(MeCN)8..I anion,5.399000,C16H24IN8-
+(H2O)9..I anion,5.400000,H18IO9-
+LiBr2 anion,5.420000,Br2Li-
+(H2O)6..(NC)2N anion,5.420000,C2H12N3O6-
+RhF4 anion,5.430000,F4Rh-
+(H2O)13..N3 anion,5.450000,H26N3O13-
+(H2O)10..I anion,5.460000,H20IO10-
+(MeCN)5..Br anion,5.474000,C10H15BrN5-
+(H2O)5..Br anion,5.480000,BrH10O5-
+(H2O)11..I anion,5.490000,H22IO11-
+(H2O)14..N3 anion,5.490000,H28N3O14-
+(H2O)3..Cl anion,5.500000,ClH6O3-
+FeBr4 anion,5.500000,Br4Fe-
+(MeCN)9..I anion,5.509000,C18H27IN9-
+(H2O)12..I anion,5.550000,H24IO12-
+C60F43 anion,5.550000,C60F43-
+Cr2O7 anion,5.570000,Cr2O7-
+ReO4 anion,5.580000,O4Re-
+(H2O)7..(NC)2N anion,5.580000,C2H14N3O7-
+(H2O)3..CN anion,5.580000,CH6NO3-
+(H2O)15..N3 anion,5.580000,H30N3O15-
+UO2I3 anion,5.600000,I3O2U-
+MnF3..F anion,5.600000,F4Mn-
+(MeCN)10..I anion,5.619000,C20H30IN10-
+(H2O)16..N3 anion,5.620000,H32N3O16-
+C60F45 anion,5.620000,C60F45-
+(H2O)13..I anion,5.630000,H26IO13-
+(H2O)14..I anion,5.640000,H28IO14-
+(H2O)15..I anion,5.690000,H30IO15-
+Fe(SCN)4 anion,5.700000,C4FeN4S4-
+(MeCN)11..I anion,5.709000,C22H33IN11-
+(MeCN)6..Br anion,5.714000,C12H18BrN6-
+(H2O)8..(NC)2N anion,5.720000,C2H16N3O8-
+(H2O)16..I anion,5.740000,H32IO16-
+(MeCN)20..I anion,5.749000,C40H60IN20-
+(H2O)6..Br anion,5.750000,BrH12O6-
+(MeCN)14..I anion,5.759000,C28H42IN14-
+(MeCN)15..I anion,5.759000,C30H45IN15-
+(MeCN)16..I anion,5.759000,C32H48IN16-
+(MeCN)4..Cl anion,5.773000,C8H12ClN4-
+(MeCN)25..I anion,5.779000,C50H75IN25-
+(H2O)2..F anion,5.790000,FH4O2-
+(MeCN)12..I anion,5.799000,C24H36IN12-
+(MeCN)13..I anion,5.799000,C26H39IN13-
+(H2O)9..(NC)2N anion,5.800000,C2H18N3O9-
+(MeCN)7..Br anion,5.844000,C14H21BrN7-
+(H2O)10..(NC)2N anion,5.850000,C2H20N3O10-
+NaCl2 anion,5.860000,Cl2Na-
+(MeCN)30..I anion,5.869000,C60H90IN30-
+(H2O)4..CN anion,5.890000,CH8NO4-
+(H2O)4..Cl anion,5.920000,ClH8O4-
+LiCl2 anion,5.920000,Cl2Li-
+osmium hexafluoride,5.930000,F6Os
+(MeCN)35..I anion,5.949000,C70H105IN35-
+(H2O)11..(NC)2N anion,5.950000,C2H22N3O11-
+H(IO3)2 anion,5.950000,HI2O6-
+(H2O)12..(NC)2N anion,5.980000,C2H24N3O12-
+Sc(SCN)4 anion,5.980000,C4NSSc-
+FeCl4 anion,6.000000,Cl4Fe-
+MgBr3 anion,6.000000,Br3Mg-
+SbF5..F anion,6.000000,F6Sb-
+(MeCN)8..Br anion,6.004000,C16H24BrN8-
+(H2O)7..Br anion,6.010000,BrH14O7-
+(MeCN)5..Cl anion,6.023000,C10H15ClN5-
+IO4 anion,6.050000,IO4-
+AuB2O3 radical anion,6.050000,AuB2O3-
+(H2O)5..CN anion,6.090000,CH10NO5-
+CrF4..F anion,6.100000,CrF5-
+U2F11 anion,6.100000,F11U2-
+CaBr3 anion,6.100000,Br3Ca-
+(H2O)8..Br anion,6.120000,BrH16O8-
+(MeCN)9..Br anion,6.124000,C18H27BrN9-
+(MeCN)45..I anion,6.129000,C90H135IN45-
+ScBr4 anion,6.130000,Br4Sc-
+(MeCN)40..I anion,6.149000,C80H120IN40-
+(H2O)9..Br anion,6.190000,BrH18O9-
+(H2O)5..Cl anion,6.210000,ClH10O5-
+(H2O)10..Br anion,6.220000,BrH20O10-
+(MeCN)50..I anion,6.239000,C100H150IN50-
+UO2F3 anion,6.250000,F3O2U-
+(MeCN)55..I anion,6.269000,C110H165IN55-
+UO2Br3 anion,6.270000,Br3O2U-
+(MeCN)6..Cl anion,6.273000,C12H18ClN6-
+(MeCN)10..Br anion,6.274000,C20H30BrN10-
+EuCl4 radical anion,6.288000,Cl4Eu-
+(H2O)11..Br anion,6.290000,BrH22O11-
+Mo2O7 anion,6.300000,Mo2O7-
+Na3Cl4 anion,6.300000,Cl4Na3-
+K(IO3)2 anion,6.300000,I2KO6-
+Li(IO3)2 anion,6.320000,I2LiO6-
+(MeCN)11..Br anion,6.324000,C22H33BrN11-
+Na(IO3)2 anion,6.350000,I2NaO6-
+(MeCN)12..Br anion,6.374000,C24H36BrN12-
+(MeCN)13..Br anion,6.394000,C26H39BrN13-
+CoF3..F anion,6.400000,CoF4-
+(H2O)12..Br anion,6.400000,BrH24O12-
+(MeCN)14..Br anion,6.424000,C28H42BrN14-
+(MeCN)15..Br anion,6.424000,C30H45BrN15-
+(MeCN)20..Br anion,6.424000,C40H60BrN20-
+(MeCN)7..Cl anion,6.443000,C14H21ClN7-
+(MeCN)17..Br anion,6.444000,C34H51BrN17-
+Na2Cl3 anion,6.460000,Cl3Na2-
+RuF6,6.470000,F6Ru
+(H2O)13..Br anion,6.480000,BrH26O13-
+PtF5 anion,6.500000,F5Pt-
+iridium hexafluoride,6.500000,F6Ir
+W2O7,6.500000,O7W2
+WF6..F anion,6.505000,F7W-
+(MeCN)25..Br anion,6.514000,C50H75BrN25-
+(MeCN)30..Br anion,6.554000,C60H90BrN30-
+(MeCN)8..Cl anion,6.563000,C16H24ClN8-
+(H2O)6..Cl anion,6.580000,ClH12O6-
+(H2O)3..F anion,6.590000,FH6O3-
+MgCl3 anion,6.600000,Cl3Mg-
+(H2O)15..Br anion,6.600000,BrH30O15-
+(MeCN)35..Br anion,6.604000,C70H105BrN35-
+CaCl3 anion,6.620000,CaCl3-
+(H2O)14..Br anion,6.620000,BrH28O14-
+UO2Cl3 anion,6.640000,Cl3O2U-
+(MeCN)40..Br anion,6.644000,C80H120BrN40-
+(H2O)16..Br anion,6.700000,BrH32O16-
+(MeCN)9..Cl anion,6.753000,C18H27ClN9-
+ScCl4 anion,6.840000,Cl4Sc-
+(MeCN)10..Cl anion,6.843000,C20H30ClN10-
+(H2O)7..Cl anion,6.880000,ClH14O7-
+(MeCN)12..Cl anion,6.903000,C24H36ClN12-
+(MeCN)11..Cl anion,6.923000,C22H33ClN11-
+(MeCN)14..Cl anion,6.923000,C28H42ClN14-
+(MeCN)15..Cl anion,6.923000,C30H45ClN15-
+(MeCN)13..Cl anion,6.943000,C26H39ClN13-
+(MeCN)18..Cl anion,6.963000,C36H54ClN18-
+platinum hexafluoride,7.000000,F6Pt
+Na4Cl5 anion,7.000000,Cl5Na4-
+YCl4 anion,7.020000,Cl4Y-
+LaCl3..Cl anion,7.030000,Cl4La-
+(MeCN)23..Cl anion,7.083000,C46H69ClN23-
+(MeCN)28..Cl anion,7.173000,C56H84ClN28-
+(MeCN)33..Cl anion,7.233000,C66H99ClN33-
+(H2O)4..F anion,7.350000,FH8O4-
